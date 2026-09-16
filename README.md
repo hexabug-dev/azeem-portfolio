@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Azeem Gbadamosi — Portfolio
 
-## Getting Started
+Rebuilt from [azeemolawale.com](https://www.azeemolawale.com) as editable, self-hosted source: Next.js (App Router) + TypeScript + Tailwind CSS + framer-motion, ready to deploy to Vercel.
 
-First, run the development server:
+## Structure
+
+- `src/lib/data.ts` — all content (case studies, playground projects, blog posts, testimonials). Edit this file to change copy without touching components.
+- `src/components/Sidebar.tsx` / `MobileNav.tsx` — the left icon nav (desktop) and bottom tab bar (mobile).
+- `src/components/Reveal.tsx` — scroll-triggered fade/slide-in wrapper used across every page.
+- `src/components/CaseStudyCard.tsx` — the hover-zoom project card used on Home and the case studies list.
+- `src/app/User-Experience-Interaction-Design/[slug]/page.tsx` — one template that renders every case study from `data.ts`.
+- `src/app/blog/[slug]/page.tsx` — same pattern for blog posts.
+- `public/images/` — all images downloaded from the original Framer site.
+
+## Run locally
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Deploy to Vercel
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+npx vercel
+```
+or connect the repo at vercel.com/new — no config needed, it's a standard Next.js app.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Known gaps vs. the original
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Contact page "Schedule a call"** button currently links to `#` — set it to your real Calendly/Cal.com link in `src/app/contact/page.tsx`.
+- **Contact form** doesn't send anywhere yet — wire it to an email service (Resend, Formspree, etc.) or an API route.
+- **"View Full Preview" / "View Copy of UX Audit"** links point to your original Google Drive folder — swap per case study in `data.ts` if you want dedicated links.
+- The two "coming soon" case studies (Waqtly, Tallinn Digital Twin) mirror the original's placeholder state.
+- The original site's `framer.com/edit` iframe seen while signed in is Framer's own editor overlay, not site content — nothing to replicate there.
