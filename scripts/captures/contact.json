@@ -1,0 +1,542 @@
+{
+  "url": "https://azeemolawale.com/contact",
+  "title": "Azeem Gbadamosi",
+  "scrollHeight": 1247,
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "Contact",
+      "html": "Contact",
+      "tag": "h1",
+      "fontSize": 40,
+      "fontWeight": "700",
+      "fontFamily": "Space Grotesk",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "60px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 128,
+        "w": 904,
+        "h": 60
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Get in touch for design inquiries",
+      "html": "Get in touch for design inquiries",
+      "tag": "p",
+      "fontSize": 18,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "32.4px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 196,
+        "w": 904,
+        "h": 32
+      }
+    },
+    {
+      "kind": "text",
+      "text": "azeem@tazcreative.io",
+      "html": "azeem@tazcreative.io",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 310,
+        "w": 436,
+        "h": 29
+      }
+    },
+    {
+      "kind": "text",
+      "text": "E-mail",
+      "html": "E-mail",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 343,
+        "w": 436,
+        "h": 25
+      }
+    },
+    {
+      "kind": "text",
+      "text": "+372 5378 5825",
+      "html": "+372 5378 5825",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 876,
+        "y": 310,
+        "w": 436,
+        "h": 29
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Phone",
+      "html": "Phone",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 876,
+        "y": 343,
+        "w": 436,
+        "h": 25
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Schedule a call",
+      "html": "Schedule a call",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": "./about",
+      "rect": {
+        "x": 428,
+        "y": 418,
+        "w": 101,
+        "h": 25
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Copy e-mail\nCopied!",
+      "html": "Copy e-mailCopy e-mailCopied!",
+      "tag": "div",
+      "fontSize": 12,
+      "fontWeight": "400",
+      "fontFamily": "sans-serif",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "normal",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 567,
+        "y": 408,
+        "w": 138,
+        "h": 44
+      }
+    },
+    {
+      "kind": "button",
+      "label": "Copy e-mail\nCopied!",
+      "rect": {
+        "x": 567,
+        "y": 408,
+        "w": 138,
+        "h": 44
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Copy e-mail",
+      "html": "Copy e-mail",
+      "tag": "span",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "16px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 591,
+        "y": 422,
+        "w": 91,
+        "h": 16
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Copied!",
+      "html": "Copied!",
+      "tag": "span",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "16px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 607,
+        "y": 422,
+        "w": 58,
+        "h": 16
+      }
+    },
+    {
+      "kind": "svg",
+      "html": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102))\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M1 3.75C1 2.23122 2.23122 1 3.75 1H12.25C13.7688 1 15 2.23122 15 3.75V5H16.25C17.7688 5 19 6.23122 19 7.75V16.25C19 17.7688 17.7688 19 16.25 19H7.75C6.23122 19 5 17.7688 5 16.25V15H3.75C2.23122 15 1 13.7688 1 12.25V3.75ZM5 13.5V7.75C5 6.23122 6.23122 5 7.75 5H13.5V3.75C13.5 3.05964 12.9404 2.5 12.25 2.5H3.75C3.05964 2.5 2.5 3.05964 2.5 3.75V12.25C2.5 12.9404 3.05964 13.5 3.75 13.5H5ZM7.75 6.5C7.05964 6.5 6.5 7.05964 6.5 7.75V16.25C6.5 16.9404 7.05964 17.5 7.75 17.5H16.25C16.9404 17.5 17.5 16.9404 17.5 16.25V7.75C17.5 7.05964 16.9404 6.5 16.25 6.5H7.75Z\"></path></svg>",
+      "rect": {
+        "x": 586,
+        "y": 420,
+        "w": 20,
+        "h": 20
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Copy email",
+      "html": "Copy email",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 614,
+        "y": 418,
+        "w": 73,
+        "h": 25
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Send a message",
+      "html": "Send a message",
+      "tag": "h2",
+      "fontSize": 26,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "39px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 572,
+        "w": 904,
+        "h": 39
+      }
+    },
+    {
+      "kind": "field",
+      "type": "text",
+      "name": "name",
+      "placeholder": "Name",
+      "required": false,
+      "rect": {
+        "x": 408,
+        "y": 643,
+        "w": 442,
+        "h": 54
+      }
+    },
+    {
+      "kind": "field",
+      "type": "email",
+      "name": "email",
+      "placeholder": "Email",
+      "required": false,
+      "rect": {
+        "x": 870,
+        "y": 643,
+        "w": 442,
+        "h": 54
+      }
+    },
+    {
+      "kind": "field",
+      "type": "textarea",
+      "name": "message",
+      "placeholder": "Message",
+      "required": false,
+      "rows": 2,
+      "rect": {
+        "x": 408,
+        "y": 718,
+        "w": 904,
+        "h": 141
+      }
+    },
+    {
+      "kind": "field",
+      "type": "submit",
+      "name": "",
+      "placeholder": "",
+      "required": false,
+      "rect": {
+        "x": 408,
+        "y": 879,
+        "w": 904,
+        "h": 54
+      }
+    },
+    {
+      "kind": "text",
+      "text": "© 2026 Azeem",
+      "html": "© 2026 Azeem",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(153, 153, 153)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 1093,
+        "w": 904,
+        "h": 25
+      }
+    }
+  ],
+  "links": [
+    {
+      "href": "./",
+      "text": "Azeem Gbadamosi\n\nInteraction Designer"
+    },
+    {
+      "href": "https://www.instagram.com/theabdulazeem.creative/",
+      "text": ""
+    },
+    {
+      "href": "https://www.behance.net/firstazeem",
+      "text": ""
+    },
+    {
+      "href": "https://www.linkedin.com/in/firstazeem/",
+      "text": ""
+    },
+    {
+      "href": "./",
+      "text": "Home"
+    },
+    {
+      "href": "./User-Experience-Interaction-Design",
+      "text": "Products"
+    },
+    {
+      "href": "./visual-playground",
+      "text": "Playground"
+    },
+    {
+      "href": "./about",
+      "text": "About"
+    },
+    {
+      "href": "./blog",
+      "text": "Blog"
+    },
+    {
+      "href": "./contact",
+      "text": "Contact"
+    },
+    {
+      "href": "./about",
+      "text": "Schedule a call"
+    }
+  ],
+  "chrome": {
+    "navItems": [
+      {
+        "href": "./",
+        "label": "Azeem Gbadamosi\n\nInteraction Designer",
+        "svg": null,
+        "img": "https://framerusercontent.com/images/jjQiVkJ7P7L2gLbhkHRgZioVA.png?scale-down-to=1024",
+        "rect": {
+          "x": 61,
+          "y": 40,
+          "w": 158,
+          "h": 125
+        }
+      },
+      {
+        "href": "https://www.instagram.com/theabdulazeem.creative/",
+        "label": "",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\" style=\"fill: var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102));\"><title>Instagram</title><path d=\"M7.0301.084c-1.2768.0602-2.1487.264-2.911.5634-.7888.3075-1.4575.72-2.1228 1.3877-.6652.6677-1.075 1.3368-1.3802 2.127-.2954.7638-.4956 1.6365-.552 2.914-.0564 1.2775-.0689 1.6882-.0626 4.947.0062 3.2586.0206 3.6671.0825 4.9473.061 1.2765.264 2.1482.5635 2.9107.308.7889.72 1.4573 1.388 2.1228.6679.6655 1.3365 1.0743 2.1285 1.38.7632.295 1.6361.4961 2.9134.552 1.2773.056 1.6884.069 4.9462.0627 3.2578-.0062 3.668-.0207 4.9478-.0814 1.28-.0607 2.147-.2652 2.9098-.5633.7889-.3086 1.4578-.72 2.1228-1.3881.665-.6682 1.0745-1.3378 1.3795-2.1284.2957-.7632.4966-1.636.552-2.9124.056-1.2809.0692-1.6898.063-4.948-.0063-3.2583-.021-3.6668-.0817-4.9465-.0607-1.2797-.264-2.1487-.5633-2.9117-.3084-.7889-.72-1.4568-1.",
+        "img": null,
+        "rect": {
+          "x": 80,
+          "y": 197,
+          "w": 32,
+          "h": 32
+        }
+      },
+      {
+        "href": "https://www.behance.net/firstazeem",
+        "label": "",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\" style=\"fill: var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102));\"><title>Behance</title><path d=\"M16.969 16.927a2.561 2.561 0 0 0 1.901.677 2.501 2.501 0 0 0 1.531-.475c.362-.235.636-.584.779-.99h2.585a5.091 5.091 0 0 1-1.9 2.896 5.292 5.292 0 0 1-3.091.88 5.839 5.839 0 0 1-2.284-.433 4.871 4.871 0 0 1-1.723-1.211 5.657 5.657 0 0 1-1.08-1.874 7.057 7.057 0 0 1-.383-2.393c-.005-.8.129-1.595.396-2.349a5.313 5.313 0 0 1 5.088-3.604 4.87 4.87 0 0 1 2.376.563c.661.362 1.231.87 1.668 1.485a6.2 6.2 0 0 1 .943 2.133c.194.821.263 1.666.205 2.508h-7.699c-.063.79.184 1.574.688 2.187ZM6.947 4.084a8.065 8.065 0 0 1 1.928.198 4.29 4.29 0 0 1 1.49.638c.418.303.748.711.958 1.182.241.579.357 1.203.341 1.83a3.506 3.506 0 0 1-.506 1.961 3.726 3.726 0 0 1-1.503 1.287 3.588 3.588 0 0 1 2.027 1.437c.464.747.697 1.615.67 ",
+        "img": null,
+        "rect": {
+          "x": 124,
+          "y": 197,
+          "w": 32,
+          "h": 32
+        }
+      },
+      {
+        "href": "https://www.linkedin.com/in/firstazeem/",
+        "label": "",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\" style=\"fill: var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102));\"><title>LinkedIn</title><path d=\"M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z\"></path></svg>",
+        "img": null,
+        "rect": {
+          "x": 168,
+          "y": 197,
+          "w": 32,
+          "h": 32
+        }
+      },
+      {
+        "href": "./",
+        "label": "Home",
+        "svg": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102)) /* {&quot;name&quot;:&quot;Tertiary&quot;} */\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M9.5742 1.13259C9.83054 0.955803 10.1695 0.955803 10.4258 1.13259L16.8113 5.53636C17.5556 6.04967 18 6.89605 18 7.8002V16.25C18 17.7688 16.7688 19 15.25 19H4.75C3.23122 19 2 17.7688 2 16.25V7.8002C2 6.89605 2.44443 6.04967 3.18873 5.53636L9.5742 1.13259ZM8.5 17.5H11.5V12.75C11.5 12.6119 11.3881 12.5 11.25 12.5H8.75C8.61193 12.5 8.5 12.6119 8.5 12.75V17.5ZM13 17.5V12.75C13 11.7835 12.2165 11 11.25 11H8.75C7.7835 11 7 11.7835 7 12.75V17.5H4.75C4.05964 17.5 3.5 16.9404 3.5 16.25V7.8002C3.5 7.38922 3.70201 7.0045 4.04033 6.77118L10 2.66106L15.9597 6.77118C16.298 7.0045 16.5 7.38922 16.5 7.8002V16.25C16.5 16.9404 15.9404 17.5 15.25 17.5H13Z\">",
+        "img": null,
+        "rect": {
+          "x": 24,
+          "y": 261,
+          "w": 232,
+          "h": 40
+        }
+      },
+      {
+        "href": "./User-Experience-Interaction-Design",
+        "label": "Products",
+        "svg": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102)) /* {&quot;name&quot;:&quot;Tertiary&quot;} */\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8.32378 2H11.6762C11.9337 1.99998 12.1702 1.99997 12.3679 2.01612C12.581 2.03353 12.8142 2.07339 13.0445 2.19074C13.3738 2.35852 13.6415 2.62624 13.8093 2.95552C13.9266 3.18583 13.9665 3.419 13.9839 3.63213C14 3.82981 14 4.06629 14 4.32377L14 5L16.6762 5C16.9337 4.99998 17.1702 4.99997 17.3679 5.01612C17.581 5.03353 17.8142 5.07339 18.0445 5.19074C18.3738 5.35852 18.6415 5.62624 18.8093 5.95552C18.9266 6.18583 18.9665 6.419 18.9839 6.63213C19 6.82981 19 7.06629 19 7.32377V11.6762C19 11.9337 19 12.1702 18.9839 12.3679C18.9665 12.581 18.9266 12.8142 18.8093 13.0445C18.6415 13.3738 18.3738 13.6415 18.0445 13.8093C18.0297 13.8168 18.0148 13",
+        "img": null,
+        "rect": {
+          "x": 24,
+          "y": 305,
+          "w": 232,
+          "h": 40
+        }
+      },
+      {
+        "href": "./visual-playground",
+        "label": "Playground",
+        "svg": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102)) /* {&quot;name&quot;:&quot;Tertiary&quot;} */\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M1 3.25C1 2.83579 1.33579 2.5 1.75 2.5H18.25C18.6642 2.5 19 2.83579 19 3.25C19 3.66421 18.6642 4 18.25 4H1.75C1.33579 4 1 3.66421 1 3.25ZM1 7.75C1 7.33579 1.33579 7 1.75 7H18.25C18.6642 7 19 7.33579 19 7.75C19 8.16421 18.6642 8.5 18.25 8.5H1.75C1.33579 8.5 1 8.16421 1 7.75ZM1 12.25C1 11.8358 1.33579 11.5 1.75 11.5H18.25C18.6642 11.5 19 11.8358 19 12.25C19 12.6642 18.6642 13 18.25 13H1.75C1.33579 13 1 12.6642 1 12.25ZM1 16.75C1 16.3358 1.33579 16 1.75 16H18.25C18.6642 16 19 16.3358 19 16.75C19 17.1642 18.6642 17.5 18.25 17.5H1.75C1.33579 17.5 1 17.1642 1 16.75Z\"></path></svg>",
+        "img": null,
+        "rect": {
+          "x": 24,
+          "y": 349,
+          "w": 232,
+          "h": 40
+        }
+      },
+      {
+        "href": "./about",
+        "label": "About",
+        "svg": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102)) /* {&quot;name&quot;:&quot;Tertiary&quot;} */\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10 2.5C8.61929 2.5 7.5 3.61929 7.5 5C7.5 6.38071 8.61929 7.5 10 7.5C11.3807 7.5 12.5 6.38071 12.5 5C12.5 3.61929 11.3807 2.5 10 2.5ZM6 5C6 2.79086 7.79086 1 10 1C12.2091 1 14 2.79086 14 5C14 7.20914 12.2091 9 10 9C7.79086 9 6 7.20914 6 5ZM3 16.625C3 13.5184 5.5184 11 8.625 11H11.375C14.4816 11 17 13.5184 17 16.625C17 17.9367 15.9367 19 14.625 19H5.375C4.06332 19 3 17.9367 3 16.625ZM8.625 12.5C6.34683 12.5 4.5 14.3468 4.5 16.625C4.5 17.1082 4.89175 17.5 5.375 17.5H14.625C15.1082 17.5 15.5 17.1082 15.5 16.625C15.5 14.3468 13.6532 12.5 11.375 12.5H8.625Z\"></path></svg>",
+        "img": null,
+        "rect": {
+          "x": 24,
+          "y": 393,
+          "w": 232,
+          "h": 40
+        }
+      },
+      {
+        "href": "./blog",
+        "label": "Blog",
+        "svg": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102)) /* {&quot;name&quot;:&quot;Tertiary&quot;} */\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12.8912 2.0481C13.5623 1.37701 14.4725 1 15.4216 1C17.3979 1 19 2.60212 19 4.57843C19 5.52748 18.623 6.43767 17.9519 7.10876L6.28033 18.7803C6.13968 18.921 5.94891 19 5.75 19H1.75C1.33579 19 1 18.6642 1 18.25V14.25C1 14.0511 1.07902 13.8603 1.21967 13.7197L12.8912 2.0481ZM15.4216 2.5C14.8703 2.5 14.3417 2.71898 13.9519 3.10876L13.5607 3.5L16.5 6.43934L16.8912 6.0481C17.281 5.65832 17.5 5.12966 17.5 4.57843C17.5 3.43054 16.5695 2.5 15.4216 2.5ZM15.4393 7.5L12.5 4.56066L2.5 14.5607V17.5H5.43934L15.4393 7.5Z\"></path></svg>",
+        "img": null,
+        "rect": {
+          "x": 24,
+          "y": 437,
+          "w": 232,
+          "h": 40
+        }
+      },
+      {
+        "href": "./contact",
+        "label": "Contact",
+        "svg": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-849e5971-4e20-414b-85bc-9934f715adf8, rgb(17, 17, 17)) /* {&quot;name&quot;:&quot;Primary&quot;} */\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.56424 5.35337L10 9.63457L17.4358 5.35337C17.27 4.85744 16.8017 4.5 16.25 4.5H3.75C3.19828 4.5 2.73005 4.85744 2.56424 5.35337ZM17.5 7.04725L10.3742 11.15C10.1426 11.2833 9.85743 11.2833 9.62578 11.15L2.5 7.04725V14.25C2.5 14.9404 3.05964 15.5 3.75 15.5H16.25C16.9404 15.5 17.5 14.9404 17.5 14.25V7.04725ZM1 5.75C1 4.23122 2.23122 3 3.75 3H16.25C17.7688 3 19 4.23122 19 5.75V14.25C19 15.7688 17.7688 17 16.25 17H3.75C2.23122 17 1 15.7688 1 14.25V5.75Z\"></path></svg>",
+        "img": null,
+        "rect": {
+          "x": 24,
+          "y": 481,
+          "w": 232,
+          "h": 40
+        }
+      }
+    ],
+    "bodyBg": "rgb(244, 245, 245)",
+    "fonts": [
+      "Inter",
+      "Space Grotesk"
+    ]
+  },
+  "route": "/contact"
+}

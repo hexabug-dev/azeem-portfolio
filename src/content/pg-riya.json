@@ -1,0 +1,230 @@
+{
+  "name": "pg-riya",
+  "route": "/visual-playground/riya-kids-book-design",
+  "title": "Azeem Gbadamosi",
+  "header": {
+    "back": {
+      "text": "Back to list",
+      "href": "../visual-playground"
+    },
+    "h1": "Riya and Friends - A kids storybook",
+    "blocks": [
+      {
+        "t": "tag",
+        "html": "Illustration",
+        "text": "Illustration",
+        "indent": 0,
+        "x": 420,
+        "w": 69,
+        "size": 14
+      },
+      {
+        "t": "tag",
+        "html": "Writing",
+        "text": "Writing",
+        "indent": 0,
+        "x": 525,
+        "w": 46,
+        "size": 14
+      },
+      {
+        "t": "tag",
+        "html": "Design for children",
+        "text": "Design for children",
+        "indent": 0,
+        "x": 607,
+        "w": 125,
+        "size": 14
+      },
+      {
+        "t": "h1",
+        "html": "Riya and Friends - A kids storybook",
+        "text": "Riya and Friends - A kids storybook",
+        "indent": 0,
+        "x": 408,
+        "w": 904,
+        "size": 40
+      },
+      {
+        "t": "metaValue",
+        "html": "In a world of magic and friendship, three best friends stumble upon a genie with the power to grant three wishes. But every wish comes with a twist. Join Riya, Pingu, and Bubbles on an adventure as they navigate the tricky world of magical wishes, outsmart the cunning genie, and ultimately discover the true meaning of friendship. Riya and Friends is storybook aimed to help children learn about greed, teamwork and friendship. I had the hand of a talented artist, Phelis, and the ideas of the project owner, Prince Safri as collaboration on this work.",
+        "text": "In a world of magic and friendship, three best friends stumble upon a genie with the power to grant three wishes. But every wish comes with a twist. Join Riya, Pingu, and Bubbles on an adventure as they navigate the tricky world of magical wishes, outsmart the cunning genie, and ultimately discover the true meaning of friendship. Riya and Friends is storybook aimed to help children learn about greed, teamwork and friendship. I had the hand of a talented artist, Phelis, and the ideas of the project owner, Prince Safri as collaboration on this work.",
+        "indent": 0,
+        "x": 408,
+        "w": 904,
+        "size": 18,
+        "muted": true
+      },
+      {
+        "t": "action",
+        "html": "Request for showcase",
+        "text": "Request for showcase",
+        "href": "mailto:azeem@tazcreative.io?subject=I%20need%20a%20showcase%20for%20Riya%20and%20Friends&body=Hello%20Azeem,%20coming%20from%20your%20portfolio%20and%20I%20would%20like%20more%20information%20on%20the%20children's%20book",
+        "indent": 0,
+        "x": 456,
+        "w": 148,
+        "size": 14
+      },
+      {
+        "t": "image",
+        "src": "/media/hYL53YSdjyUY8mz234U9ci0REDY.jpg",
+        "w": 904,
+        "h": 602,
+        "indent": 0,
+        "x": 408,
+        "dw": 904,
+        "alt": ""
+      },
+      {
+        "t": "metaValue",
+        "html": "4 Weeks",
+        "text": "4 Weeks",
+        "indent": 0,
+        "x": 597,
+        "w": 72,
+        "size": 18,
+        "svg": "<svg fill=\"currentColor\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6.75 1C7.16421 1 7.5 1.33579 7.5 1.75V3H12.5V1.75C12.5 1.33579 12.8358 1 13.25 1C13.6642 1 14 1.33579 14 1.75V3H16.25C17.7688 3 19 4.23122 19 5.75V16.25C19 17.7688 17.7688 19 16.25 19H3.75C2.23122 19 1 17.7688 1 16.25V5.75C1 4.23122 2.23122 3 3.75 3H6V1.75C6 1.33579 6.33579 1 6.75 1ZM6 4.5H3.75C3.05964 4.5 2.5 5.05964 2.5 5.75V8H17.5V5.75C17.5 5.05964 16.9404 4.5 16.25 4.5H14V5.25C14 5.66421 13.6642 6 13.25 6C12.8358 6 12.5 5.66421 12.5 5.25V4.5H7.5V5.25C7.5 5.66421 7.16421 6 6.75 6C6.33579 6 6 5.66421 6 5.25V4.5ZM17.5 9.5H2.5V16.25C2.5 16.9404 3.05964 17.5 3.75 17.5H16.25C16.9404 17.5 17.5 16.9404 17.5 16.25V9.5Z\"></path></svg>"
+      },
+      {
+        "t": "metaLabel",
+        "html": "Duration",
+        "text": "Duration",
+        "indent": 0,
+        "x": 605,
+        "w": 56,
+        "size": 14,
+        "muted": true
+      },
+      {
+        "t": "metaValue",
+        "html": "Designer &amp; Art Director",
+        "text": "Designer & Art Director",
+        "indent": 304,
+        "x": 992,
+        "w": 190,
+        "size": 18
+      },
+      {
+        "t": "metaLabel",
+        "html": "Role",
+        "text": "Role",
+        "indent": 384,
+        "x": 1073,
+        "w": 29,
+        "size": 14,
+        "muted": true
+      }
+    ]
+  },
+  "footer": "",
+  "sections": [
+    {
+      "heading": "Background",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "h3",
+          "html": "The story of Riya, Pingu, and Bubbles and their encounter with the cunning genie provides an engaging and valuable lesson for children. Through their journey, children can learn about the consequences of greed, the importance of teamwork, and the true meaning of friendship. The story highlights the pitfalls of making selfish wishes and the importance of thinking carefully before making decisions. It also emphasizes the power of working together to overcome challenges and outsmarting tricky situations. This story was prepared to serve as a wonderful tool for teaching children about important values and life lessons in an entertaining and relatable way.",
+          "text": "The story of Riya, Pingu, and Bubbles and their encounter with the cunning genie provides an engaging and valuable lesson for children. Through their journey, children can learn about the consequences of greed, the importance of teamwork, and the true meaning of friendship. The story highlights the pitfalls of making selfish wishes and the importance of thinking carefully before making decisions. It also emphasizes the power of working together to overcome challenges and outsmarting tricky situations. This story was prepared to serve as a wonderful tool for teaching children about important values and life lessons in an entertaining and relatable way.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 18,
+          "muted": true
+        },
+        {
+          "t": "image",
+          "src": "/media/b4Za8seLZOQTsvmH4f9QUEoIHk.jpg",
+          "w": 904,
+          "h": 602,
+          "indent": 0,
+          "x": 408,
+          "dw": 904,
+          "alt": ""
+        },
+        {
+          "t": "action",
+          "html": "Request showcase",
+          "text": "Request showcase",
+          "href": "mailto:azeem@tazcreative.io?subject=I%20need%20a%20showcase%20for%20Riya%20and%20Friends&body=Hello%20Azeem,%20coming%20from%20your%20portfolio%20and%20I%20would%20like%20more%20information%20on%20the%20children's%20book",
+          "indent": 0,
+          "x": 456,
+          "w": 126,
+          "size": 14
+        }
+      ],
+      "more": {
+        "text": "Request showcase",
+        "href": "mailto:azeem@tazcreative.io?subject=I%20need%20a%20showcase%20for%20Riya%20and%20Friends&body=Hello%20Azeem,%20coming%20from%20your%20portfolio%20and%20I%20would%20like%20more%20information%20on%20the%20children's%20book"
+      }
+    },
+    {
+      "heading": "Tools",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "chip",
+          "html": "Adobe Photoshop",
+          "text": "Adobe Photoshop",
+          "indent": 68,
+          "x": 756,
+          "w": 136,
+          "size": 16,
+          "svg": "<svg fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\"><title>Adobe Photoshop</title><path d=\"M9.85 8.42c-.37-.15-.77-.21-1.18-.2-.26 0-.49 0-.68.01-.2-.01-.34 0-.41.01v3.36c.14.01.27.02.39.02h.53c.39 0 .78-.06 1.15-.18.32-.09.6-.28.82-.53.21-.25.31-.59.31-1.03.01-.31-.07-.62-.23-.89-.17-.26-.41-.46-.7-.57zM19.75.3H4.25C1.9.3 0 2.2 0 4.55v14.899c0 2.35 1.9 4.25 4.25 4.25h15.5c2.35 0 4.25-1.9 4.25-4.25V4.55C24 2.2 22.1.3 19.75.3zm-7.391 11.65c-.399.56-.959.98-1.609 1.22-.68.25-1.43.34-2.25.34-.24 0-.4 0-.5-.01s-.24-.01-.43-.01v3.209c.01.07-.04.131-.11.141H5.52c-.08 0-.12-.041-.12-.131V6.42c0-.07.03-.11.1-.11.17 0 .33 0 .56-.01.24-.01.49-.01.76-.02s.56-.01.87-.02c.31-.01.61-.01.91-.01.82 0 1.5.1 2.06.31.5.17.96.45 1.34.82.32.32.57.71.73 1.14.149.42.229.85.229 1.3.001.86-.199 1.57-.6 2.13zm7.091 3.89c-.28.4-.671.709-1.12.891-.49.209-1.09.318-1.811.318-.459 0-.91-.039-1.359-.129-.35-.061-.7-.17-1.02-.32-.07-.039-.121-.109-.111-.189v-1.74c0-.029.011-.07.041-.09.029-.02.06-.01.09.01.39.23.8.391 1.24.49.379.1.779.15 1.18.15.38 0 .65-.051.83-.141.16-.07.27-.24.27-.42 0-.141-.08-.27-.24-.4-.16-.129-.489-.279-.979-.471-.51-.18-.979-.42-1.42-.719-.31-.221-.569-.51-.761-.85-.159-.32-.239-.67-.229-1.021 0-.43.12-.84.341-1.21.25-.4.619-.72 1.049-.92.469-.239 1.059-.349 1.769-.349.41 0 .83.03 1.24.09.3.04.59.12.86.23.039.01.08.05.1.09.01.04.02.08.02.12v1.63c0 .04-.02.08-.05.1-.09.02-.14.02-.18 0-.3-.16-.62-.27-.96-.34-.37-.08-.74-.13-1.12-.13-.2-.01-.41.02-.601.07-.129.03-.24.1-.31.2-.05.08-.08.18-.08.27s.04.18.101.26c.09.11.209.2.34.27.229.12.47.23.709.33.541.18 1.061.43 1.541.73.33.209.6.49.789.83.16.318.24.67.23 1.029.011.471-.129.94-.389 1.331z\"></path></svg>"
+        },
+        {
+          "t": "chip",
+          "html": "Generative Tools",
+          "text": "Generative Tools",
+          "indent": 68,
+          "x": 756,
+          "w": 127,
+          "size": 16,
+          "svg": "<svg fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\"><title>OpenAI</title><path d=\"M22.2819 9.8211a5.9847 5.9847 0 0 0-.5157-4.9108 6.0462 6.0462 0 0 0-6.5098-2.9A6.0651 6.0651 0 0 0 4.9807 4.1818a5.9847 5.9847 0 0 0-3.9977 2.9 6.0462 6.0462 0 0 0 .7427 7.0966 5.98 5.98 0 0 0 .511 4.9107 6.051 6.051 0 0 0 6.5146 2.9001A5.9847 5.9847 0 0 0 13.2599 24a6.0557 6.0557 0 0 0 5.7718-4.2058 5.9894 5.9894 0 0 0 3.9977-2.9001 6.0557 6.0557 0 0 0-.7475-7.0729zm-9.022 12.6081a4.4755 4.4755 0 0 1-2.8764-1.0408l.1419-.0804 4.7783-2.7582a.7948.7948 0 0 0 .3927-.6813v-6.7369l2.02 1.1686a.071.071 0 0 1 .038.052v5.5826a4.504 4.504 0 0 1-4.4945 4.4944zm-9.6607-4.1254a4.4708 4.4708 0 0 1-.5346-3.0137l.142.0852 4.783 2.7582a.7712.7712 0 0 0 .7806 0l5.8428-3.3685v2.3324a.0804.0804 0 0 1-.0332.0615L9.74 19.9502a4.4992 4.4992 0 0 1-6.1408-1.6464zM2.3408 7.8956a4.485 4.485 0 0 1 2.3655-1.9728V11.6a.7664.7664 0 0 0 .3879.6765l5.8144 3.3543-2.0201 1.1685a.0757.0757 0 0 1-.071 0l-4.8303-2.7865A4.504 4.504 0 0 1 2.3408 7.872zm16.5963 3.8558L13.1038 8.364 15.1192 7.2a.0757.0757 0 0 1 .071 0l4.8303 2.7913a4.4944 4.4944 0 0 1-.6765 8.1042v-5.6772a.79.79 0 0 0-.407-.667zm2.0107-3.0231l-.142-.0852-4.7735-2.7818a.7759.7759 0 0 0-.7854 0L9.409 9.2297V6.8974a.0662.0662 0 0 1 .0284-.0615l4.8303-2.7866a4.4992 4.4992 0 0 1 6.6802 4.66zM8.3065 12.863l-2.02-1.1638a.0804.0804 0 0 1-.038-.0567V6.0742a4.4992 4.4992 0 0 1 7.3757-3.4537l-.142.0805L8.704 5.459a.7948.7948 0 0 0-.3927.6813zm1.0976-2.3654l2.602-1.4998 2.6069 1.4998v2.9994l-2.5974 1.4997-2.6067-1.4997Z\"></path></svg>"
+        },
+        {
+          "t": "h3",
+          "html": "Working with Azeem was a fantastic experience. The illustrations brought the story to life in a captivating way, and his creativity and dedication truly shone through. Thank you for enhancing our project with your amazing talent!",
+          "text": "Working with Azeem was a fantastic experience. The illustrations brought the story to life in a captivating way, and his creativity and dedication truly shone through. Thank you for enhancing our project with your amazing talent!",
+          "indent": 0,
+          "x": 448,
+          "w": 824,
+          "size": 18
+        },
+        {
+          "t": "p",
+          "html": "Prince Saf.",
+          "text": "Prince Saf.",
+          "indent": 0,
+          "x": 448,
+          "w": 824,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "metaLabel",
+          "html": "Project Owner",
+          "text": "Project Owner",
+          "indent": 0,
+          "x": 448,
+          "w": 824,
+          "size": 14,
+          "muted": true
+        }
+      ],
+      "more": null
+    }
+  ],
+  "related": [
+    {
+      "image": "/media/SxsOGYqgzGoGsJPDT874YcmBFzQ.png",
+      "title": "3D Video Direction for AUMI Cryptocurrency",
+      "client": "AutoMatic Yield Farming"
+    },
+    {
+      "image": "/media/XDTFM9Y9JlG7SKESMM5sXAWVE.jpg",
+      "title": "Enabling People Connect with Service Providers",
+      "client": "AnyworkX Africa"
+    }
+  ]
+}

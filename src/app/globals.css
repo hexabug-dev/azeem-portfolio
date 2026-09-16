@@ -1,26 +1,36 @@
 @import "tailwindcss";
 
 :root {
+  --bg: #f4f5f5;
+  --surface: #ffffff;
+  --border: #e3e4e4;
+  --fg: #111111;
+  --fg-strong: #121212;
+  --fg-muted: #666666;
+  --accent: #a15830;
+  --chip-bg: #ffffff;
+}
+
+:root[data-theme="dark"] {
   --bg: #141414;
   --surface: #1c1c1c;
-  --surface-2: #232323;
-  --border: #2c2c2c;
-  --fg: #f5f5f3;
-  --fg-muted: #a8a8a4;
-  --accent: #ff5a36;
-  --accent-2: #ffd400;
+  --border: #2a2a2a;
+  --fg: #ffffff;
+  --fg-strong: #ffffff;
+  --fg-muted: rgba(255, 255, 255, 0.6);
+  --accent: #fabc9b;
+  --chip-bg: #1c1c1c;
 }
 
 @theme inline {
   --color-bg: var(--bg);
   --color-surface: var(--surface);
-  --color-surface-2: var(--surface-2);
   --color-border: var(--border);
   --color-fg: var(--fg);
   --color-fg-muted: var(--fg-muted);
   --color-accent: var(--accent);
-  --color-accent-2: var(--accent-2);
   --font-sans: var(--font-inter);
+  --font-display: var(--font-space-grotesk);
 }
 
 * {
@@ -35,23 +45,77 @@ body {
   background: var(--bg);
   color: var(--fg);
   font-family: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  font-size: 16px;
 }
 
 ::selection {
   background: var(--accent);
-  color: #141414;
+  color: var(--bg);
 }
 
-.card {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: 16px;
+/* Reading column widths mirror the source site: a 904px container with the
+   body text and media inset from the left. */
+.wrap {
+  max-width: 904px;
 }
 
-.tag {
-  border: 1px solid var(--border);
+.col-full {
+  width: 100%;
+}
+
+@media (min-width: 1100px) {
+  .col-wide {
+    padding-left: 280px;
+  }
+  .col-narrow {
+    padding-left: 344px;
+  }
+  .col-step-badge {
+    padding-left: 280px;
+  }
+}
+
+/* the source sets 1.8 line-height on body copy and 1.5 on headings */
+.prose-p {
   color: var(--fg-muted);
+  line-height: 1.8;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.5;
+}
+
+.prose-p a {
+  color: var(--accent);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.prose-p em {
+  font-style: italic;
+}
+
+.prose-p strong {
+  color: var(--fg);
+  font-weight: 600;
+}
+
+.chip {
+  border: 1px solid var(--border);
+  background: var(--chip-bg);
   border-radius: 999px;
-  padding: 4px 12px;
-  font-size: 12px;
+  padding: 6px 14px;
+  font-size: 14px;
+  color: var(--fg-muted);
+  white-space: nowrap;
+}
+
+:root {
+  --tag-bg: #f1e4dc;
+}
+
+:root[data-theme="dark"] {
+  --tag-bg: #382218;
 }

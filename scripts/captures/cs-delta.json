@@ -1,0 +1,2713 @@
+{
+  "url": "https://azeemolawale.com/User-Experience-Interaction-Design/detla-state-igr",
+  "title": "Azeem Gbadamosi",
+  "scrollHeight": 15122,
+  "blocks": [
+    {
+      "kind": "svg",
+      "html": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102))\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M11.7996 6.23966C12.0814 6.5432 12.0639 7.01775 11.7603 7.2996L8.85221 10L11.7603 12.7004C12.0639 12.9823 12.0814 13.4568 11.7996 13.7603C11.5177 14.0639 11.0432 14.0815 10.7397 13.7996L7.23966 10.5496C7.08684 10.4077 7 10.2086 7 10C7 9.79145 7.08684 9.59232 7.23966 9.45041L10.7397 6.20041C11.0432 5.91856 11.5177 5.93613 11.7996 6.23966Z\"></path></svg>",
+      "rect": {
+        "x": 408,
+        "y": 51,
+        "w": 20,
+        "h": 20
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Back to list",
+      "html": "Back to list",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(18, 18, 18)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": "../User-Experience-Interaction-Design",
+      "rect": {
+        "x": 436,
+        "y": 48,
+        "w": 73,
+        "h": 25
+      }
+    },
+    {
+      "kind": "text",
+      "text": "NIN",
+      "html": "NIN",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 420,
+        "y": 173,
+        "w": 25,
+        "h": 25
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Verification",
+      "html": "Verification",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 481,
+        "y": 173,
+        "w": 74,
+        "h": 25
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Contextual Inquiry",
+      "html": "Contextual Inquiry",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 591,
+        "y": 173,
+        "w": 121,
+        "h": 25
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Field-First: Designing a Tax System for Market Traders and Artisans",
+      "html": "Field-First: Designing a Tax System for Market Traders and Artisans",
+      "tag": "h1",
+      "fontSize": 40,
+      "fontWeight": "700",
+      "fontFamily": "Space Grotesk",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "60px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 232,
+        "w": 904,
+        "h": 120
+      }
+    },
+    {
+      "kind": "text",
+      "text": "In 2023, Delta State's Internal Revenue Generation (IRG) initiative set out to bring informal sector businesses into the tax net; the market traders, kiosks, artisans, and sole proprietors who form the backbone of local commerce in Nigerian communities. These businesses are economically active and legally obligated for taxes, but structurally distant from the government monitoring systems that reach formal companies. They are unlikely to visit a parastatal or government revenue office to file or pay, and the existing online tax infrastructure wasn't designed with them in mind.",
+      "html": "In 2023, Delta State's Internal Revenue Generation (IRG) initiative set out to bring informal sector businesses into the tax net; the market traders, kiosks, artisans, and sole proprietors who form the backbone of local commerce in Nigerian communities. These businesses are economically active and legally obligated for taxes, but structurally distant from the government monitoring systems that reach formal companies. They are unlikely to visit a parastatal or government revenue office to file or pay, and the existing online tax infrastructure wasn't designed with them in mind.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 360,
+        "w": 904,
+        "h": 144
+      }
+    },
+    {
+      "kind": "text",
+      "text": "The project was commissioned through AnchorDataware Solutions. I came onto the project as the product designer, working from the PRD provided.",
+      "html": "The project was commissioned through AnchorDataware Solutions. I came onto the project as the product designer, working from the PRD provided.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 524,
+        "w": 904,
+        "h": 58
+      }
+    },
+    {
+      "kind": "image",
+      "src": "https://framerusercontent.com/images/pIcapelQfSS5teiijlFLC7PFnCM.jpg?width=1679&height=1220",
+      "alt": "",
+      "natural": [
+        1679,
+        1220
+      ],
+      "rect": {
+        "x": 408,
+        "y": 638,
+        "w": 904,
+        "h": 678
+      },
+      "fit": "cover",
+      "radius": "12px"
+    },
+    {
+      "kind": "svg",
+      "html": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-1eebb7f4-8df8-4da6-9f01-369cd97e4eac, rgb(161, 88, 48))\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6.75 1C7.16421 1 7.5 1.33579 7.5 1.75V3H12.5V1.75C12.5 1.33579 12.8358 1 13.25 1C13.6642 1 14 1.33579 14 1.75V3H16.25C17.7688 3 19 4.23122 19 5.75V16.25C19 17.7688 17.7688 19 16.25 19H3.75C2.23122 19 1 17.7688 1 16.25V5.75C1 4.23122 2.23122 3 3.75 3H6V1.75C6 1.33579 6.33579 1 6.75 1ZM6 4.5H3.75C3.05964 4.5 2.5 5.05964 2.5 5.75V8H17.5V5.75C17.5 5.05964 16.9404 4.5 16.25 4.5H14V5.25C14 5.66421 13.6642 6 13.25 6C12.8358 6 12.5 5.66421 12.5 5.25V4.5H7.5V5.25C7.5 5.66421 7.16421 6 6.75 6C6.33579 6 6 5.66421 6 5.25V4.5ZM17.5 9.5H2.5V16.25C2.5 16.9404 3.05964 17.5 3.75 17.5H16.25C16.9404 17.5 17.5 16.9404 17.5 16.25V9.5Z\"></path></svg>",
+      "rect": {
+        "x": 623,
+        "y": 1396,
+        "w": 20,
+        "h": 20
+      }
+    },
+    {
+      "kind": "text",
+      "text": "4 Weeks",
+      "html": "4 Weeks",
+      "tag": "p",
+      "fontSize": 18,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "32.4px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 597,
+        "y": 1432,
+        "w": 72,
+        "h": 32
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Duration",
+      "html": "Duration",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 605,
+        "y": 1464,
+        "w": 56,
+        "h": 25
+      }
+    },
+    {
+      "kind": "svg",
+      "html": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-1eebb7f4-8df8-4da6-9f01-369cd97e4eac, rgb(161, 88, 48))\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10 2.5C8.61929 2.5 7.5 3.61929 7.5 5C7.5 6.38071 8.61929 7.5 10 7.5C11.3807 7.5 12.5 6.38071 12.5 5C12.5 3.61929 11.3807 2.5 10 2.5ZM6 5C6 2.79086 7.79086 1 10 1C12.2091 1 14 2.79086 14 5C14 7.20914 12.2091 9 10 9C7.79086 9 6 7.20914 6 5ZM3 16.625C3 13.5184 5.5184 11 8.625 11H10.75C11.1642 11 11.5 11.3358 11.5 11.75C11.5 12.1642 11.1642 12.5 10.75 12.5H8.625C6.34683 12.5 4.5 14.3468 4.5 16.625C4.5 17.1082 4.89175 17.5 5.375 17.5H8.75C9.16421 17.5 9.5 17.8358 9.5 18.25C9.5 18.6642 9.16421 19 8.75 19H5.375C4.06332 19 3 17.9367 3 16.625ZM19.765 13.2047C20.0661 13.4891 20.0797 13.9638 19.7953 14.265L15.5453 18.765C15.4014 18.9173 15.2005 19.0025 14.991 18.9999C14.7815 18.9974 14.5827 18.9074 14.4425 18.7517L12.1925 16.2517C11.9154 15.9438 11.9404 15.4696 12.2483 15.1925C12.5562 14.9154 13.0304 14.9404 13.3075 15.2483L15.0133 17.1436L18.7047 13.235C18.9892 12.9339 19.4638 12.9203 19.765 13.2047Z\"></path></svg>",
+      "rect": {
+        "x": 1077,
+        "y": 1396,
+        "w": 20,
+        "h": 20
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Lead Interaction Designer",
+      "html": "Lead Interaction Designer",
+      "tag": "p",
+      "fontSize": 18,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "32.4px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 981,
+        "y": 1432,
+        "w": 212,
+        "h": 32
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Role",
+      "html": "Role",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 1073,
+        "y": 1464,
+        "w": 29,
+        "h": 25
+      }
+    },
+    {
+      "kind": "text",
+      "text": "The Problem",
+      "html": "The Problem",
+      "tag": "h2",
+      "fontSize": 26,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "39px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 1578,
+        "w": 240,
+        "h": 39
+      }
+    },
+    {
+      "kind": "text",
+      "text": "The core challenge was one of access - in two directions.",
+      "html": "The core challenge was one of access - in two directions.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 1578,
+        "w": 624,
+        "h": 29
+      }
+    },
+    {
+      "kind": "text",
+      "text": "The state needed a way to reach and register informal businesses that had no digital tax presence.",
+      "html": "The state needed a way to reach and register informal businesses that had no digital tax presence.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 708,
+        "y": 1626,
+        "w": 604,
+        "h": 58
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Those businesses needed a payment experience that felt familiar and low-friction enough to actually use. Bringing them into a web portal or asking them to interact with a government office was a non-starter for most.",
+      "html": "Those businesses needed a payment experience that felt familiar and low-friction enough to actually use. Bringing them into a web portal or asking them to interact with a government office was a <strong>non-starter</strong> for most.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 708,
+        "y": 1684,
+        "w": 604,
+        "h": 86
+      }
+    },
+    {
+      "kind": "text",
+      "text": "The solution the state wanted to pursue was a field-agent model: trained agents stationed across Local Government Areas (LGAs) or operating as mobile agents within catchment areas, equipped to register taxpayers and collect payments on the spot. For this to be successful, the agents would be equipped with a mobile POS machine and a smart android tablet. These were the two systems I designed for.",
+      "html": "The solution the state wanted to pursue was a <em>field-agent model</em>: trained agents stationed across Local Government Areas (LGAs) or operating as mobile agents within catchment areas, equipped to register taxpayers and collect payments on the spot. For this to be successful, the agents would be equipped with a <strong>mobile POS machine</strong> and a <strong>smart android tablet.</strong> These were the two systems I designed for.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 1790,
+        "w": 624,
+        "h": 173
+      }
+    },
+    {
+      "kind": "image",
+      "src": "https://framerusercontent.com/images/92KyS0ne8bTKiIxNi9wKRMncjA.png?scale-down-to=1024&width=2100&height=1575",
+      "alt": "",
+      "natural": [
+        624,
+        468
+      ],
+      "rect": {
+        "x": 688,
+        "y": 1987,
+        "w": 624,
+        "h": 468
+      },
+      "fit": "cover",
+      "radius": "12px"
+    },
+    {
+      "kind": "text",
+      "text": "My Role",
+      "html": "My Role",
+      "tag": "h2",
+      "fontSize": 26,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "39px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 2553,
+        "w": 240,
+        "h": 39
+      }
+    },
+    {
+      "kind": "text",
+      "text": "I designed three interconnected product surfaces based on the PRD: a tablet app for tax profile registration and verification, a POS app with a print module for payment collection, and a single admin dashboard screen for revenue monitoring. Given that this is a government financial system handling NIN data and tax records, I am sharing selected screens and flows rather than the full design. The case study focuses on the two primary agent-facing flows.",
+      "html": "I designed three interconnected product surfaces based on the PRD: <strong>a tablet app for tax profile registration and verification</strong>, <strong>a POS app with a print module for payment collection</strong>, and a <strong>single admin dashboard screen for revenue monitoring</strong>. Given that this is a government financial system handling NIN data and tax records, I am sharing selected screens and flows rather than the full design. The case study focuses on the <em>two primary agent-facing flows.</em>",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 2553,
+        "w": 624,
+        "h": 173
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Understanding the Users with Contextual Inquiry",
+      "html": "Understanding the Users with Contextual Inquiry",
+      "tag": "h2",
+      "fontSize": 26,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "39px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 2824,
+        "w": 240,
+        "h": 117
+      }
+    },
+    {
+      "kind": "text",
+      "text": "There were two distinct users to design for.",
+      "html": "There were two distinct users to design for.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 2824,
+        "w": 624,
+        "h": 29
+      }
+    },
+    {
+      "kind": "text",
+      "text": "The field agent needed tools that were fast, reliable in low-connectivity environments, and clear enough to use while standing in a market or at a roadside kiosk. They were the interface between the state and the taxpayer - their experience directly determined whether registration and collection happened at all.",
+      "html": "The <strong>field agent</strong> needed tools that were fast, reliable in low-connectivity environments, and clear enough to use while standing in a market or at a roadside kiosk. They were <em>the interface between the state and the taxpayer</em> - their experience directly determined whether registration and collection happened at all.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 2873,
+        "w": 624,
+        "h": 144
+      }
+    },
+    {
+      "kind": "text",
+      "text": "The informal business owner - the taxpayer - was not directly using the digital product, but their comfort and trust in the process was critical. Many of these users transact daily through POS agents: it is already a familiar, trusted model to hand a card or cash to an agent and receive a printed receipt. Designing the payment flow around that existing mental model was a deliberate and central decision.",
+      "html": "The <strong>informal business owner</strong> - the taxpayer - was not directly using the digital product, but their <strong>comfort and trust</strong> in the process was critical. Many of these users transact daily through POS agents: it is already a familiar, trusted model to hand a card or cash to an agent and receive a printed receipt. Designing the payment flow around that existing mental model was a deliberate and central decision.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 3037,
+        "w": 624,
+        "h": 173
+      }
+    },
+    {
+      "kind": "image",
+      "src": "https://framerusercontent.com/images/gRSEvkaaGzsN1XZLQvBuA0bA.jpg?width=612&height=408",
+      "alt": "",
+      "natural": [
+        624,
+        416
+      ],
+      "rect": {
+        "x": 688,
+        "y": 3220,
+        "w": 624,
+        "h": 468
+      },
+      "fit": "cover",
+      "radius": "12px"
+    },
+    {
+      "kind": "text",
+      "text": "What I Designed",
+      "html": "What I Designed",
+      "tag": "h2",
+      "fontSize": 26,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "39px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 3786,
+        "w": 240,
+        "h": 39
+      }
+    },
+    {
+      "kind": "text",
+      "text": "1",
+      "html": "1",
+      "tag": "div",
+      "fontSize": 12,
+      "fontWeight": "400",
+      "fontFamily": "sans-serif",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "normal",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 3786,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "kind": "text",
+      "text": "1",
+      "html": "1",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 3794,
+        "w": 40,
+        "h": 24
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Tablet App — Tax Profile Registration Flow",
+      "html": "Tablet App — Tax Profile Registration Flow",
+      "tag": "p",
+      "fontSize": 18,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "32.4px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 3790,
+        "w": 560,
+        "h": 32
+      }
+    },
+    {
+      "kind": "text",
+      "text": "I built the registration flow around Nigeria's National Identification Number (NIN), which gave the system a reliable identity anchor for the largely undocumented informal sector. Everyone has an NIN in Nigeria. Without an NIN, mobile and banking services are impossible.",
+      "html": "I built the registration flow around Nigeria's National Identification Number (NIN), which gave the system a reliable identity anchor for the largely undocumented informal sector. Everyone has an NIN in Nigeria. Without an NIN, mobile and banking services are impossible.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 3834,
+        "w": 560,
+        "h": 115
+      }
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "div",
+      "fontSize": 12,
+      "fontWeight": "400",
+      "fontFamily": "sans-serif",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "normal",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 3961,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 3969,
+        "w": 40,
+        "h": 24
+      }
+    },
+    {
+      "kind": "iframe",
+      "src": "https://azeem-tablet-tax-flow.netlify.app/",
+      "srcdoc": "",
+      "title": "",
+      "allow": "presentation; fullscreen; accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; clipboard-write",
+      "rect": {
+        "x": 752,
+        "y": 3965,
+        "w": 560,
+        "h": 420
+      }
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "div",
+      "fontSize": 12,
+      "fontWeight": "400",
+      "fontFamily": "sans-serif",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "normal",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 4397,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 4405,
+        "w": 40,
+        "h": 24
+      }
+    },
+    {
+      "kind": "text",
+      "text": "The flow was structured in three phases.",
+      "html": "The flow was structured in <em>three phases.</em>",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 4401,
+        "w": 560,
+        "h": 29
+      }
+    },
+    {
+      "kind": "text",
+      "text": "In the first phase, the agent enters the taxpayer's NIN. The system queries the NIN database and returns pre-filled personal information, name, date of birth, and other identity details. These fields cannot be edited by the agent; they are confirmed against the taxpayer's physical ID document, ensuring the agent verifies identity before proceeding.",
+      "html": "In the first phase, the agent enters the taxpayer's NIN. The system queries the NIN database and returns pre-filled personal information, name, date of birth, and other identity details. These fields cannot be edited by the agent; they are confirmed against the taxpayer's physical ID document, ensuring the agent verifies identity before proceeding.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 4450,
+        "w": 560,
+        "h": 144
+      }
+    },
+    {
+      "kind": "video",
+      "src": "https://framerusercontent.com/assets/pWNLaYcLvrvmPGF4Edwewfs5ig.webm",
+      "sources": [],
+      "poster": "",
+      "autoplay": true,
+      "loop": true,
+      "muted": true,
+      "controls": true,
+      "playsInline": true,
+      "rect": {
+        "x": 752,
+        "y": 4606,
+        "w": 560,
+        "h": 438
+      },
+      "radius": "8px"
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "div",
+      "fontSize": 12,
+      "fontWeight": "400",
+      "fontFamily": "sans-serif",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "normal",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 5056,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 5064,
+        "w": 40,
+        "h": 24
+      }
+    },
+    {
+      "kind": "image",
+      "src": "https://framerusercontent.com/images/TgNZIjWvLQsunui7w7UTghDUxc.png?scale-down-to=1024&width=2794&height=2096",
+      "alt": "",
+      "natural": [
+        560,
+        420
+      ],
+      "rect": {
+        "x": 752,
+        "y": 5060,
+        "w": 560,
+        "h": 420
+      },
+      "fit": "cover",
+      "radius": "8px"
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "div",
+      "fontSize": 12,
+      "fontWeight": "400",
+      "fontFamily": "sans-serif",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "normal",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 5492,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 5500,
+        "w": 40,
+        "h": 24
+      }
+    },
+    {
+      "kind": "image",
+      "src": "https://framerusercontent.com/images/7X8vLEGME50Q3alByzwEdqHVs4.png?scale-down-to=1024&width=2794&height=2096",
+      "alt": "",
+      "natural": [
+        560,
+        420
+      ],
+      "rect": {
+        "x": 752,
+        "y": 5496,
+        "w": 560,
+        "h": 420
+      },
+      "fit": "cover",
+      "radius": "8px"
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "div",
+      "fontSize": 12,
+      "fontWeight": "400",
+      "fontFamily": "sans-serif",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "normal",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 5928,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 5936,
+        "w": 40,
+        "h": 24
+      }
+    },
+    {
+      "kind": "text",
+      "text": "In the second phase, if a business exists under that NIN, the system surfaces the registered business names associated with it. Simultaneously, the system checks whether a tax profile already exists for each business. If a profile exists, the agent is informed and no duplicate is created. If no profile exists, the agent can select the business and proceed.",
+      "html": "In the second phase, if a business exists under that NIN, the system surfaces the registered business names associated with it. Simultaneously, the system checks whether a tax profile already exists for each business. If a profile exists, the agent is informed and no duplicate is created. If no profile exists, the agent can select the business and proceed.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 5932,
+        "w": 560,
+        "h": 173
+      }
+    },
+    {
+      "kind": "video",
+      "src": "https://framerusercontent.com/assets/IK6JhYlGrTRonGNLy4eSEyMNHc.webm",
+      "sources": [],
+      "poster": "",
+      "autoplay": true,
+      "loop": true,
+      "muted": true,
+      "controls": true,
+      "playsInline": true,
+      "rect": {
+        "x": 752,
+        "y": 6117,
+        "w": 560,
+        "h": 438
+      },
+      "radius": "8px"
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "div",
+      "fontSize": 12,
+      "fontWeight": "400",
+      "fontFamily": "sans-serif",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "normal",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 6567,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 6575,
+        "w": 40,
+        "h": 24
+      }
+    },
+    {
+      "kind": "image",
+      "src": "https://framerusercontent.com/images/NCiHIXxfbPCuR5Atokadp65cM.png?scale-down-to=1024&width=2794&height=2096",
+      "alt": "",
+      "natural": [
+        560,
+        420
+      ],
+      "rect": {
+        "x": 752,
+        "y": 6571,
+        "w": 560,
+        "h": 420
+      },
+      "fit": "cover",
+      "radius": "8px"
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "div",
+      "fontSize": 12,
+      "fontWeight": "400",
+      "fontFamily": "sans-serif",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "normal",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 7003,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 7011,
+        "w": 40,
+        "h": 24
+      }
+    },
+    {
+      "kind": "image",
+      "src": "https://framerusercontent.com/images/1KxJFFNNz1W5MixLLirSeC2iEDc.png?scale-down-to=1024&width=2794&height=2096",
+      "alt": "",
+      "natural": [
+        560,
+        420
+      ],
+      "rect": {
+        "x": 752,
+        "y": 7007,
+        "w": 560,
+        "h": 420
+      },
+      "fit": "cover",
+      "radius": "8px"
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "div",
+      "fontSize": 12,
+      "fontWeight": "400",
+      "fontFamily": "sans-serif",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "normal",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 7439,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 7447,
+        "w": 40,
+        "h": 24
+      }
+    },
+    {
+      "kind": "image",
+      "src": "https://framerusercontent.com/images/5wfiO2ZDSkKpmLNYEZlm2Oaca1U.png?scale-down-to=1024&width=2794&height=2096",
+      "alt": "",
+      "natural": [
+        560,
+        420
+      ],
+      "rect": {
+        "x": 752,
+        "y": 7443,
+        "w": 560,
+        "h": 420
+      },
+      "fit": "cover",
+      "radius": "8px"
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "div",
+      "fontSize": 12,
+      "fontWeight": "400",
+      "fontFamily": "sans-serif",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "normal",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 7875,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 7883,
+        "w": 40,
+        "h": 24
+      }
+    },
+    {
+      "kind": "text",
+      "text": "In the third phase, the agent completes the tax profile creation. The outcome is a taxpayer profile that generates a unique Tax ID and populates the taxpayer's tax debt, payment history, and upcoming obligations - all immediately visible to the agent.",
+      "html": "In the third phase, the agent completes the tax profile creation. The outcome is a taxpayer profile that generates a unique Tax ID and populates the taxpayer's tax debt, payment history, and upcoming obligations - all immediately visible to the agent.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 7879,
+        "w": 560,
+        "h": 115
+      }
+    },
+    {
+      "kind": "video",
+      "src": "https://framerusercontent.com/assets/aWXaXsVNxa1by3tu4ohOV3Zo8p8.webm",
+      "sources": [],
+      "poster": "",
+      "autoplay": true,
+      "loop": true,
+      "muted": true,
+      "controls": true,
+      "playsInline": true,
+      "rect": {
+        "x": 752,
+        "y": 8006,
+        "w": 560,
+        "h": 438
+      },
+      "radius": "8px"
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "div",
+      "fontSize": 12,
+      "fontWeight": "400",
+      "fontFamily": "sans-serif",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "normal",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 8456,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 8464,
+        "w": 40,
+        "h": 24
+      }
+    },
+    {
+      "kind": "text",
+      "text": "As shown in the video, I added the following states to keep user informed about the progress of the account creation and status of service being ran. Illustration below:",
+      "html": "As shown in the video, I added the following states to keep user informed about the progress of the account creation and status of service being ran. Illustration below:",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 8460,
+        "w": 560,
+        "h": 86
+      }
+    },
+    {
+      "kind": "image",
+      "src": "https://framerusercontent.com/images/AP9pP5IhsaeeZB9QKCS9KyOkfc.png?scale-down-to=1024&width=1397&height=1048",
+      "alt": "",
+      "natural": [
+        560,
+        420
+      ],
+      "rect": {
+        "x": 752,
+        "y": 8558,
+        "w": 560,
+        "h": 420
+      },
+      "fit": "cover",
+      "radius": "8px"
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "div",
+      "fontSize": 12,
+      "fontWeight": "400",
+      "fontFamily": "sans-serif",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "normal",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 8990,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 8998,
+        "w": 40,
+        "h": 24
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Tablet flow also covered four non-happy paths: NIN not found, identity mismatch on physical ID check, no business found under NIN, and an existing tax profile detected.",
+      "html": "Tablet flow also covered four non-happy paths: NIN not found, identity mismatch on physical ID check, no business found under NIN, and an existing tax profile detected.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 8994,
+        "w": 560,
+        "h": 86
+      }
+    },
+    {
+      "kind": "text",
+      "text": "2",
+      "html": "2",
+      "tag": "div",
+      "fontSize": 12,
+      "fontWeight": "400",
+      "fontFamily": "sans-serif",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "normal",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 9121,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "kind": "text",
+      "text": "2",
+      "html": "2",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 9129,
+        "w": 40,
+        "h": 24
+      }
+    },
+    {
+      "kind": "text",
+      "text": "POS App - Payment Collection Flow",
+      "html": "POS App - Payment Collection Flow",
+      "tag": "p",
+      "fontSize": 18,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "32.4px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 9125,
+        "w": 560,
+        "h": 32
+      }
+    },
+    {
+      "kind": "text",
+      "text": "I kept the payment flow minimal. The agent enters the taxpayer's Tax ID, which pulls up the outstanding tax debt. The taxpayer pays - either by ATM card or cash, and the agent processes the transaction. A receipt is printed immediately as proof of payment.",
+      "html": "I kept the payment flow minimal. The agent enters the taxpayer's Tax ID, which pulls up the outstanding tax debt. The taxpayer pays - either by ATM card or cash, and the agent processes the transaction. A receipt is printed immediately as proof of payment.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 9169,
+        "w": 560,
+        "h": 115
+      }
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "div",
+      "fontSize": 12,
+      "fontWeight": "400",
+      "fontFamily": "sans-serif",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "normal",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 9296,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 9304,
+        "w": 40,
+        "h": 24
+      }
+    },
+    {
+      "kind": "iframe",
+      "src": "https://azeem-pos-flow.netlify.app/",
+      "srcdoc": "",
+      "title": "",
+      "allow": "presentation; fullscreen; accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; clipboard-write",
+      "rect": {
+        "x": 752,
+        "y": 9300,
+        "w": 560,
+        "h": 420
+      }
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "div",
+      "fontSize": 12,
+      "fontWeight": "400",
+      "fontFamily": "sans-serif",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "normal",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 9732,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 9740,
+        "w": 40,
+        "h": 24
+      }
+    },
+    {
+      "kind": "video",
+      "src": "https://framerusercontent.com/assets/eDIEWqDgN6mlw0wCNfnTILa4M.webm",
+      "sources": [],
+      "poster": "",
+      "autoplay": true,
+      "loop": true,
+      "muted": true,
+      "controls": true,
+      "playsInline": true,
+      "rect": {
+        "x": 752,
+        "y": 9736,
+        "w": 560,
+        "h": 438
+      },
+      "radius": "8px"
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "div",
+      "fontSize": 12,
+      "fontWeight": "400",
+      "fontFamily": "sans-serif",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "normal",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 10186,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 10194,
+        "w": 40,
+        "h": 24
+      }
+    },
+    {
+      "kind": "text",
+      "text": "I designed some interactive feedbacks in certain paths of the flow as well. I use Lottie files and Aftereffects for animations.",
+      "html": "I designed some interactive feedbacks in certain paths of the flow as well. I use Lottie files and Aftereffects for animations.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 10190,
+        "w": 560,
+        "h": 58
+      }
+    },
+    {
+      "kind": "video",
+      "src": "https://framerusercontent.com/assets/kT1CTXxlrmbSpYwoPhrQDulWNY.webm",
+      "sources": [],
+      "poster": "",
+      "autoplay": true,
+      "loop": true,
+      "muted": true,
+      "controls": true,
+      "playsInline": true,
+      "rect": {
+        "x": 752,
+        "y": 10260,
+        "w": 560,
+        "h": 438
+      },
+      "radius": "8px"
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "div",
+      "fontSize": 12,
+      "fontWeight": "400",
+      "fontFamily": "sans-serif",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "normal",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 10710,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 10718,
+        "w": 40,
+        "h": 24
+      }
+    },
+    {
+      "kind": "text",
+      "text": "The decision to support both card and cash was grounded in how informal sector users actually interact with money. Nigeria has over 5.9 million active POS terminals - nearly 1,000 times the number of bank branches in the country (Technext), and a 2023 survey found that 36% of Nigerian adults had used a POS agent for deposits or withdrawals in the previous year, while formal bank branch visits dropped sharply after 2020 (Technext).",
+      "html": "The decision to support both card and cash was grounded in how informal sector users actually interact with money. Nigeria has over 5.9 million active POS terminals - nearly 1,000 times the number of bank branches in the country (Technext), and a 2023 survey found that 36% of Nigerian adults had used a POS agent for deposits or withdrawals in the previous year, while formal bank branch visits dropped sharply after 2020 (Technext).",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 10714,
+        "w": 560,
+        "h": 202
+      }
+    },
+    {
+      "kind": "text",
+      "text": "For informal market traders and artisans in particular, the informal economy runs on proximity, trust, and human relationships (Techpoint Africa) - and POS agents sit squarely within that. The ordinary Nigerian prefers to go to the POS to get cash rather than go to the ATM (IEEE Spectrum), a preference driven by the scarcity, withdrawal limits, and unreliability of the formal ATM network. Designing the tax payment experience to mirror that existing, familiar interaction reduced the behavioural barrier for taxpayers significantly. It was the appropriate design choice for the context.",
+      "html": "For informal market traders and artisans in particular, the informal economy runs on proximity, trust, and human relationships (Techpoint Africa) - and POS agents sit squarely within that. The ordinary Nigerian prefers to go to the POS to get cash rather than go to the ATM (IEEE Spectrum), a preference driven by the scarcity, withdrawal limits, and unreliability of the formal ATM network. Designing the tax payment experience to mirror that existing, familiar interaction reduced the behavioural barrier for taxpayers significantly. It was the appropriate design choice for the context.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 10935,
+        "w": 560,
+        "h": 259
+      }
+    },
+    {
+      "kind": "image",
+      "src": "https://framerusercontent.com/images/esRUhRudvayvggMZa8z5aTwuwA.jpg?width=740&height=490",
+      "alt": "",
+      "natural": [
+        560,
+        370
+      ],
+      "rect": {
+        "x": 752,
+        "y": 11207,
+        "w": 560,
+        "h": 420
+      },
+      "fit": "cover",
+      "radius": "8px"
+    },
+    {
+      "kind": "text",
+      "text": "3",
+      "html": "3",
+      "tag": "div",
+      "fontSize": 12,
+      "fontWeight": "400",
+      "fontFamily": "sans-serif",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "normal",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 11667,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "kind": "text",
+      "text": "3",
+      "html": "3",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 11675,
+        "w": 40,
+        "h": 24
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Admin Dashboard",
+      "html": "Admin Dashboard",
+      "tag": "p",
+      "fontSize": 18,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "32.4px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 11671,
+        "w": 560,
+        "h": 32
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Although, this was beyond scope for my aspect of the project, I proposed a dashboard screen to give state administrators visibility into agent activity and revenue performance, showing active agents, revenue streams broken down by LGA, and collection summaries.",
+      "html": "Although, this was beyond scope for my aspect of the project, I proposed a dashboard screen to give state administrators visibility into agent activity and revenue performance, showing active agents, revenue streams broken down by LGA, and collection summaries.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 11715,
+        "w": 560,
+        "h": 115
+      }
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "div",
+      "fontSize": 12,
+      "fontWeight": "400",
+      "fontFamily": "sans-serif",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "normal",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 11842,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 11850,
+        "w": 40,
+        "h": 24
+      }
+    },
+    {
+      "kind": "image",
+      "src": "https://framerusercontent.com/images/EZC1Iuj5ym1Vzk3UQYFeyjetO8A.png?scale-down-to=1024&width=1397&height=1048",
+      "alt": "",
+      "natural": [
+        560,
+        420
+      ],
+      "rect": {
+        "x": 752,
+        "y": 11846,
+        "w": 560,
+        "h": 420
+      },
+      "fit": "cover",
+      "radius": "8px"
+    },
+    {
+      "kind": "text",
+      "text": "Environment Factors",
+      "html": "Environment Factors",
+      "tag": "h2",
+      "fontSize": 26,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "39px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 12314,
+        "w": 240,
+        "h": 78
+      }
+    },
+    {
+      "kind": "text",
+      "text": "The system had to work for agents operating in environments with variable network connectivity and varying levels of digital literacy, so I kept flows short and sequential, with clear state feedback at every step,  particularly around the NIN lookup and the tax profile existence check, where ambiguity could lead to errors or duplicate records. Every decision point in the flow needed to be unambiguous enough that an agent could resolve it confidently without escalating.",
+      "html": "The system had to work for agents operating in environments with variable network connectivity and varying levels of digital literacy, so I kept flows short and sequential, with clear state feedback at every step, particularly around the NIN lookup and the tax profile existence check, where ambiguity could lead to errors or duplicate records. Every decision point in the flow needed to be unambiguous enough that an agent could resolve it confidently without escalating.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 12314,
+        "w": 624,
+        "h": 173
+      }
+    },
+    {
+      "kind": "text",
+      "text": "A Note on Technical Considerations",
+      "html": "A Note on Technical Considerations",
+      "tag": "h2",
+      "fontSize": 26,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "39px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 12535,
+        "w": 240,
+        "h": 78
+      }
+    },
+    {
+      "kind": "text",
+      "text": "One technical consideration worth highlighting was the application of an eager loading pattern to the Tax ID lookup. Borrowing from how Google prefetches account data the moment a user begins entering their email, I designed the system to begin loading the taxpayer's profile in the background as soon as the Tax ID was entered - before the agent explicitly confirmed or submitted. Given that the probability of proceeding after a valid Tax ID entry is naturally very high, and that field agents would be operating in markets and open areas with variable internet connectivity, reducing perceived load time at that critical step was an important interaction decision.",
+      "html": "One technical consideration worth highlighting was the application of an <strong>eager loading</strong> pattern to the Tax ID lookup. Borrowing from how Google prefetches account data the moment a user begins entering their email, I designed the system to begin loading the taxpayer's profile in the background as soon as the Tax ID was entered - before the agent explicitly confirmed or submitted. Given that the probability of proceeding after a valid Tax ID entry is naturally very high, and that field agents would be operating in markets and open areas with variable internet connectivity, reducing perceived load time at that critical step was an important interaction decision.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 12535,
+        "w": 624,
+        "h": 259
+      }
+    },
+    {
+      "kind": "image",
+      "src": "https://framerusercontent.com/images/7pQKqzYLTNo69sxG45MZ9pLwR8.png?scale-down-to=1024&width=2794&height=2272",
+      "alt": "",
+      "natural": [
+        624,
+        507
+      ],
+      "rect": {
+        "x": 688,
+        "y": 12806,
+        "w": 624,
+        "h": 468
+      },
+      "fit": "cover",
+      "radius": "8px"
+    },
+    {
+      "kind": "text",
+      "text": "The Impact",
+      "html": "The Impact",
+      "tag": "h2",
+      "fontSize": 26,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "39px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 13372,
+        "w": 240,
+        "h": 39
+      }
+    },
+    {
+      "kind": "text",
+      "text": "The urgency behind this project is reflected in Delta State's own revenue trajectory. In 2023, the Delta State Internal Revenue Service generated ₦114 billion against a target of ₦95 billion - surpassing the projection by over 20% and exceeding 2022 collections by 35.75%, described by the executive chairman as unprecedented in the state's history (Asaba Metro News). Despite that milestone, the DSIRS identified the informal sector as the focal point for meeting its 2024 projection of ₦136 billion, explicitly calling on artisans, unions, and associations to fulfil their tax obligations (Leadership Newspapers). The system designed in this project was a direct instrument for closing that gap - bringing the tax collection experience to where informal businesses already operate, rather than expecting them to come to government.",
+      "html": "The urgency behind this project is reflected in Delta State's own revenue trajectory. In 2023, the Delta State Internal Revenue Service generated ₦114 billion against a target of ₦95 billion - surpassing the projection by over 20% and exceeding 2022 collections by 35.75%, described by the executive chairman as unprecedented in the state's history (Asaba Metro News). Despite that milestone, the DSIRS identified the informal sector as the focal point for meeting its 2024 projection of ₦136 billion, explicitly calling on artisans, unions, and associations to fulfil their tax obligations (Leadership Newspapers). The system designed in this project was a direct instrument for closing that gap - bringing the tax collection experience to where informal businesses already operate, rather than expecting them to come to government.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 13372,
+        "w": 624,
+        "h": 317
+      }
+    },
+    {
+      "kind": "svg",
+      "html": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102))\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M14 1.75C14 1.33579 14.3358 1 14.75 1H18.25C18.6642 1 19 1.33579 19 1.75V5.25C19 5.66421 18.6642 6 18.25 6C17.8358 6 17.5 5.66421 17.5 5.25V3.56066L11.5303 9.53033C11.2374 9.82322 10.7626 9.82322 10.4697 9.53033C10.1768 9.23744 10.1768 8.76256 10.4697 8.46967L16.4393 2.5H14.75C14.3358 2.5 14 2.16421 14 1.75ZM1 4.75C1 3.23122 2.23122 2 3.75 2H9C9.41421 2 9.75 2.33579 9.75 2.75C9.75 3.16421 9.41421 3.5 9 3.5H3.75C3.05964 3.5 2.5 4.05964 2.5 4.75V16.25C2.5 16.9404 3.05964 17.5 3.75 17.5H15.25C15.9404 17.5 16.5 16.9404 16.5 16.25V11C16.5 10.5858 16.8358 10.25 17.25 10.25C17.6642 10.25 18 10.5858 18 11V16.25C18 17.7688 16.7688 19 15.25 19H3.75C2.23122 19 1 17.7688 1 16.25V4.75Z\"></path></svg>",
+      "rect": {
+        "x": 912,
+        "y": 13725,
+        "w": 20,
+        "h": 20
+      }
+    },
+    {
+      "kind": "text",
+      "text": "2025 Delta IGR Report",
+      "html": "2025 Delta IGR Report",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": "https://guardian.ng/issue/oborevworis-infrastructure-momentum-and-new-era-of-fiscal-discipline-in-delta/",
+      "rect": {
+        "x": 940,
+        "y": 13722,
+        "w": 149,
+        "h": 25
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Tools",
+      "html": "Tools",
+      "tag": "h2",
+      "fontSize": 26,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "39px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 13805,
+        "w": 240,
+        "h": 39
+      }
+    },
+    {
+      "kind": "svg",
+      "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\" style=\"fill: var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102));\"><title>Figma</title><path d=\"M15.852 8.981h-4.588V0h4.588c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.491-4.49 4.491zM12.735 7.51h3.117c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-3.117V7.51zm0 1.471H8.148c-2.476 0-4.49-2.014-4.49-4.49S5.672 0 8.148 0h4.588v8.981zm-4.587-7.51c-1.665 0-3.019 1.355-3.019 3.019s1.354 3.02 3.019 3.02h3.117V1.471H8.148zm4.587 15.019H8.148c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h4.588v8.98zM8.148 8.981c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h3.117V8.981H8.148zM8.172 24c-2.489 0-4.515-2.014-4.515-4.49s2.014-4.49 4.49-4.49h4.588v4.441c0 2.503-2.047 4.539-4.563 4.539zm-.024-7.51a3.023 3.023 0 0 0-3.019 3.019c0 1.665 1.365 3.019 3.044 3.019 1.705 0 3.093-1.376 3.093-3.068v-2.97H8.148zm7.704 0h-.098c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h.098c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.49-4.49 4.49zm-.097-7.509c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h.098c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-.098z\"></path></svg>",
+      "rect": {
+        "x": 708,
+        "y": 13825,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Figma",
+      "html": "Figma",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 756,
+        "y": 13826,
+        "w": 46,
+        "h": 29
+      }
+    },
+    {
+      "kind": "svg",
+      "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\" style=\"fill: var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102));\"><title>Files</title><path d=\"M12.367 2.453a.822.822 0 0 0-.576.238L.241 14.213a.822.822 0 0 0-.241.584v.066c0-.323.209-.608.516-.709l7.275-2.318a2.437 2.437 0 0 0 1.584-1.592l2.318-7.267a.757.757 0 0 1 .719-.524zM0 14.863v5.047c0 .904.733 1.637 1.637 1.637h20.726c.904 0 1.637-.733 1.637-1.637V4.09c0-.904-.733-1.637-1.637-1.637h-9.951v.5l.088 9.861c.01 1.175-.962 2.14-2.137 2.14L0 14.862zM12 3.66l-2.148 6.735v.001a2.94 2.94 0 0 1-1.909 1.916l-6.716 2.141h9.136c.905 0 1.638-.734 1.637-1.639zm-10.363.975c-.905 0-1.638.734-1.637 1.638v7.473l9.135-9.111Z\"></path></svg>",
+      "rect": {
+        "x": 708,
+        "y": 13901,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Research",
+      "html": "Research",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 756,
+        "y": 13902,
+        "w": 70,
+        "h": 29
+      }
+    },
+    {
+      "kind": "svg",
+      "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\" style=\"fill: var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102));\"><title>Figma</title><path d=\"M15.852 8.981h-4.588V0h4.588c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.491-4.49 4.491zM12.735 7.51h3.117c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-3.117V7.51zm0 1.471H8.148c-2.476 0-4.49-2.014-4.49-4.49S5.672 0 8.148 0h4.588v8.981zm-4.587-7.51c-1.665 0-3.019 1.355-3.019 3.019s1.354 3.02 3.019 3.02h3.117V1.471H8.148zm4.587 15.019H8.148c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h4.588v8.98zM8.148 8.981c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h3.117V8.981H8.148zM8.172 24c-2.489 0-4.515-2.014-4.515-4.49s2.014-4.49 4.49-4.49h4.588v4.441c0 2.503-2.047 4.539-4.563 4.539zm-.024-7.51a3.023 3.023 0 0 0-3.019 3.019c0 1.665 1.365 3.019 3.044 3.019 1.705 0 3.093-1.376 3.093-3.068v-2.97H8.148zm7.704 0h-.098c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h.098c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.49-4.49 4.49zm-.097-7.509c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h.098c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-.098z\"></path></svg>",
+      "rect": {
+        "x": 708,
+        "y": 13977,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Figjam",
+      "html": "Figjam",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 756,
+        "y": 13978,
+        "w": 50,
+        "h": 29
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Stakeholders' Credits",
+      "html": "Stakeholders' Credits",
+      "tag": "h2",
+      "fontSize": 26,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "39px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 14077,
+        "w": 240,
+        "h": 78
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Project Inititative - Dr. Joel Adidi (AnchorDataware Solutions)\nProduct Manager - Bolaji Abdullahi, PMP, MBA \nResearch & Design - Azeem Gbadamosi",
+      "html": "Project Inititative - Dr. Joel Adidi (AnchorDataware Solutions)<br>Product Manager - Bolaji Abdullahi, PMP, MBA <br>Research &amp; Design - Azeem Gbadamosi",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 14077,
+        "w": 624,
+        "h": 86
+      }
+    },
+    {
+      "kind": "text",
+      "text": "More projects",
+      "html": "More projects",
+      "tag": "h2",
+      "fontSize": 26,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "39px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 14261,
+        "w": 904,
+        "h": 39
+      }
+    },
+    {
+      "kind": "image",
+      "src": "https://framerusercontent.com/images/SxsOGYqgzGoGsJPDT874YcmBFzQ.png?scale-down-to=512&width=1920&height=1080",
+      "alt": "",
+      "natural": [
+        436,
+        245
+      ],
+      "rect": {
+        "x": 408,
+        "y": 14332,
+        "w": 436,
+        "h": 327
+      },
+      "fit": "cover",
+      "radius": "0px"
+    },
+    {
+      "kind": "text",
+      "text": "3D Video Direction for AUMI Cryptocurrency",
+      "html": "3D Video Direction for AUMI Cryptocurrency",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": "../visual-playground/3d-crypto-animation",
+      "rect": {
+        "x": 408,
+        "y": 14679,
+        "w": 436,
+        "h": 24
+      }
+    },
+    {
+      "kind": "text",
+      "text": "AutoMatic Yield Farming",
+      "html": "AutoMatic Yield Farming",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": "../visual-playground/3d-crypto-animation",
+      "rect": {
+        "x": 408,
+        "y": 14707,
+        "w": 436,
+        "h": 25
+      }
+    },
+    {
+      "kind": "image",
+      "src": "https://framerusercontent.com/images/dOyj9FQcxeSHQSVKA7PQoHke6k.jpg?scale-down-to=512&width=1600&height=1218",
+      "alt": "",
+      "natural": [
+        436,
+        332
+      ],
+      "rect": {
+        "x": 876,
+        "y": 14332,
+        "w": 436,
+        "h": 327
+      },
+      "fit": "cover",
+      "radius": "0px"
+    },
+    {
+      "kind": "text",
+      "text": "A UX Audit That Won a Government Contract -eCitiBiz",
+      "html": "A UX Audit That Won a Government Contract -eCitiBiz",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": "./ecitibiz-case-study",
+      "rect": {
+        "x": 876,
+        "y": 14679,
+        "w": 436,
+        "h": 24
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Citizenship and Business Department of Nigeria",
+      "html": "Citizenship and Business Department of Nigeria",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": "./ecitibiz-case-study",
+      "rect": {
+        "x": 876,
+        "y": 14707,
+        "w": 436,
+        "h": 25
+      }
+    },
+    {
+      "kind": "text",
+      "text": "All projects",
+      "html": "All projects",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(18, 18, 18)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": "../User-Experience-Interaction-Design",
+      "rect": {
+        "x": 823,
+        "y": 14774,
+        "w": 75,
+        "h": 25
+      }
+    }
+  ],
+  "links": [
+    {
+      "href": "../",
+      "text": "Azeem Gbadamosi\n\nInteraction Designer"
+    },
+    {
+      "href": "https://www.instagram.com/theabdulazeem.creative/",
+      "text": ""
+    },
+    {
+      "href": "https://www.behance.net/firstazeem",
+      "text": ""
+    },
+    {
+      "href": "https://www.linkedin.com/in/firstazeem/",
+      "text": ""
+    },
+    {
+      "href": "../",
+      "text": "Home"
+    },
+    {
+      "href": "../User-Experience-Interaction-Design",
+      "text": "Products"
+    },
+    {
+      "href": "../visual-playground",
+      "text": "Playground"
+    },
+    {
+      "href": "../about",
+      "text": "About"
+    },
+    {
+      "href": "../blog",
+      "text": "Blog"
+    },
+    {
+      "href": "../contact",
+      "text": "Contact"
+    },
+    {
+      "href": "../User-Experience-Interaction-Design",
+      "text": "Back to list"
+    },
+    {
+      "href": "https://guardian.ng/issue/oborevworis-infrastructure-momentum-and-new-era-of-fiscal-discipline-in-delta/",
+      "text": "2025 Delta IGR Report"
+    },
+    {
+      "href": "../visual-playground/3d-crypto-animation",
+      "text": "3D Video Direction for AUMI Cryptocurrency\n\nAutoMatic Yield Farming"
+    },
+    {
+      "href": "./ecitibiz-case-study",
+      "text": "A UX Audit That Won a Government Contract -eCitiBiz\n\nCitizenship and Business De"
+    },
+    {
+      "href": "../User-Experience-Interaction-Design",
+      "text": "All projects"
+    }
+  ],
+  "chrome": {
+    "navItems": [
+      {
+        "href": "../",
+        "label": "Azeem Gbadamosi\n\nInteraction Designer",
+        "svg": null,
+        "img": "https://framerusercontent.com/images/jjQiVkJ7P7L2gLbhkHRgZioVA.png?scale-down-to=1024",
+        "rect": {
+          "x": 61,
+          "y": 40,
+          "w": 158,
+          "h": 125
+        }
+      },
+      {
+        "href": "https://www.instagram.com/theabdulazeem.creative/",
+        "label": "",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\" style=\"fill: var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102));\"><title>Instagram</title><path d=\"M7.0301.084c-1.2768.0602-2.1487.264-2.911.5634-.7888.3075-1.4575.72-2.1228 1.3877-.6652.6677-1.075 1.3368-1.3802 2.127-.2954.7638-.4956 1.6365-.552 2.914-.0564 1.2775-.0689 1.6882-.0626 4.947.0062 3.2586.0206 3.6671.0825 4.9473.061 1.2765.264 2.1482.5635 2.9107.308.7889.72 1.4573 1.388 2.1228.6679.6655 1.3365 1.0743 2.1285 1.38.7632.295 1.6361.4961 2.9134.552 1.2773.056 1.6884.069 4.9462.0627 3.2578-.0062 3.668-.0207 4.9478-.0814 1.28-.0607 2.147-.2652 2.9098-.5633.7889-.3086 1.4578-.72 2.1228-1.3881.665-.6682 1.0745-1.3378 1.3795-2.1284.2957-.7632.4966-1.636.552-2.9124.056-1.2809.0692-1.6898.063-4.948-.0063-3.2583-.021-3.6668-.0817-4.9465-.0607-1.2797-.264-2.1487-.5633-2.9117-.3084-.7889-.72-1.4568-1.",
+        "img": null,
+        "rect": {
+          "x": 80,
+          "y": 197,
+          "w": 32,
+          "h": 32
+        }
+      },
+      {
+        "href": "https://www.behance.net/firstazeem",
+        "label": "",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\" style=\"fill: var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102));\"><title>Behance</title><path d=\"M16.969 16.927a2.561 2.561 0 0 0 1.901.677 2.501 2.501 0 0 0 1.531-.475c.362-.235.636-.584.779-.99h2.585a5.091 5.091 0 0 1-1.9 2.896 5.292 5.292 0 0 1-3.091.88 5.839 5.839 0 0 1-2.284-.433 4.871 4.871 0 0 1-1.723-1.211 5.657 5.657 0 0 1-1.08-1.874 7.057 7.057 0 0 1-.383-2.393c-.005-.8.129-1.595.396-2.349a5.313 5.313 0 0 1 5.088-3.604 4.87 4.87 0 0 1 2.376.563c.661.362 1.231.87 1.668 1.485a6.2 6.2 0 0 1 .943 2.133c.194.821.263 1.666.205 2.508h-7.699c-.063.79.184 1.574.688 2.187ZM6.947 4.084a8.065 8.065 0 0 1 1.928.198 4.29 4.29 0 0 1 1.49.638c.418.303.748.711.958 1.182.241.579.357 1.203.341 1.83a3.506 3.506 0 0 1-.506 1.961 3.726 3.726 0 0 1-1.503 1.287 3.588 3.588 0 0 1 2.027 1.437c.464.747.697 1.615.67 ",
+        "img": null,
+        "rect": {
+          "x": 124,
+          "y": 197,
+          "w": 32,
+          "h": 32
+        }
+      },
+      {
+        "href": "https://www.linkedin.com/in/firstazeem/",
+        "label": "",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\" style=\"fill: var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102));\"><title>LinkedIn</title><path d=\"M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z\"></path></svg>",
+        "img": null,
+        "rect": {
+          "x": 168,
+          "y": 197,
+          "w": 32,
+          "h": 32
+        }
+      },
+      {
+        "href": "../",
+        "label": "Home",
+        "svg": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102)) /* {&quot;name&quot;:&quot;Tertiary&quot;} */\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M9.5742 1.13259C9.83054 0.955803 10.1695 0.955803 10.4258 1.13259L16.8113 5.53636C17.5556 6.04967 18 6.89605 18 7.8002V16.25C18 17.7688 16.7688 19 15.25 19H4.75C3.23122 19 2 17.7688 2 16.25V7.8002C2 6.89605 2.44443 6.04967 3.18873 5.53636L9.5742 1.13259ZM8.5 17.5H11.5V12.75C11.5 12.6119 11.3881 12.5 11.25 12.5H8.75C8.61193 12.5 8.5 12.6119 8.5 12.75V17.5ZM13 17.5V12.75C13 11.7835 12.2165 11 11.25 11H8.75C7.7835 11 7 11.7835 7 12.75V17.5H4.75C4.05964 17.5 3.5 16.9404 3.5 16.25V7.8002C3.5 7.38922 3.70201 7.0045 4.04033 6.77118L10 2.66106L15.9597 6.77118C16.298 7.0045 16.5 7.38922 16.5 7.8002V16.25C16.5 16.9404 15.9404 17.5 15.25 17.5H13Z\">",
+        "img": null,
+        "rect": {
+          "x": 24,
+          "y": 261,
+          "w": 232,
+          "h": 40
+        }
+      },
+      {
+        "href": "../User-Experience-Interaction-Design",
+        "label": "Products",
+        "svg": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-849e5971-4e20-414b-85bc-9934f715adf8, rgb(17, 17, 17)) /* {&quot;name&quot;:&quot;Primary&quot;} */\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8.32378 2H11.6762C11.9337 1.99998 12.1702 1.99997 12.3679 2.01612C12.581 2.03353 12.8142 2.07339 13.0445 2.19074C13.3738 2.35852 13.6415 2.62624 13.8093 2.95552C13.9266 3.18583 13.9665 3.419 13.9839 3.63213C14 3.82981 14 4.06629 14 4.32377L14 5L16.6762 5C16.9337 4.99998 17.1702 4.99997 17.3679 5.01612C17.581 5.03353 17.8142 5.07339 18.0445 5.19074C18.3738 5.35852 18.6415 5.62624 18.8093 5.95552C18.9266 6.18583 18.9665 6.419 18.9839 6.63213C19 6.82981 19 7.06629 19 7.32377V11.6762C19 11.9337 19 12.1702 18.9839 12.3679C18.9665 12.581 18.9266 12.8142 18.8093 13.0445C18.6415 13.3738 18.3738 13.6415 18.0445 13.8093C18.0297 13.8168 18.0148 13.824",
+        "img": null,
+        "rect": {
+          "x": 24,
+          "y": 305,
+          "w": 232,
+          "h": 40
+        }
+      },
+      {
+        "href": "../visual-playground",
+        "label": "Playground",
+        "svg": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102)) /* {&quot;name&quot;:&quot;Tertiary&quot;} */\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M1 3.25C1 2.83579 1.33579 2.5 1.75 2.5H18.25C18.6642 2.5 19 2.83579 19 3.25C19 3.66421 18.6642 4 18.25 4H1.75C1.33579 4 1 3.66421 1 3.25ZM1 7.75C1 7.33579 1.33579 7 1.75 7H18.25C18.6642 7 19 7.33579 19 7.75C19 8.16421 18.6642 8.5 18.25 8.5H1.75C1.33579 8.5 1 8.16421 1 7.75ZM1 12.25C1 11.8358 1.33579 11.5 1.75 11.5H18.25C18.6642 11.5 19 11.8358 19 12.25C19 12.6642 18.6642 13 18.25 13H1.75C1.33579 13 1 12.6642 1 12.25ZM1 16.75C1 16.3358 1.33579 16 1.75 16H18.25C18.6642 16 19 16.3358 19 16.75C19 17.1642 18.6642 17.5 18.25 17.5H1.75C1.33579 17.5 1 17.1642 1 16.75Z\"></path></svg>",
+        "img": null,
+        "rect": {
+          "x": 24,
+          "y": 349,
+          "w": 232,
+          "h": 40
+        }
+      },
+      {
+        "href": "../about",
+        "label": "About",
+        "svg": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102)) /* {&quot;name&quot;:&quot;Tertiary&quot;} */\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10 2.5C8.61929 2.5 7.5 3.61929 7.5 5C7.5 6.38071 8.61929 7.5 10 7.5C11.3807 7.5 12.5 6.38071 12.5 5C12.5 3.61929 11.3807 2.5 10 2.5ZM6 5C6 2.79086 7.79086 1 10 1C12.2091 1 14 2.79086 14 5C14 7.20914 12.2091 9 10 9C7.79086 9 6 7.20914 6 5ZM3 16.625C3 13.5184 5.5184 11 8.625 11H11.375C14.4816 11 17 13.5184 17 16.625C17 17.9367 15.9367 19 14.625 19H5.375C4.06332 19 3 17.9367 3 16.625ZM8.625 12.5C6.34683 12.5 4.5 14.3468 4.5 16.625C4.5 17.1082 4.89175 17.5 5.375 17.5H14.625C15.1082 17.5 15.5 17.1082 15.5 16.625C15.5 14.3468 13.6532 12.5 11.375 12.5H8.625Z\"></path></svg>",
+        "img": null,
+        "rect": {
+          "x": 24,
+          "y": 393,
+          "w": 232,
+          "h": 40
+        }
+      },
+      {
+        "href": "../blog",
+        "label": "Blog",
+        "svg": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102)) /* {&quot;name&quot;:&quot;Tertiary&quot;} */\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12.8912 2.0481C13.5623 1.37701 14.4725 1 15.4216 1C17.3979 1 19 2.60212 19 4.57843C19 5.52748 18.623 6.43767 17.9519 7.10876L6.28033 18.7803C6.13968 18.921 5.94891 19 5.75 19H1.75C1.33579 19 1 18.6642 1 18.25V14.25C1 14.0511 1.07902 13.8603 1.21967 13.7197L12.8912 2.0481ZM15.4216 2.5C14.8703 2.5 14.3417 2.71898 13.9519 3.10876L13.5607 3.5L16.5 6.43934L16.8912 6.0481C17.281 5.65832 17.5 5.12966 17.5 4.57843C17.5 3.43054 16.5695 2.5 15.4216 2.5ZM15.4393 7.5L12.5 4.56066L2.5 14.5607V17.5H5.43934L15.4393 7.5Z\"></path></svg>",
+        "img": null,
+        "rect": {
+          "x": 24,
+          "y": 437,
+          "w": 232,
+          "h": 40
+        }
+      },
+      {
+        "href": "../contact",
+        "label": "Contact",
+        "svg": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102)) /* {&quot;name&quot;:&quot;Tertiary&quot;} */\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.56424 5.35337L10 9.63457L17.4358 5.35337C17.27 4.85744 16.8017 4.5 16.25 4.5H3.75C3.19828 4.5 2.73005 4.85744 2.56424 5.35337ZM17.5 7.04725L10.3742 11.15C10.1426 11.2833 9.85743 11.2833 9.62578 11.15L2.5 7.04725V14.25C2.5 14.9404 3.05964 15.5 3.75 15.5H16.25C16.9404 15.5 17.5 14.9404 17.5 14.25V7.04725ZM1 5.75C1 4.23122 2.23122 3 3.75 3H16.25C17.7688 3 19 4.23122 19 5.75V14.25C19 15.7688 17.7688 17 16.25 17H3.75C2.23122 17 1 15.7688 1 14.25V5.75Z\"></path></svg>",
+        "img": null,
+        "rect": {
+          "x": 24,
+          "y": 481,
+          "w": 232,
+          "h": 40
+        }
+      }
+    ],
+    "bodyBg": "rgb(244, 245, 245)",
+    "fonts": [
+      "Inter",
+      "Space Grotesk"
+    ]
+  },
+  "route": "/User-Experience-Interaction-Design/detla-state-igr"
+}

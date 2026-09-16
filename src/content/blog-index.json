@@ -1,0 +1,87 @@
+{
+  "name": "blog-index",
+  "route": "/blog",
+  "title": "Azeem Gbadamosi",
+  "header": {
+    "back": null,
+    "h1": "Blog",
+    "blocks": [
+      {
+        "t": "h1",
+        "html": "Blog",
+        "text": "Blog",
+        "indent": 0,
+        "x": 408,
+        "w": 904,
+        "size": 40
+      },
+      {
+        "t": "metaValue",
+        "html": "My insights, thoughts and interests in design",
+        "text": "My insights, thoughts and interests in design",
+        "indent": 0,
+        "x": 408,
+        "w": 904,
+        "size": 18,
+        "muted": true
+      },
+      {
+        "t": "metaLabel",
+        "html": "Aug 2023",
+        "text": "Aug 2023",
+        "indent": 0,
+        "x": 408,
+        "w": 624,
+        "size": 14
+      },
+      {
+        "t": "p",
+        "html": "The Future of UX: Embracing AI and Machine Learning",
+        "text": "The Future of UX: Embracing AI and Machine Learning",
+        "indent": 0,
+        "x": 408,
+        "w": 624,
+        "size": 22
+      },
+      {
+        "t": "p",
+        "html": "In the ever-evolving landscape of technology, AI and machine learning have emerged as pivotal elements in shaping the future of UI/UX design.",
+        "text": "In the ever-evolving landscape of technology, AI and machine learning have emerged as pivotal elements in shaping the future of UI/UX design.",
+        "indent": 0,
+        "x": 408,
+        "w": 624,
+        "size": 16,
+        "muted": true
+      }
+    ]
+  },
+  "footer": "© 2026 Azeem",
+  "sections": [
+    {
+      "heading": "",
+      "layout": "stacked",
+      "blocks": [],
+      "kind": "posts",
+      "items": [
+        {
+          "date": "",
+          "title": "",
+          "excerpt": "",
+          "href": "./blog/The-Future-of-UX",
+          "label": "Read More",
+          "image": "/media/s49AfbHYUq5Lg6YfFFK8nNpVooE.jpg"
+        },
+        {
+          "date": "Mar 2024",
+          "title": "Designing for Accessibility: A UI/UX Designer's Guide",
+          "excerpt": "Accessibility in design is not just a trend or a regulatory checkbox; it's a fundamental aspect of creating inclusive digital experiences.",
+          "href": "./blog/designing-for-accessibility-a-ui",
+          "label": "Read More",
+          "image": "/media/gHs2sNAqREUJQj3K763cJkGy8GM.jpg"
+        }
+      ],
+      "more": null
+    }
+  ],
+  "related": []
+}

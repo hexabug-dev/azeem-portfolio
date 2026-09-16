@@ -1,0 +1,194 @@
+{
+  "name": "home",
+  "route": "/",
+  "title": "Azeem Gbadamosi - Interaction Designer",
+  "header": {
+    "back": null,
+    "h1": "Researching for Insights, Designing for Impact.",
+    "blocks": [
+      {
+        "t": "h1",
+        "html": "Researching for Insights, Designing for Impact.",
+        "text": "Researching for Insights, Designing for Impact.",
+        "indent": 0,
+        "x": 408,
+        "w": 904,
+        "size": 40
+      },
+      {
+        "t": "metaValue",
+        "html": "Interaction designer and UX Researcher with a proven track record of transforming ideas into compelling digital experiences in government, fintech, business, education, entertainment and blockchain scenes.",
+        "text": "Interaction designer and UX Researcher with a proven track record of transforming ideas into compelling digital experiences in government, fintech, business, education, entertainment and blockchain scenes.",
+        "indent": 0,
+        "x": 408,
+        "w": 904,
+        "size": 18,
+        "muted": true
+      },
+      {
+        "t": "chip",
+        "html": "Estonia, Europe",
+        "text": "Estonia, Europe",
+        "indent": 0,
+        "x": 436,
+        "w": 118,
+        "size": 16,
+        "svg": "<svg fill=\"currentColor\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M14.2394 4.27881C11.8969 1.90706 8.10306 1.90706 5.76065 4.27881C3.41312 6.65573 3.41312 10.5133 5.76065 12.8902L10 17.1827L14.2394 12.8902C16.5869 10.5133 16.5869 6.65573 14.2394 4.27881ZM10 18.25L9.46634 18.777L4.69341 13.9443C1.76886 10.9831 1.76886 6.18593 4.69341 3.22477C7.62308 0.258411 12.3769 0.258411 15.3066 3.22477C18.2311 6.18593 18.2311 10.9831 15.3066 13.9443L10.5342 18.7764L10 18.25ZM10 18.25L10.5342 18.7764C10.3933 18.9191 10.2005 19 10 19C9.79947 19 9.60725 18.9197 9.46634 18.777L10 18.25ZM10 6.5C9.17157 6.5 8.5 7.17157 8.5 8C8.5 8.82843 9.17157 9.5 10 9.5C10.8284 9.5 11.5 8.82843 11.5 8C11.5 7.17157 10.8284 6.5 10 6.5ZM7 8C7 6.34315 8.34315 5 10 5C11.6569 5 13 6.34315 13 8C13 9.65685 11.6569 11 10 11C8.34315 11 7 9.65685 7 8Z\"></path></svg>"
+      },
+      {
+        "t": "action",
+        "html": "About",
+        "text": "About",
+        "href": "./about",
+        "indent": 0,
+        "x": 428,
+        "w": 40,
+        "size": 14
+      },
+      {
+        "t": "chip",
+        "html": "Copy e-mail",
+        "text": "Copy e-mail",
+        "indent": 0,
+        "x": 530,
+        "w": 91,
+        "size": 16
+      },
+      {
+        "t": "chip",
+        "html": "Copied!",
+        "text": "Copied!",
+        "indent": 0,
+        "x": 546,
+        "w": 58,
+        "size": 16
+      },
+      {
+        "t": "metaLabel",
+        "html": "Copy email",
+        "text": "Copy email",
+        "indent": 0,
+        "x": 553,
+        "w": 73,
+        "size": 14
+      }
+    ]
+  },
+  "footer": "",
+  "sections": [
+    {
+      "heading": "Featured Case Studies",
+      "layout": "stacked",
+      "blocks": [],
+      "kind": "cards",
+      "items": [
+        {
+          "image": "/media/NAHig5m7Pq6K5st4lXXqekHgY.jpg",
+          "title": "Smart Experience for Non-Smart TV Users",
+          "client": "Prixon UAE",
+          "href": "./User-Experience-Interaction-Design/prixon-inteface"
+        },
+        {
+          "image": "/media/dOyj9FQcxeSHQSVKA7PQoHke6k.jpg",
+          "title": "A UX Audit That Won a Government Contract - eCitiBiz",
+          "client": "Citizenship and Business Department of Nigeria",
+          "href": "./User-Experience-Interaction-Design/ecitibiz-case-study"
+        },
+        {
+          "image": "/media/pIcapelQfSS5teiijlFLC7PFnCM.jpg",
+          "title": "Field-First: Designing a Tax System for Market Traders and Artisans",
+          "client": "Delta State Internal Revenue Service",
+          "href": "./User-Experience-Interaction-Design/detla-state-igr"
+        },
+        {
+          "image": "/media/XDTFM9Y9JlG7SKESMM5sXAWVE.jpg",
+          "title": "Increasing Vendor KYC Completion from 35% to 71% on AnyWorkX",
+          "client": "AnyworkX Africa",
+          "href": "./User-Experience-Interaction-Design/anywork-verification"
+        }
+      ],
+      "more": {
+        "text": "All case studies",
+        "href": "./User-Experience-Interaction-Design"
+      }
+    },
+    {
+      "heading": "Projects",
+      "layout": "stacked",
+      "blocks": [],
+      "kind": "cards",
+      "items": [
+        {
+          "image": "/media/lFIbECpGycvXyWhIytcy3KUY.jpg",
+          "title": "Waqtly Software Suite: Deploying 7000 tablets for EU and UAE Homes",
+          "client": "Waqtly",
+          "href": "./User-Experience-Interaction-Design/waqtly-product-suite"
+        },
+        {
+          "image": "/media/mVX6j90gWujWhJ1guH3RTrBZDek.png",
+          "title": "Tallinn City Digital Twin",
+          "client": "Tallinn Strategic Management Office",
+          "href": "./User-Experience-Interaction-Design/tlldt"
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "What people say",
+      "layout": "stacked",
+      "blocks": [],
+      "kind": "quotes",
+      "items": [
+        {
+          "quote": "I have been working with Azeem since 2018 and I have never had any course to stop working with him. His attention to detail is magnificent and his willingness to learn and grow is amazing. He has a knack for creating teams with excellent personalities and managing them. He is a great guy!",
+          "name": "Bolaji Bayo-Tijani",
+          "role": "Executive Director, X-agon Digital Solutions"
+        },
+        {
+          "quote": "I worked with Azeem on several brand identity and designs. His creativity, professionalism and work ethics is outstanding. I look forward to working with Azeem on bigger projects.",
+          "name": "Femi Anthony",
+          "role": "Lead, Digital Communications & Strategy, 7even Interactive"
+        },
+        {
+          "quote": "We've worked with Azeem's team multiple times, and it has always been a pleasure! His redesign on our interfaces captivated our audience and made them easier to interact with. Azeem also works in a very timely manner, communicates and always ensures that you are fully satisfied with the results!",
+          "name": "Majito",
+          "role": "MD at Prixon.tv"
+        },
+        {
+          "quote": "AbdulAzeem is a manager who is able to read and interact with each team member without conflict. His leadership has really been a great inspiration both personal and career wise. Would love to work with him anytime, anywhere",
+          "name": "Mateen Gbadamosi",
+          "role": "Frontend Developer, TAZ Creative"
+        }
+      ],
+      "more": {
+        "text": "Load More"
+      }
+    },
+    {
+      "heading": "Blog",
+      "layout": "stacked",
+      "blocks": [],
+      "kind": "posts",
+      "items": [
+        {
+          "date": "Aug 2023 by Azeem Gbadamosi",
+          "title": "The Future of UX: Embracing AI and Machine Learning",
+          "excerpt": "In the ever-evolving landscape of technology, AI and machine learning have emerged as pivotal elements in shaping the future of UI/UX design.",
+          "href": "./blog/The-Future-of-UX",
+          "label": "Read More",
+          "image": "/media/s49AfbHYUq5Lg6YfFFK8nNpVooE.jpg"
+        },
+        {
+          "date": "Mar 2024 by Azeem Gbadamosi",
+          "title": "Designing for Accessibility: A UI/UX Designer's Guide",
+          "excerpt": "Accessibility in design is not just a trend or a regulatory checkbox; it's a fundamental aspect of creating inclusive digital experiences.",
+          "href": "./blog/The-Future-of-UX",
+          "label": "Read More",
+          "image": "/media/gHs2sNAqREUJQj3K763cJkGy8GM.jpg"
+        }
+      ],
+      "more": null
+    }
+  ],
+  "related": []
+}

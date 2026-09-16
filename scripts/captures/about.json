@@ -1,0 +1,1207 @@
+{
+  "url": "https://azeemolawale.com/about",
+  "title": "Azeem Gbadamosi",
+  "scrollHeight": 3364,
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "Azeem Gbadamosi",
+      "html": "Azeem Gbadamosi",
+      "tag": "h1",
+      "fontSize": 40,
+      "fontWeight": "700",
+      "fontFamily": "Space Grotesk",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "60px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 128,
+        "w": 904,
+        "h": 60
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Interaction Designer",
+      "html": "Interaction Designer",
+      "tag": "h1",
+      "fontSize": 32,
+      "fontWeight": "700",
+      "fontFamily": "Space Grotesk",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "48px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 188,
+        "w": 904,
+        "h": 48
+      }
+    },
+    {
+      "kind": "text",
+      "text": "I am a Visual and Interaction Designer with a successful history of turning ideas into captivating digital experiences in blockchain, fintech, retail, education, and entertainment industries. My expertise lies in engineering user-centered solutions for smart display systems, TV, web, and mobile platforms.",
+      "html": "I am a Visual and Interaction Designer with a successful history of turning ideas into captivating digital experiences in blockchain, fintech, retail, education, and entertainment industries. My expertise lies in engineering user-centered solutions for smart display systems, TV, web, and mobile platforms.",
+      "tag": "p",
+      "fontSize": 18,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "32.4px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 276,
+        "w": 904,
+        "h": 97
+      }
+    },
+    {
+      "kind": "text",
+      "text": "My proficiency in using cutting-edge tools and technologies help me improve engagement and build trust with users through design. Currently pursuing an MSc. in Human-Computer Interaction and looking to incorporate advanced design thinking methodologies into your project.",
+      "html": "My proficiency in using cutting-edge tools and technologies help me improve engagement and build trust with users through design. Currently pursuing an MSc. in Human-Computer Interaction and looking to incorporate advanced design thinking methodologies into your project.",
+      "tag": "p",
+      "fontSize": 18,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "32.4px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 393,
+        "w": 904,
+        "h": 97
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Skills",
+      "html": "Skills",
+      "tag": "h2",
+      "fontSize": 26,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "39px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 618,
+        "w": 904,
+        "h": 39
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Product Design & Prototyping",
+      "html": "Product Design &amp; Prototyping",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 428,
+        "y": 709,
+        "w": 223,
+        "h": 29
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Motion design (AE & Lottie)",
+      "html": "Motion design (AE &amp; Lottie)",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 882,
+        "y": 709,
+        "w": 206,
+        "h": 29
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Presentation Design",
+      "html": "Presentation Design",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 428,
+        "y": 782,
+        "w": 152,
+        "h": 29
+      }
+    },
+    {
+      "kind": "text",
+      "text": "UX Research & Testing",
+      "html": "UX Research &amp; Testing",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 882,
+        "y": 782,
+        "w": 172,
+        "h": 29
+      }
+    },
+    {
+      "kind": "text",
+      "text": "HTML, CSS & Javascript",
+      "html": "HTML, CSS &amp; Javascript",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 428,
+        "y": 855,
+        "w": 183,
+        "h": 29
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Branding, visual identity design",
+      "html": "Branding, visual identity design",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 882,
+        "y": 855,
+        "w": 236,
+        "h": 29
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Tools",
+      "html": "Tools",
+      "tag": "h2",
+      "fontSize": 26,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "39px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 1016,
+        "w": 904,
+        "h": 39
+      }
+    },
+    {
+      "kind": "svg",
+      "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\" style=\"fill: var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102));\"><title>Figma</title><path d=\"M15.852 8.981h-4.588V0h4.588c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.491-4.49 4.491zM12.735 7.51h3.117c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-3.117V7.51zm0 1.471H8.148c-2.476 0-4.49-2.014-4.49-4.49S5.672 0 8.148 0h4.588v8.981zm-4.587-7.51c-1.665 0-3.019 1.355-3.019 3.019s1.354 3.02 3.019 3.02h3.117V1.471H8.148zm4.587 15.019H8.148c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h4.588v8.98zM8.148 8.981c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h3.117V8.981H8.148zM8.172 24c-2.489 0-4.515-2.014-4.515-4.49s2.014-4.49 4.49-4.49h4.588v4.441c0 2.503-2.047 4.539-4.563 4.539zm-.024-7.51a3.023 3.023 0 0 0-3.019 3.019c0 1.665 1.365 3.019 3.044 3.019 1.705 0 3.093-1.376 3.093-3.068v-2.97H8.148zm7.704 0h-.098c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h.098c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.49-4.49 4.49zm-.097-7.509c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h.098c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-.098z\"></path></svg>",
+      "rect": {
+        "x": 428,
+        "y": 1107,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Figma",
+      "html": "Figma",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 476,
+        "y": 1108,
+        "w": 46,
+        "h": 29
+      }
+    },
+    {
+      "kind": "svg",
+      "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\" style=\"fill: var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102));\"><title>Framer</title><path d=\"M4 0h16v8h-8zM4 8h8l8 8H4zM4 16h8v8z\"></path></svg>",
+      "rect": {
+        "x": 882,
+        "y": 1107,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Framer",
+      "html": "Framer",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 930,
+        "y": 1108,
+        "w": 53,
+        "h": 29
+      }
+    },
+    {
+      "kind": "svg",
+      "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\" style=\"fill: var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102));\"><title>Adobe Photoshop</title><path d=\"M9.85 8.42c-.37-.15-.77-.21-1.18-.2-.26 0-.49 0-.68.01-.2-.01-.34 0-.41.01v3.36c.14.01.27.02.39.02h.53c.39 0 .78-.06 1.15-.18.32-.09.6-.28.82-.53.21-.25.31-.59.31-1.03.01-.31-.07-.62-.23-.89-.17-.26-.41-.46-.7-.57zM19.75.3H4.25C1.9.3 0 2.2 0 4.55v14.899c0 2.35 1.9 4.25 4.25 4.25h15.5c2.35 0 4.25-1.9 4.25-4.25V4.55C24 2.2 22.1.3 19.75.3zm-7.391 11.65c-.399.56-.959.98-1.609 1.22-.68.25-1.43.34-2.25.34-.24 0-.4 0-.5-.01s-.24-.01-.43-.01v3.209c.01.07-.04.131-.11.141H5.52c-.08 0-.12-.041-.12-.131V6.42c0-.07.03-.11.1-.11.17 0 .33 0 .56-.01.24-.01.49-.01.76-.02s.56-.01.87-.02c.31-.01.61-.01.91-.01.82 0 1.5.1 2.06.31.5.17.96.45 1.34.82.32.32.57.71.73 1.14.149.42.229.85.229 1.3.001.86-.199 1.57-.6 2.13zm7.091 3.89c-.28.4-.671.709-1.12.891-.49.209-1.09.318-1.811.318-.459 0-.91-.039-1.359-.129-.35-.061-.7-.17-1.02-.32-.07-.039-.121-.109-.111-.189v-1.74c0-.029.011-.07.041-.09.029-.02.06-.01.09.01.39.23.8.391 1.24.49.379.1.779.15 1.18.15.38 0 .65-.051.83-.141.16-.07.27-.24.27-.42 0-.141-.08-.27-.24-.4-.16-.129-.489-.279-.979-.471-.51-.18-.979-.42-1.42-.719-.31-.221-.569-.51-.761-.85-.159-.32-.239-.67-.229-1.021 0-.43.12-.84.341-1.21.25-.4.619-.72 1.049-.92.469-.239 1.059-.349 1.769-.349.41 0 .83.03 1.24.09.3.04.59.12.86.23.039.01.08.05.1.09.01.04.02.08.02.12v1.63c0 .04-.02.08-.05.1-.09.02-.14.02-.18 0-.3-.16-.62-.27-.96-.34-.37-.08-.74-.13-1.12-.13-.2-.01-.41.02-.601.07-.129.03-.24.1-.31.2-.05.08-.08.18-.08.27s.04.18.101.26c.09.11.209.2.34.27.229.12.47.23.709.33.541.18 1.061.43 1.541.73.33.209.6.49.789.83.16.318.24.67.23 1.029.011.471-.129.94-.389 1.331z\"></path></svg>",
+      "rect": {
+        "x": 428,
+        "y": 1183,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Photoshop",
+      "html": "Photoshop",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 476,
+        "y": 1184,
+        "w": 82,
+        "h": 29
+      }
+    },
+    {
+      "kind": "svg",
+      "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\" style=\"fill: var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102));\"><title>Adobe After Effects</title><path d=\"M8.54 10.73c-.1-.31-.19-.61-.29-.92s-.19-.6-.27-.89c-.08-.28-.15-.54-.22-.78h-.02c-.09.43-.2.86-.34 1.29-.15.48-.3.98-.46 1.48-.13.51-.29.98-.44 1.4h2.54c-.06-.21-.14-.46-.23-.72-.09-.27-.18-.56-.27-.86zm8.58-.29c-.55-.03-1.07.26-1.33.76-.12.23-.19.47-.22.72h2.109c.26 0 .45 0 .57-.01.08-.01.16-.03.23-.08v-.1c0-.13-.021-.25-.061-.37-.178-.56-.708-.94-1.298-.92zM19.75.3H4.25C1.9.3 0 2.2 0 4.55v14.9c0 2.35 1.9 4.25 4.25 4.25h15.5c2.35 0 4.25-1.9 4.25-4.25V4.55C24 2.2 22.1.3 19.75.3zm-7.04 16.511h-2.09c-.07.01-.14-.041-.16-.11l-.82-2.4H5.92l-.76 2.36c-.02.09-.1.15-.19.14H3.09c-.11 0-.14-.06-.11-.18L6.2 7.39c.03-.1.06-.19.1-.31.04-.21.06-.43.06-.65-.01-.05.03-.1.08-.11h2.59c.07 0 .12.03.13.08l3.65 10.25c.03.11.001.161-.1.161zm7.851-3.991c-.021.189-.031.33-.041.42-.01.07-.069.13-.14.13-.06 0-.17.01-.33.021-.159.02-.35.029-.579.029-.23 0-.471-.04-.73-.04h-3.17c.039.31.14.62.31.89.181.271.431.48.729.601.4.17.841.26 1.281.25.35-.011.699-.04 1.039-.11.311-.039.61-.119.891-.23.05-.039.08-.02.08.08v1.531c0 .039-.01.08-.021.119-.021.03-.04.051-.069.07-.32.14-.65.24-1 .3-.471.09-.94.13-1.42.12-.761 0-1.4-.12-1.92-.35-.49-.211-.921-.541-1.261-.95-.319-.39-.55-.83-.69-1.31-.14-.471-.209-.961-.209-1.461 0-.539.08-1.07.25-1.59.16-.5.41-.96.75-1.37.33-.4.739-.72 1.209-.95.471-.23 1.03-.31 1.67-.31.531-.01 1.06.09 1.55.31.41.18.77.45 1.05.8.26.34.47.72.601 1.14.129.4.189.81.189 1.22 0 .24-.01.45-.019.64z\"></path></svg>",
+      "rect": {
+        "x": 882,
+        "y": 1183,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Aftereffects",
+      "html": "Aftereffects",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 930,
+        "y": 1184,
+        "w": 90,
+        "h": 29
+      }
+    },
+    {
+      "kind": "svg",
+      "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\" style=\"fill: var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102));\"><title>OpenAI</title><path d=\"M22.2819 9.8211a5.9847 5.9847 0 0 0-.5157-4.9108 6.0462 6.0462 0 0 0-6.5098-2.9A6.0651 6.0651 0 0 0 4.9807 4.1818a5.9847 5.9847 0 0 0-3.9977 2.9 6.0462 6.0462 0 0 0 .7427 7.0966 5.98 5.98 0 0 0 .511 4.9107 6.051 6.051 0 0 0 6.5146 2.9001A5.9847 5.9847 0 0 0 13.2599 24a6.0557 6.0557 0 0 0 5.7718-4.2058 5.9894 5.9894 0 0 0 3.9977-2.9001 6.0557 6.0557 0 0 0-.7475-7.0729zm-9.022 12.6081a4.4755 4.4755 0 0 1-2.8764-1.0408l.1419-.0804 4.7783-2.7582a.7948.7948 0 0 0 .3927-.6813v-6.7369l2.02 1.1686a.071.071 0 0 1 .038.052v5.5826a4.504 4.504 0 0 1-4.4945 4.4944zm-9.6607-4.1254a4.4708 4.4708 0 0 1-.5346-3.0137l.142.0852 4.783 2.7582a.7712.7712 0 0 0 .7806 0l5.8428-3.3685v2.3324a.0804.0804 0 0 1-.0332.0615L9.74 19.9502a4.4992 4.4992 0 0 1-6.1408-1.6464zM2.3408 7.8956a4.485 4.485 0 0 1 2.3655-1.9728V11.6a.7664.7664 0 0 0 .3879.6765l5.8144 3.3543-2.0201 1.1685a.0757.0757 0 0 1-.071 0l-4.8303-2.7865A4.504 4.504 0 0 1 2.3408 7.872zm16.5963 3.8558L13.1038 8.364 15.1192 7.2a.0757.0757 0 0 1 .071 0l4.8303 2.7913a4.4944 4.4944 0 0 1-.6765 8.1042v-5.6772a.79.79 0 0 0-.407-.667zm2.0107-3.0231l-.142-.0852-4.7735-2.7818a.7759.7759 0 0 0-.7854 0L9.409 9.2297V6.8974a.0662.0662 0 0 1 .0284-.0615l4.8303-2.7866a4.4992 4.4992 0 0 1 6.6802 4.66zM8.3065 12.863l-2.02-1.1638a.0804.0804 0 0 1-.038-.0567V6.0742a4.4992 4.4992 0 0 1 7.3757-3.4537l-.142.0805L8.704 5.459a.7948.7948 0 0 0-.3927.6813zm1.0976-2.3654l2.602-1.4998 2.6069 1.4998v2.9994l-2.5974 1.4997-2.6067-1.4997Z\"></path></svg>",
+      "rect": {
+        "x": 428,
+        "y": 1259,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "kind": "text",
+      "text": "ChatGPT & Generative AI Tools",
+      "html": "ChatGPT &amp; Generative AI Tools",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 476,
+        "y": 1260,
+        "w": 234,
+        "h": 29
+      }
+    },
+    {
+      "kind": "svg",
+      "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\" style=\"fill: var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102));\"><title>Visual Studio Code</title><path d=\"M23.15 2.587L18.21.21a1.494 1.494 0 0 0-1.705.29l-9.46 8.63-4.12-3.128a.999.999 0 0 0-1.276.057L.327 7.261A1 1 0 0 0 .326 8.74L3.899 12 .326 15.26a1 1 0 0 0 .001 1.479L1.65 17.94a.999.999 0 0 0 1.276.057l4.12-3.128 9.46 8.63a1.492 1.492 0 0 0 1.704.29l4.942-2.377A1.5 1.5 0 0 0 24 20.06V3.939a1.5 1.5 0 0 0-.85-1.352zm-5.146 14.861L10.826 12l7.178-5.448v10.896z\"></path></svg>",
+      "rect": {
+        "x": 882,
+        "y": 1259,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Visual Studio Code",
+      "html": "Visual Studio Code",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 930,
+        "y": 1260,
+        "w": 143,
+        "h": 29
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Experience",
+      "html": "Experience",
+      "tag": "h2",
+      "fontSize": 26,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "39px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 1431,
+        "w": 904,
+        "h": 39
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Sept. 2017 - Present",
+      "html": "Sept. 2017 - Present",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 1502,
+        "w": 200,
+        "h": 29
+      }
+    },
+    {
+      "kind": "text",
+      "text": "TAZ Creative",
+      "html": "TAZ Creative",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 640,
+        "y": 1502,
+        "w": 672,
+        "h": 29
+      }
+    },
+    {
+      "kind": "text",
+      "text": "UX & Design Lead",
+      "html": "<strong>UX &amp; Design Lead</strong>",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 640,
+        "y": 1531,
+        "w": 672,
+        "h": 25
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Spearheaded the UX design of an e-service web app for a Nigerian government MDA, leading to a streamlined application process, enhanced online engagement, and a significant boost in the department's revenue.",
+      "html": "Spearheaded the UX design of an e-service web app for a Nigerian government MDA, leading to a streamlined application process, enhanced online engagement, and a significant boost in the department's revenue.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 640,
+        "y": 1580,
+        "w": 672,
+        "h": 86
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Revamped the onboarding UX of AnyWorkX Afirca  to achieve 45% more completions for in the first year of launch.",
+      "html": "Revamped the onboarding UX of AnyWorkX Afirca to achieve 45% more completions for in the first year of launch.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 640,
+        "y": 1686,
+        "w": 672,
+        "h": 58
+      }
+    },
+    {
+      "kind": "text",
+      "text": "0 to 500 member growth in my digital creator community and organizing virtual events and courses to support creative development.",
+      "html": "0 to 500 member growth in my digital creator community and organizing virtual events and courses to support creative development.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 640,
+        "y": 1764,
+        "w": 672,
+        "h": 58
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Aug. 2020 - Dec. 2023",
+      "html": "Aug. 2020 - Dec. 2023",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 1903,
+        "w": 200,
+        "h": 29
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Prixon & DonTV.eu",
+      "html": "Prixon &amp; DonTV.eu",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 640,
+        "y": 1903,
+        "w": 672,
+        "h": 29
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Interaction Designer (Smart TV Boxes)",
+      "html": "<strong>Interaction Designer (Smart TV Boxes)</strong>",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 640,
+        "y": 1932,
+        "w": 672,
+        "h": 25
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Redesigned system UIs for Prixon's LINUX and ANDROID OTT boxes and overhauled the UX Design for the company's on-demand app, DonTV, resulting in lower churn rates on subscriptions, higher viewerships over one year, with a marked enhancement in user interaction.",
+      "html": "Redesigned system UIs for Prixon's LINUX and ANDROID OTT boxes and overhauled the UX Design for the company's on-demand app, DonTV, resulting in lower churn rates on subscriptions, higher viewerships over one year, with a marked enhancement in user interaction.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 640,
+        "y": 1981,
+        "w": 672,
+        "h": 115
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Jan. 2020 - Jan. 2024",
+      "html": "Jan. 2020 - Jan. 2024",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 2179,
+        "w": 200,
+        "h": 29
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Creat! Naija",
+      "html": "Creat! Naija",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 640,
+        "y": 2179,
+        "w": 672,
+        "h": 29
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Head of Design & Media Director",
+      "html": "<strong>Head of Design &amp; Media Director</strong>",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 640,
+        "y": 2207,
+        "w": 672,
+        "h": 25
+      }
+    },
+    {
+      "kind": "text",
+      "text": "40% savings on advert costs and 98% achievement of the seat reservation target for the AFEC 2022 Conference.",
+      "html": "40% savings on advert costs and 98% achievement of the seat reservation target for the AFEC 2022 Conference.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 640,
+        "y": 2257,
+        "w": 672,
+        "h": 58
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Co-led a successful launch of VIVO Mobile’s V27 Series and played a pivotal role in orchestrating the launch event for Nigeria’s first Oracle® Exadata Cloud@Customer in collaboration with 21st Century Technologies.",
+      "html": "Co-led a successful launch of VIVO Mobile’s V27 Series and played a pivotal role in orchestrating the launch event for Nigeria’s first Oracle® Exadata Cloud@Customer in collaboration with 21st Century Technologies.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 640,
+        "y": 2334,
+        "w": 672,
+        "h": 86
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Education",
+      "html": "Education",
+      "tag": "h2",
+      "fontSize": 26,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "39px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 2541,
+        "w": 904,
+        "h": 39
+      }
+    },
+    {
+      "kind": "text",
+      "text": "2023",
+      "html": "2023",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 2612,
+        "w": 200,
+        "h": 29
+      }
+    },
+    {
+      "kind": "text",
+      "text": "MSc. Human-Computer Interaction",
+      "html": "MSc. Human-Computer Interaction",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 640,
+        "y": 2612,
+        "w": 672,
+        "h": 29
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Tallinn University",
+      "html": "<strong>Tallinn University</strong>",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 640,
+        "y": 2640,
+        "w": 672,
+        "h": 25
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Gaining proficiency in cutting-edge disciplines including design thinking, generative research, design fiction, and end-user computing. Drove knowledge dissemination by organizing Figma design workshops for fellow HCI practitioners.",
+      "html": "Gaining proficiency in cutting-edge disciplines including design thinking, generative research, design fiction, and end-user computing. Drove knowledge dissemination by organizing Figma design workshops for fellow HCI practitioners.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 640,
+        "y": 2690,
+        "w": 672,
+        "h": 86
+      }
+    },
+    {
+      "kind": "text",
+      "text": "2020",
+      "html": "2020",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 2858,
+        "w": 200,
+        "h": 29
+      }
+    },
+    {
+      "kind": "text",
+      "text": "BSc. Agric. Extension (Sociology & Communication)",
+      "html": "BSc. Agric. Extension (Sociology &amp; Communication)",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 640,
+        "y": 2858,
+        "w": 672,
+        "h": 29
+      }
+    },
+    {
+      "kind": "text",
+      "text": "FUNAAB",
+      "html": "<strong>FUNAAB</strong>",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 640,
+        "y": 2887,
+        "w": 672,
+        "h": 25
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Spearheaded a comprehensive Needs and Problem Assessment initiative employing the powerful Pairwise Ranking Tool and demonstrated exceptional leadership skills as Batch Coordinator for my research team, overseeing various projects and ensuring seamless collaboration.",
+      "html": "Spearheaded a comprehensive Needs and Problem Assessment initiative employing the powerful Pairwise Ranking Tool and demonstrated exceptional leadership skills as Batch Coordinator for my research team, overseeing various projects and ensuring seamless collaboration.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 640,
+        "y": 2936,
+        "w": 672,
+        "h": 115
+      }
+    },
+    {
+      "kind": "text",
+      "text": "© 2026 Azeem",
+      "html": "© 2026 Azeem",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(153, 153, 153)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 3211,
+        "w": 904,
+        "h": 25
+      }
+    }
+  ],
+  "links": [
+    {
+      "href": "./",
+      "text": "Azeem Gbadamosi\n\nInteraction Designer"
+    },
+    {
+      "href": "https://www.instagram.com/theabdulazeem.creative/",
+      "text": ""
+    },
+    {
+      "href": "https://www.behance.net/firstazeem",
+      "text": ""
+    },
+    {
+      "href": "https://www.linkedin.com/in/firstazeem/",
+      "text": ""
+    },
+    {
+      "href": "./",
+      "text": "Home"
+    },
+    {
+      "href": "./User-Experience-Interaction-Design",
+      "text": "Products"
+    },
+    {
+      "href": "./visual-playground",
+      "text": "Playground"
+    },
+    {
+      "href": "./about",
+      "text": "About"
+    },
+    {
+      "href": "./blog",
+      "text": "Blog"
+    },
+    {
+      "href": "./contact",
+      "text": "Contact"
+    }
+  ],
+  "chrome": {
+    "navItems": [
+      {
+        "href": "./",
+        "label": "Azeem Gbadamosi\n\nInteraction Designer",
+        "svg": null,
+        "img": "https://framerusercontent.com/images/jjQiVkJ7P7L2gLbhkHRgZioVA.png?scale-down-to=1024",
+        "rect": {
+          "x": 61,
+          "y": 40,
+          "w": 158,
+          "h": 125
+        }
+      },
+      {
+        "href": "https://www.instagram.com/theabdulazeem.creative/",
+        "label": "",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\" style=\"fill: var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102));\"><title>Instagram</title><path d=\"M7.0301.084c-1.2768.0602-2.1487.264-2.911.5634-.7888.3075-1.4575.72-2.1228 1.3877-.6652.6677-1.075 1.3368-1.3802 2.127-.2954.7638-.4956 1.6365-.552 2.914-.0564 1.2775-.0689 1.6882-.0626 4.947.0062 3.2586.0206 3.6671.0825 4.9473.061 1.2765.264 2.1482.5635 2.9107.308.7889.72 1.4573 1.388 2.1228.6679.6655 1.3365 1.0743 2.1285 1.38.7632.295 1.6361.4961 2.9134.552 1.2773.056 1.6884.069 4.9462.0627 3.2578-.0062 3.668-.0207 4.9478-.0814 1.28-.0607 2.147-.2652 2.9098-.5633.7889-.3086 1.4578-.72 2.1228-1.3881.665-.6682 1.0745-1.3378 1.3795-2.1284.2957-.7632.4966-1.636.552-2.9124.056-1.2809.0692-1.6898.063-4.948-.0063-3.2583-.021-3.6668-.0817-4.9465-.0607-1.2797-.264-2.1487-.5633-2.9117-.3084-.7889-.72-1.4568-1.",
+        "img": null,
+        "rect": {
+          "x": 80,
+          "y": 197,
+          "w": 32,
+          "h": 32
+        }
+      },
+      {
+        "href": "https://www.behance.net/firstazeem",
+        "label": "",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\" style=\"fill: var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102));\"><title>Behance</title><path d=\"M16.969 16.927a2.561 2.561 0 0 0 1.901.677 2.501 2.501 0 0 0 1.531-.475c.362-.235.636-.584.779-.99h2.585a5.091 5.091 0 0 1-1.9 2.896 5.292 5.292 0 0 1-3.091.88 5.839 5.839 0 0 1-2.284-.433 4.871 4.871 0 0 1-1.723-1.211 5.657 5.657 0 0 1-1.08-1.874 7.057 7.057 0 0 1-.383-2.393c-.005-.8.129-1.595.396-2.349a5.313 5.313 0 0 1 5.088-3.604 4.87 4.87 0 0 1 2.376.563c.661.362 1.231.87 1.668 1.485a6.2 6.2 0 0 1 .943 2.133c.194.821.263 1.666.205 2.508h-7.699c-.063.79.184 1.574.688 2.187ZM6.947 4.084a8.065 8.065 0 0 1 1.928.198 4.29 4.29 0 0 1 1.49.638c.418.303.748.711.958 1.182.241.579.357 1.203.341 1.83a3.506 3.506 0 0 1-.506 1.961 3.726 3.726 0 0 1-1.503 1.287 3.588 3.588 0 0 1 2.027 1.437c.464.747.697 1.615.67 ",
+        "img": null,
+        "rect": {
+          "x": 124,
+          "y": 197,
+          "w": 32,
+          "h": 32
+        }
+      },
+      {
+        "href": "https://www.linkedin.com/in/firstazeem/",
+        "label": "",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\" style=\"fill: var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102));\"><title>LinkedIn</title><path d=\"M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z\"></path></svg>",
+        "img": null,
+        "rect": {
+          "x": 168,
+          "y": 197,
+          "w": 32,
+          "h": 32
+        }
+      },
+      {
+        "href": "./",
+        "label": "Home",
+        "svg": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102)) /* {&quot;name&quot;:&quot;Tertiary&quot;} */\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M9.5742 1.13259C9.83054 0.955803 10.1695 0.955803 10.4258 1.13259L16.8113 5.53636C17.5556 6.04967 18 6.89605 18 7.8002V16.25C18 17.7688 16.7688 19 15.25 19H4.75C3.23122 19 2 17.7688 2 16.25V7.8002C2 6.89605 2.44443 6.04967 3.18873 5.53636L9.5742 1.13259ZM8.5 17.5H11.5V12.75C11.5 12.6119 11.3881 12.5 11.25 12.5H8.75C8.61193 12.5 8.5 12.6119 8.5 12.75V17.5ZM13 17.5V12.75C13 11.7835 12.2165 11 11.25 11H8.75C7.7835 11 7 11.7835 7 12.75V17.5H4.75C4.05964 17.5 3.5 16.9404 3.5 16.25V7.8002C3.5 7.38922 3.70201 7.0045 4.04033 6.77118L10 2.66106L15.9597 6.77118C16.298 7.0045 16.5 7.38922 16.5 7.8002V16.25C16.5 16.9404 15.9404 17.5 15.25 17.5H13Z\">",
+        "img": null,
+        "rect": {
+          "x": 24,
+          "y": 261,
+          "w": 232,
+          "h": 40
+        }
+      },
+      {
+        "href": "./User-Experience-Interaction-Design",
+        "label": "Products",
+        "svg": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102)) /* {&quot;name&quot;:&quot;Tertiary&quot;} */\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8.32378 2H11.6762C11.9337 1.99998 12.1702 1.99997 12.3679 2.01612C12.581 2.03353 12.8142 2.07339 13.0445 2.19074C13.3738 2.35852 13.6415 2.62624 13.8093 2.95552C13.9266 3.18583 13.9665 3.419 13.9839 3.63213C14 3.82981 14 4.06629 14 4.32377L14 5L16.6762 5C16.9337 4.99998 17.1702 4.99997 17.3679 5.01612C17.581 5.03353 17.8142 5.07339 18.0445 5.19074C18.3738 5.35852 18.6415 5.62624 18.8093 5.95552C18.9266 6.18583 18.9665 6.419 18.9839 6.63213C19 6.82981 19 7.06629 19 7.32377V11.6762C19 11.9337 19 12.1702 18.9839 12.3679C18.9665 12.581 18.9266 12.8142 18.8093 13.0445C18.6415 13.3738 18.3738 13.6415 18.0445 13.8093C18.0297 13.8168 18.0148 13",
+        "img": null,
+        "rect": {
+          "x": 24,
+          "y": 305,
+          "w": 232,
+          "h": 40
+        }
+      },
+      {
+        "href": "./visual-playground",
+        "label": "Playground",
+        "svg": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102)) /* {&quot;name&quot;:&quot;Tertiary&quot;} */\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M1 3.25C1 2.83579 1.33579 2.5 1.75 2.5H18.25C18.6642 2.5 19 2.83579 19 3.25C19 3.66421 18.6642 4 18.25 4H1.75C1.33579 4 1 3.66421 1 3.25ZM1 7.75C1 7.33579 1.33579 7 1.75 7H18.25C18.6642 7 19 7.33579 19 7.75C19 8.16421 18.6642 8.5 18.25 8.5H1.75C1.33579 8.5 1 8.16421 1 7.75ZM1 12.25C1 11.8358 1.33579 11.5 1.75 11.5H18.25C18.6642 11.5 19 11.8358 19 12.25C19 12.6642 18.6642 13 18.25 13H1.75C1.33579 13 1 12.6642 1 12.25ZM1 16.75C1 16.3358 1.33579 16 1.75 16H18.25C18.6642 16 19 16.3358 19 16.75C19 17.1642 18.6642 17.5 18.25 17.5H1.75C1.33579 17.5 1 17.1642 1 16.75Z\"></path></svg>",
+        "img": null,
+        "rect": {
+          "x": 24,
+          "y": 349,
+          "w": 232,
+          "h": 40
+        }
+      },
+      {
+        "href": "./about",
+        "label": "About",
+        "svg": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-849e5971-4e20-414b-85bc-9934f715adf8, rgb(17, 17, 17)) /* {&quot;name&quot;:&quot;Primary&quot;} */\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10 2.5C8.61929 2.5 7.5 3.61929 7.5 5C7.5 6.38071 8.61929 7.5 10 7.5C11.3807 7.5 12.5 6.38071 12.5 5C12.5 3.61929 11.3807 2.5 10 2.5ZM6 5C6 2.79086 7.79086 1 10 1C12.2091 1 14 2.79086 14 5C14 7.20914 12.2091 9 10 9C7.79086 9 6 7.20914 6 5ZM3 16.625C3 13.5184 5.5184 11 8.625 11H11.375C14.4816 11 17 13.5184 17 16.625C17 17.9367 15.9367 19 14.625 19H5.375C4.06332 19 3 17.9367 3 16.625ZM8.625 12.5C6.34683 12.5 4.5 14.3468 4.5 16.625C4.5 17.1082 4.89175 17.5 5.375 17.5H14.625C15.1082 17.5 15.5 17.1082 15.5 16.625C15.5 14.3468 13.6532 12.5 11.375 12.5H8.625Z\"></path></svg>",
+        "img": null,
+        "rect": {
+          "x": 24,
+          "y": 393,
+          "w": 232,
+          "h": 40
+        }
+      },
+      {
+        "href": "./blog",
+        "label": "Blog",
+        "svg": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102)) /* {&quot;name&quot;:&quot;Tertiary&quot;} */\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12.8912 2.0481C13.5623 1.37701 14.4725 1 15.4216 1C17.3979 1 19 2.60212 19 4.57843C19 5.52748 18.623 6.43767 17.9519 7.10876L6.28033 18.7803C6.13968 18.921 5.94891 19 5.75 19H1.75C1.33579 19 1 18.6642 1 18.25V14.25C1 14.0511 1.07902 13.8603 1.21967 13.7197L12.8912 2.0481ZM15.4216 2.5C14.8703 2.5 14.3417 2.71898 13.9519 3.10876L13.5607 3.5L16.5 6.43934L16.8912 6.0481C17.281 5.65832 17.5 5.12966 17.5 4.57843C17.5 3.43054 16.5695 2.5 15.4216 2.5ZM15.4393 7.5L12.5 4.56066L2.5 14.5607V17.5H5.43934L15.4393 7.5Z\"></path></svg>",
+        "img": null,
+        "rect": {
+          "x": 24,
+          "y": 437,
+          "w": 232,
+          "h": 40
+        }
+      },
+      {
+        "href": "./contact",
+        "label": "Contact",
+        "svg": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102)) /* {&quot;name&quot;:&quot;Tertiary&quot;} */\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.56424 5.35337L10 9.63457L17.4358 5.35337C17.27 4.85744 16.8017 4.5 16.25 4.5H3.75C3.19828 4.5 2.73005 4.85744 2.56424 5.35337ZM17.5 7.04725L10.3742 11.15C10.1426 11.2833 9.85743 11.2833 9.62578 11.15L2.5 7.04725V14.25C2.5 14.9404 3.05964 15.5 3.75 15.5H16.25C16.9404 15.5 17.5 14.9404 17.5 14.25V7.04725ZM1 5.75C1 4.23122 2.23122 3 3.75 3H16.25C17.7688 3 19 4.23122 19 5.75V14.25C19 15.7688 17.7688 17 16.25 17H3.75C2.23122 17 1 15.7688 1 14.25V5.75Z\"></path></svg>",
+        "img": null,
+        "rect": {
+          "x": 24,
+          "y": 481,
+          "w": 232,
+          "h": 40
+        }
+      }
+    ],
+    "bodyBg": "rgb(244, 245, 245)",
+    "fonts": [
+      "Inter",
+      "Space Grotesk"
+    ]
+  },
+  "route": "/about"
+}

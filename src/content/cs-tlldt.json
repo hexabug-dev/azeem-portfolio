@@ -1,0 +1,197 @@
+{
+  "name": "cs-tlldt",
+  "route": "/User-Experience-Interaction-Design/tlldt",
+  "title": "Azeem Gbadamosi",
+  "header": {
+    "back": {
+      "text": "Back to list",
+      "href": "../User-Experience-Interaction-Design"
+    },
+    "h1": "Tallinn City Digital Twin",
+    "blocks": [
+      {
+        "t": "tag",
+        "html": "3D Visualization",
+        "text": "3D Visualization",
+        "indent": 0,
+        "x": 420,
+        "w": 106,
+        "size": 14
+      },
+      {
+        "t": "tag",
+        "html": "Government",
+        "text": "Government",
+        "indent": 0,
+        "x": 562,
+        "w": 81,
+        "size": 14
+      },
+      {
+        "t": "h1",
+        "html": "Tallinn City Digital Twin",
+        "text": "Tallinn City Digital Twin",
+        "indent": 0,
+        "x": 408,
+        "w": 904,
+        "size": 40
+      },
+      {
+        "t": "metaValue",
+        "html": "The Tallinn City Digital Twin is a high-fidelity virtual replica of the city developed in collaboration with the <strong>Tallinn Strategic Management Office</strong> (<strong>Tallinna Strateegiakeskus</strong>). Now officially handed over to the city and still in active development, the platform serves as a primary foundation for smarter, data-driven urban governance.",
+        "text": "The Tallinn City Digital Twin is a high-fidelity virtual replica of the city developed in collaboration with the Tallinn Strategic Management Office (Tallinna Strateegiakeskus). Now officially handed over to the city and still in active development, the platform serves as a primary foundation for smarter, data-driven urban governance.",
+        "indent": 0,
+        "x": 408,
+        "w": 904,
+        "size": 18,
+        "muted": true
+      },
+      {
+        "t": "image",
+        "src": "/media/pnrrE1MUTw3daxqOagtSpRLs5kE.png",
+        "w": 1920,
+        "h": 1440,
+        "indent": 0,
+        "x": 408,
+        "dw": 904,
+        "alt": ""
+      }
+    ]
+  },
+  "footer": "",
+  "sections": [
+    {
+      "heading": "Overview",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "This project provides an interactive 3D map of Tallinn featuring embedded city data and precise mappings of underground infrastructure, including water and electricity networks, for civilian workers such as excavators and city planners. The system incorporates AI-driven monitoring to prioritize and report city faults, and real-time infrastructure maintenance.",
+          "text": "This project provides an interactive 3D map of Tallinn featuring embedded city data and precise mappings of underground infrastructure, including water and electricity networks, for civilian workers such as excavators and city planners. The system incorporates AI-driven monitoring to prioritize and report city faults, and real-time infrastructure maintenance.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "video",
+          "src": "/media/Dh1roWamosZcnt0dD7Pl3yAky20.mp4",
+          "indent": 0,
+          "x": 408,
+          "dw": 904,
+          "ratio": 1.776
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "Gallery",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "<strong>Full case study coming soon.</strong>",
+          "text": "Full case study coming soon.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "p",
+          "html": "I spearheaded the initial phase through foundational research and extensive stakeholder interviews within the city office to align technical requirements with operational needs. My contributions included rigorous industry benchmarking, analysis of utility modeling, and prototyping the interactive interface for frontline civil engineering workflows.",
+          "text": "I spearheaded the initial phase through foundational research and extensive stakeholder interviews within the city office to align technical requirements with operational needs. My contributions included rigorous industry benchmarking, analysis of utility modeling, and prototyping the interactive interface for frontline civil engineering workflows.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "image",
+          "src": "/media/zYsFaG5ItUIO7xw1UYMFguCiNk.jpeg",
+          "w": 624,
+          "h": 468,
+          "indent": 0,
+          "x": 688,
+          "dw": 624,
+          "alt": ""
+        },
+        {
+          "t": "image",
+          "src": "/media/ZNXcgc4mUwXFgqwoIkzYTMvDSSU.jpeg",
+          "w": 624,
+          "h": 468,
+          "indent": 0,
+          "x": 688,
+          "dw": 624,
+          "alt": ""
+        },
+        {
+          "t": "image",
+          "src": "/media/b0wVKNEYag72C0v3riEseXPi0.jpg",
+          "w": 624,
+          "h": 489,
+          "indent": 0,
+          "x": 688,
+          "dw": 624,
+          "alt": ""
+        },
+        {
+          "t": "image",
+          "src": "/media/hMIja8guJhlOsMhLJTWC8vHbnoo.jpg",
+          "w": 624,
+          "h": 416,
+          "indent": 0,
+          "x": 688,
+          "dw": 624,
+          "alt": ""
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "Tools",
+      "layout": "split",
+      "blocks": [],
+      "kind": "chips",
+      "items": [
+        {
+          "text": "Figma",
+          "w": 46,
+          "svg": "<svg fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\"><title>Figma</title><path d=\"M15.852 8.981h-4.588V0h4.588c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.491-4.49 4.491zM12.735 7.51h3.117c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-3.117V7.51zm0 1.471H8.148c-2.476 0-4.49-2.014-4.49-4.49S5.672 0 8.148 0h4.588v8.981zm-4.587-7.51c-1.665 0-3.019 1.355-3.019 3.019s1.354 3.02 3.019 3.02h3.117V1.471H8.148zm4.587 15.019H8.148c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h4.588v8.98zM8.148 8.981c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h3.117V8.981H8.148zM8.172 24c-2.489 0-4.515-2.014-4.515-4.49s2.014-4.49 4.49-4.49h4.588v4.441c0 2.503-2.047 4.539-4.563 4.539zm-.024-7.51a3.023 3.023 0 0 0-3.019 3.019c0 1.665 1.365 3.019 3.044 3.019 1.705 0 3.093-1.376 3.093-3.068v-2.97H8.148zm7.704 0h-.098c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h.098c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.49-4.49 4.49zm-.097-7.509c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h.098c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-.098z\"></path></svg>"
+        },
+        {
+          "text": "OpenAI",
+          "w": 56,
+          "svg": "<svg fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\"><title>OpenAI</title><path d=\"M22.2819 9.8211a5.9847 5.9847 0 0 0-.5157-4.9108 6.0462 6.0462 0 0 0-6.5098-2.9A6.0651 6.0651 0 0 0 4.9807 4.1818a5.9847 5.9847 0 0 0-3.9977 2.9 6.0462 6.0462 0 0 0 .7427 7.0966 5.98 5.98 0 0 0 .511 4.9107 6.051 6.051 0 0 0 6.5146 2.9001A5.9847 5.9847 0 0 0 13.2599 24a6.0557 6.0557 0 0 0 5.7718-4.2058 5.9894 5.9894 0 0 0 3.9977-2.9001 6.0557 6.0557 0 0 0-.7475-7.0729zm-9.022 12.6081a4.4755 4.4755 0 0 1-2.8764-1.0408l.1419-.0804 4.7783-2.7582a.7948.7948 0 0 0 .3927-.6813v-6.7369l2.02 1.1686a.071.071 0 0 1 .038.052v5.5826a4.504 4.504 0 0 1-4.4945 4.4944zm-9.6607-4.1254a4.4708 4.4708 0 0 1-.5346-3.0137l.142.0852 4.783 2.7582a.7712.7712 0 0 0 .7806 0l5.8428-3.3685v2.3324a.0804.0804 0 0 1-.0332.0615L9.74 19.9502a4.4992 4.4992 0 0 1-6.1408-1.6464zM2.3408 7.8956a4.485 4.485 0 0 1 2.3655-1.9728V11.6a.7664.7664 0 0 0 .3879.6765l5.8144 3.3543-2.0201 1.1685a.0757.0757 0 0 1-.071 0l-4.8303-2.7865A4.504 4.504 0 0 1 2.3408 7.872zm16.5963 3.8558L13.1038 8.364 15.1192 7.2a.0757.0757 0 0 1 .071 0l4.8303 2.7913a4.4944 4.4944 0 0 1-.6765 8.1042v-5.6772a.79.79 0 0 0-.407-.667zm2.0107-3.0231l-.142-.0852-4.7735-2.7818a.7759.7759 0 0 0-.7854 0L9.409 9.2297V6.8974a.0662.0662 0 0 1 .0284-.0615l4.8303-2.7866a4.4992 4.4992 0 0 1 6.6802 4.66zM8.3065 12.863l-2.02-1.1638a.0804.0804 0 0 1-.038-.0567V6.0742a4.4992 4.4992 0 0 1 7.3757-3.4537l-.142.0805L8.704 5.459a.7948.7948 0 0 0-.3927.6813zm1.0976-2.3654l2.602-1.4998 2.6069 1.4998v2.9994l-2.5974 1.4997-2.6067-1.4997Z\"></path></svg>"
+        },
+        {
+          "text": "Research",
+          "w": 70,
+          "svg": "<svg fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\"><title>Files</title><path d=\"M12.367 2.453a.822.822 0 0 0-.576.238L.241 14.213a.822.822 0 0 0-.241.584v.066c0-.323.209-.608.516-.709l7.275-2.318a2.437 2.437 0 0 0 1.584-1.592l2.318-7.267a.757.757 0 0 1 .719-.524zM0 14.863v5.047c0 .904.733 1.637 1.637 1.637h20.726c.904 0 1.637-.733 1.637-1.637V4.09c0-.904-.733-1.637-1.637-1.637h-9.951v.5l.088 9.861c.01 1.175-.962 2.14-2.137 2.14L0 14.862zM12 3.66l-2.148 6.735v.001a2.94 2.94 0 0 1-1.909 1.916l-6.716 2.141h9.136c.905 0 1.638-.734 1.637-1.639zm-10.363.975c-.905 0-1.638.734-1.637 1.638v7.473l9.135-9.111Z\"></path></svg>"
+        },
+        {
+          "text": "Figjam",
+          "w": 50,
+          "svg": "<svg fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\"><title>Figma</title><path d=\"M15.852 8.981h-4.588V0h4.588c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.491-4.49 4.491zM12.735 7.51h3.117c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-3.117V7.51zm0 1.471H8.148c-2.476 0-4.49-2.014-4.49-4.49S5.672 0 8.148 0h4.588v8.981zm-4.587-7.51c-1.665 0-3.019 1.355-3.019 3.019s1.354 3.02 3.019 3.02h3.117V1.471H8.148zm4.587 15.019H8.148c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h4.588v8.98zM8.148 8.981c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h3.117V8.981H8.148zM8.172 24c-2.489 0-4.515-2.014-4.515-4.49s2.014-4.49 4.49-4.49h4.588v4.441c0 2.503-2.047 4.539-4.563 4.539zm-.024-7.51a3.023 3.023 0 0 0-3.019 3.019c0 1.665 1.365 3.019 3.044 3.019 1.705 0 3.093-1.376 3.093-3.068v-2.97H8.148zm7.704 0h-.098c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h.098c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.49-4.49 4.49zm-.097-7.509c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h.098c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-.098z\"></path></svg>"
+        }
+      ],
+      "more": null
+    }
+  ],
+  "related": [
+    {
+      "image": "/media/SxsOGYqgzGoGsJPDT874YcmBFzQ.png",
+      "title": "3D Video Direction for AUMI Cryptocurrency",
+      "client": "AutoMatic Yield Farming"
+    },
+    {
+      "image": "/media/dOyj9FQcxeSHQSVKA7PQoHke6k.jpg",
+      "title": "A UX Audit That Won a Government Contract -eCitiBiz",
+      "client": "Citizenship and Business Department of Nigeria"
+    }
+  ]
+}

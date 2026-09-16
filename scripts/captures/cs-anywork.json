@@ -1,0 +1,2276 @@
+{
+  "url": "https://azeemolawale.com/User-Experience-Interaction-Design/anywork-verification",
+  "title": "Azeem Gbadamosi",
+  "scrollHeight": 9315,
+  "blocks": [
+    {
+      "kind": "svg",
+      "html": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102))\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M11.7996 6.23966C12.0814 6.5432 12.0639 7.01775 11.7603 7.2996L8.85221 10L11.7603 12.7004C12.0639 12.9823 12.0814 13.4568 11.7996 13.7603C11.5177 14.0639 11.0432 14.0815 10.7397 13.7996L7.23966 10.5496C7.08684 10.4077 7 10.2086 7 10C7 9.79145 7.08684 9.59232 7.23966 9.45041L10.7397 6.20041C11.0432 5.91856 11.5177 5.93613 11.7996 6.23966Z\"></path></svg>",
+      "rect": {
+        "x": 408,
+        "y": 51,
+        "w": 20,
+        "h": 20
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Back to list",
+      "html": "Back to list",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(18, 18, 18)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": "../User-Experience-Interaction-Design",
+      "rect": {
+        "x": 436,
+        "y": 48,
+        "w": 73,
+        "h": 25
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Verification",
+      "html": "Verification",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 420,
+        "y": 173,
+        "w": 74,
+        "h": 25
+      }
+    },
+    {
+      "kind": "text",
+      "text": "UX Evaluation",
+      "html": "UX Evaluation",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 530,
+        "y": 173,
+        "w": 91,
+        "h": 25
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Increasing Vendor KYC Completion from 35% to 71% on AnyWorkX",
+      "html": "Increasing Vendor KYC Completion from 35% to 71% on AnyWorkX",
+      "tag": "h1",
+      "fontSize": 40,
+      "fontWeight": "700",
+      "fontFamily": "Space Grotesk",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "60px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 232,
+        "w": 904,
+        "h": 120
+      }
+    },
+    {
+      "kind": "text",
+      "text": "AnyWorkX is an on-demand service marketplace - think Bolt, but for skilled professionals. Need a plumber at 8pm or a mechanic for your broken down vehicle on the highway to another city? You open AnyWorkX, find a verified vendor nearby, and request their service. The platform's value to customers depends entirely on one thing: having a healthy pool of verified, bookable service providers. That's where the problem began.",
+      "html": "AnyWorkX is an on-demand service marketplace - think Bolt, but for skilled professionals. Need a plumber at 8pm or a mechanic for your broken down vehicle on the highway to another city? You open AnyWorkX, find a verified vendor nearby, and request their service. The platform's value to customers depends entirely on one thing: having a healthy pool of verified, bookable service providers. That's where the problem began.",
+      "tag": "p",
+      "fontSize": 18,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "32.4px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 360,
+        "w": 904,
+        "h": 130
+      }
+    },
+    {
+      "kind": "image",
+      "src": "https://framerusercontent.com/images/6k5IgwdIZ4tmoFRigBIfa5DXpIA.png?width=1356&height=1163",
+      "alt": "",
+      "natural": [
+        1356,
+        1163
+      ],
+      "rect": {
+        "x": 408,
+        "y": 546,
+        "w": 904,
+        "h": 678
+      },
+      "fit": "cover",
+      "radius": "12px"
+    },
+    {
+      "kind": "image",
+      "src": "https://framerusercontent.com/images/9VyXqe7BcuaAI8WnKoXz0wunNjs.png?width=1356&height=1017",
+      "alt": "",
+      "natural": [
+        1356,
+        1017
+      ],
+      "rect": {
+        "x": 408,
+        "y": 1264,
+        "w": 904,
+        "h": 678
+      },
+      "fit": "cover",
+      "radius": "12px"
+    },
+    {
+      "kind": "svg",
+      "html": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-1eebb7f4-8df8-4da6-9f01-369cd97e4eac, rgb(161, 88, 48))\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6.75 1C7.16421 1 7.5 1.33579 7.5 1.75V3H12.5V1.75C12.5 1.33579 12.8358 1 13.25 1C13.6642 1 14 1.33579 14 1.75V3H16.25C17.7688 3 19 4.23122 19 5.75V16.25C19 17.7688 17.7688 19 16.25 19H3.75C2.23122 19 1 17.7688 1 16.25V5.75C1 4.23122 2.23122 3 3.75 3H6V1.75C6 1.33579 6.33579 1 6.75 1ZM6 4.5H3.75C3.05964 4.5 2.5 5.05964 2.5 5.75V8H17.5V5.75C17.5 5.05964 16.9404 4.5 16.25 4.5H14V5.25C14 5.66421 13.6642 6 13.25 6C12.8358 6 12.5 5.66421 12.5 5.25V4.5H7.5V5.25C7.5 5.66421 7.16421 6 6.75 6C6.33579 6 6 5.66421 6 5.25V4.5ZM17.5 9.5H2.5V16.25C2.5 16.9404 3.05964 17.5 3.75 17.5H16.25C16.9404 17.5 17.5 16.9404 17.5 16.25V9.5Z\"></path></svg>",
+      "rect": {
+        "x": 623,
+        "y": 2030,
+        "w": 20,
+        "h": 20
+      }
+    },
+    {
+      "kind": "text",
+      "text": "3 weeks",
+      "html": "3 weeks",
+      "tag": "p",
+      "fontSize": 18,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "32.4px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 598,
+        "y": 2066,
+        "w": 69,
+        "h": 32
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Duration",
+      "html": "Duration",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 605,
+        "y": 2098,
+        "w": 56,
+        "h": 25
+      }
+    },
+    {
+      "kind": "svg",
+      "html": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-1eebb7f4-8df8-4da6-9f01-369cd97e4eac, rgb(161, 88, 48))\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10 2.5C8.61929 2.5 7.5 3.61929 7.5 5C7.5 6.38071 8.61929 7.5 10 7.5C11.3807 7.5 12.5 6.38071 12.5 5C12.5 3.61929 11.3807 2.5 10 2.5ZM6 5C6 2.79086 7.79086 1 10 1C12.2091 1 14 2.79086 14 5C14 7.20914 12.2091 9 10 9C7.79086 9 6 7.20914 6 5ZM3 16.625C3 13.5184 5.5184 11 8.625 11H10.75C11.1642 11 11.5 11.3358 11.5 11.75C11.5 12.1642 11.1642 12.5 10.75 12.5H8.625C6.34683 12.5 4.5 14.3468 4.5 16.625C4.5 17.1082 4.89175 17.5 5.375 17.5H8.75C9.16421 17.5 9.5 17.8358 9.5 18.25C9.5 18.6642 9.16421 19 8.75 19H5.375C4.06332 19 3 17.9367 3 16.625ZM19.765 13.2047C20.0661 13.4891 20.0797 13.9638 19.7953 14.265L15.5453 18.765C15.4014 18.9173 15.2005 19.0025 14.991 18.9999C14.7815 18.9974 14.5827 18.9074 14.4425 18.7517L12.1925 16.2517C11.9154 15.9438 11.9404 15.4696 12.2483 15.1925C12.5562 14.9154 13.0304 14.9404 13.3075 15.2483L15.0133 17.1436L18.7047 13.235C18.9892 12.9339 19.4638 12.9203 19.765 13.2047Z\"></path></svg>",
+      "rect": {
+        "x": 1077,
+        "y": 2030,
+        "w": 20,
+        "h": 20
+      }
+    },
+    {
+      "kind": "text",
+      "text": "UX Researching",
+      "html": "UX Researching",
+      "tag": "p",
+      "fontSize": 18,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "32.4px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 1021,
+        "y": 2066,
+        "w": 133,
+        "h": 32
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Role",
+      "html": "Role",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 1073,
+        "y": 2098,
+        "w": 29,
+        "h": 25
+      }
+    },
+    {
+      "kind": "text",
+      "text": "The Problem",
+      "html": "The Problem",
+      "tag": "h2",
+      "fontSize": 26,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "39px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 2212,
+        "w": 240,
+        "h": 39
+      }
+    },
+    {
+      "kind": "text",
+      "text": "To be listed and bookable on the platform, vendors must complete Tier 1 KYC (Know Your Customer) verification after registration. Following the first wave of a marketing campaign, admins observed a significant drop-off: a large number of vendors were signing up but not completing KYC, leaving them in a \"no-kyc\" status and invisible to customers. An initial analytics pull confirmed the scale. Out of 1,286 sign-ups, only 452 had completed Tier 1 KYC, a completion rate of 35%. A week later, with sign-ups reaching 1,560, the rate had only edged up to 39%. The problem was clear and measurable.",
+      "html": "To be listed and bookable on the platform, vendors must complete Tier 1 KYC (Know Your Customer) verification after registration. Following the first wave of a marketing campaign, admins observed a significant drop-off: a large number of vendors were signing up but not completing KYC, leaving them in a \"no-kyc\" status and invisible to customers. An initial analytics pull confirmed the scale. Out of 1,286 sign-ups, only 452 had completed Tier 1 KYC, a completion rate of 35%. A week later, with sign-ups reaching 1,560, the rate had only edged up to 39%. The problem was clear and measurable.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 2212,
+        "w": 624,
+        "h": 230
+      }
+    },
+    {
+      "kind": "text",
+      "text": "My Role",
+      "html": "My Role",
+      "tag": "h2",
+      "fontSize": 26,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "39px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 2540,
+        "w": 240,
+        "h": 39
+      }
+    },
+    {
+      "kind": "text",
+      "text": "This was more of a probem solving role than a design exercise. I led the UX research and recommendations on this project, directly collaborating with the Product Manager and indirectly, the Customer-facing team. I designed the research plan, ran the user interviews personally, and drove the synthesis and design recommendations through to implementation alongside the development team.",
+      "html": "This was more of a probem solving role than a design exercise. I led the UX research and recommendations on this project, directly collaborating with the Product Manager and indirectly, the Customer-facing team. I designed the research plan, ran the user interviews personally, and drove the synthesis and design recommendations through to implementation alongside the development team.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 2540,
+        "w": 624,
+        "h": 173
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Research Goals",
+      "html": "Research Goals",
+      "tag": "h2",
+      "fontSize": 26,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "39px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 2811,
+        "w": 240,
+        "h": 39
+      }
+    },
+    {
+      "kind": "text",
+      "text": "We set out to understand three things: what was motivating (or discouraging) vendors from completing KYC, where specifically in the flow they were dropping off, and what design interventions could meaningfully move the completion rate. Below are the KPIs.",
+      "html": "We set out to understand three things: what was motivating (or discouraging) vendors from completing KYC, where specifically in the flow they were dropping off, and what design interventions could meaningfully move the completion rate. Below are the KPIs.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 2811,
+        "w": 624,
+        "h": 115
+      }
+    },
+    {
+      "kind": "text",
+      "text": "1",
+      "html": "1",
+      "tag": "div",
+      "fontSize": 12,
+      "fontWeight": "400",
+      "fontFamily": "sans-serif",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "normal",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 2950,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "kind": "text",
+      "text": "1",
+      "html": "1",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 2958,
+        "w": 40,
+        "h": 24
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Primary: KYC Completion Rates",
+      "html": "Primary: KYC Completion Rates",
+      "tag": "p",
+      "fontSize": 18,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "32.4px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 2954,
+        "w": 560,
+        "h": 32
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Vendor completion rate of Tier 1 KYC after registration",
+      "html": "Vendor completion rate of Tier 1 KYC after registration",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 2998,
+        "w": 560,
+        "h": 29
+      }
+    },
+    {
+      "kind": "text",
+      "text": "2",
+      "html": "2",
+      "tag": "div",
+      "fontSize": 12,
+      "fontWeight": "400",
+      "fontFamily": "sans-serif",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "normal",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 3037,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "kind": "text",
+      "text": "2",
+      "html": "2",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 3045,
+        "w": 40,
+        "h": 24
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Secondary: Time and User Reported Satisfaction",
+      "html": "Secondary: Time and User Reported Satisfaction",
+      "tag": "p",
+      "fontSize": 18,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "32.4px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 3041,
+        "w": 560,
+        "h": 32
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Time taken to complete KYC and user-reported satisfaction with the experience",
+      "html": "Time taken to complete KYC and user-reported satisfaction with the experience",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 3086,
+        "w": 560,
+        "h": 58
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Research Approach",
+      "html": "Research Approach",
+      "tag": "h2",
+      "fontSize": 26,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "39px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 3241,
+        "w": 240,
+        "h": 39
+      }
+    },
+    {
+      "kind": "text",
+      "text": "I designed a multi-method research plan that moved from quantitative signal to qualitative depth.",
+      "html": "I designed a multi-method research plan that moved from quantitative signal to qualitative depth.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 3241,
+        "w": 624,
+        "h": 58
+      }
+    },
+    {
+      "kind": "image",
+      "src": "https://framerusercontent.com/images/z37vrT6GTEhMiYZ5sk1eeYIKiVM.png?scale-down-to=1024&width=1076&height=763",
+      "alt": "",
+      "natural": [
+        624,
+        442
+      ],
+      "rect": {
+        "x": 688,
+        "y": 3311,
+        "w": 624,
+        "h": 468
+      },
+      "fit": "cover",
+      "radius": "8px"
+    },
+    {
+      "kind": "text",
+      "text": "We reached out to new onboards via in-app modals, emails and mostly phone calls since we were dealing with a mix of user segments (some tech savvy, some not). This part was handled by the customer team. The goal was to recruit two distinct groups and gather restrospective feedback about the signup process:",
+      "html": "We reached out to new onboards via in-app modals, emails and mostly phone calls since we were dealing with a mix of user segments (some tech savvy, some not). This part was handled by the customer team. The goal was to recruit two distinct groups and gather restrospective feedback about the signup process:",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 3791,
+        "w": 624,
+        "h": 115
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Vendors who successfully completed KYC verification (Completers)",
+      "html": "Vendors who successfully completed KYC verification <em>(Completers)</em>",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 708,
+        "y": 3926,
+        "w": 604,
+        "h": 29
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Vendors who abandoned the KYC process (Drop-offs)",
+      "html": "Vendors who abandoned the KYC process <em>(Drop-offs)</em>",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 708,
+        "y": 3955,
+        "w": 604,
+        "h": 29
+      }
+    },
+    {
+      "kind": "text",
+      "text": "I recommended tagetting those who were most recently registered for the sake of memory. To recruit them, we offered incentives of Airtime vouchers. Although there was little visibility on in-app behaviour data to map exactly where vendors were abandoning the registration/KYC flow, the development team gave data on this from pulling events from Segment.",
+      "html": "I recommended tagetting those who were most recently registered for the sake of memory. To recruit them, we offered incentives of Airtime vouchers. Although there was little visibility on in-app behaviour data to map exactly where vendors were abandoning the registration/KYC flow, the development team gave data on this from pulling events from Segment.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 4004,
+        "w": 624,
+        "h": 144
+      }
+    },
+    {
+      "kind": "text",
+      "text": "For qualitative depth, I conducted call sessions with the recruits. I asked completers about how long the onboarding took, how difficult they found it, and how clear the instructions were. I asked drop-offs where they stopped, why, and what could have been done differently.",
+      "html": "For qualitative depth, I conducted call sessions with the recruits. I asked completers about how long the onboarding took, how difficult they found it, and how clear the instructions were. I asked drop-offs where they stopped, why, and what could have been done differently.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 4168,
+        "w": 624,
+        "h": 115
+      }
+    },
+    {
+      "kind": "text",
+      "text": "While conducting these sessions, I discovered that many participants struggled to reconstruct why they had dropped off, so I adapted on the fly by resorting to a stimulated recall technique where I walked vendors through the registration and KYC flow live via Whatsapp video-sharing, prompting them to narrate their experience in retrospect. This revealed friction that surveys alone wouldn't have caught.",
+      "html": "While conducting these sessions, I discovered that many participants struggled to reconstruct why they had dropped off, so I adapted on the fly by resorting to a <em>stimulated recall technique</em> where I walked vendors through the registration and KYC flow live via <em>Whatsapp video-sharing</em>, prompting them to narrate their experience in retrospect. This revealed friction that surveys alone wouldn't have caught.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 4303,
+        "w": 624,
+        "h": 173
+      }
+    },
+    {
+      "kind": "image",
+      "src": "https://framerusercontent.com/images/ei03qD3SxfeyGVxbWRUvdttRQU.png?scale-down-to=1024&width=1060&height=784",
+      "alt": "",
+      "natural": [
+        624,
+        461
+      ],
+      "rect": {
+        "x": 688,
+        "y": 4488,
+        "w": 624,
+        "h": 468
+      },
+      "fit": "cover",
+      "radius": "8px"
+    },
+    {
+      "kind": "text",
+      "text": "What We Found",
+      "html": "What We Found",
+      "tag": "h2",
+      "fontSize": 26,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "39px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 5004,
+        "w": 240,
+        "h": 39
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Using thematic analysis to analyse transcritpts and recordings from the sessions, I came up with themes that gave insights into what the issues were. Two root causes emerged consistently across both quantitative and qualitative data:",
+      "html": "Using thematic analysis to analyse transcritpts and recordings from the sessions, I came up with themes that gave insights into what the issues were. Two root causes emerged consistently across both quantitative and qualitative data:",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 5004,
+        "w": 624,
+        "h": 86
+      }
+    },
+    {
+      "kind": "text",
+      "text": "1",
+      "html": "1",
+      "tag": "div",
+      "fontSize": 12,
+      "fontWeight": "400",
+      "fontFamily": "sans-serif",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "normal",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 5130,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "kind": "text",
+      "text": "1",
+      "html": "1",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 5138,
+        "w": 40,
+        "h": 24
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Redundant data entry",
+      "html": "Redundant data entry",
+      "tag": "p",
+      "fontSize": 18,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "32.4px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 5134,
+        "w": 560,
+        "h": 32
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Vendors were being asked to re-enter personal information during KYC that they had already submitted at registration i.e. name, phone number, location details. This created a perception that the process was unnecessarily long and poorly designed, which eroded trust and motivation to continue.",
+      "html": "Vendors were being asked to re-enter personal information during KYC that they had already submitted at registration i.e. name, phone number, location details. This created a perception that the process was unnecessarily long and poorly designed, which eroded trust and motivation to continue.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 5178,
+        "w": 560,
+        "h": 144
+      }
+    },
+    {
+      "kind": "text",
+      "text": "2",
+      "html": "2",
+      "tag": "div",
+      "fontSize": 12,
+      "fontWeight": "400",
+      "fontFamily": "sans-serif",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "normal",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 5362,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "kind": "text",
+      "text": "2",
+      "html": "2",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 5370,
+        "w": 40,
+        "h": 24
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Lack of continuity prompts",
+      "html": "Lack of continuity prompts",
+      "tag": "p",
+      "fontSize": 18,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "32.4px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 5366,
+        "w": 560,
+        "h": 32
+      }
+    },
+    {
+      "kind": "text",
+      "text": "There were no push notifications or in-app reminders nudging vendors back to complete KYC if they skipped or exited the process. Once they left, there was no recovery mechanism.",
+      "html": "There were no push notifications or in-app reminders nudging vendors back to complete KYC if they skipped or exited the process. Once they left, there was no recovery mechanism.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 5411,
+        "w": 560,
+        "h": 86
+      }
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "div",
+      "fontSize": 12,
+      "fontWeight": "400",
+      "fontFamily": "sans-serif",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "normal",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 5509,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 5517,
+        "w": 40,
+        "h": 24
+      }
+    },
+    {
+      "kind": "text",
+      "text": "One interesting insight!",
+      "html": "One interesting insight!",
+      "tag": "p",
+      "fontSize": 18,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "32.4px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 5513,
+        "w": 560,
+        "h": 32
+      }
+    },
+    {
+      "kind": "text",
+      "text": "A secondary insight from the survey data: vendors who did complete KYC tended to be in digital-native roles, designers, developers, virtual assistants etc. suggesting familiarity with KYC processes played a role. The flow wasn't meeting vendors where they were.",
+      "html": "A secondary insight from the survey data: vendors who did complete KYC tended to be in digital-native roles, designers, developers, virtual assistants etc. suggesting familiarity with KYC processes played a role. The flow wasn't meeting vendors where they were.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 5558,
+        "w": 560,
+        "h": 115
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Design Decisions",
+      "html": "Design Decisions",
+      "tag": "h2",
+      "fontSize": 26,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "39px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 5721,
+        "w": 240,
+        "h": 39
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Three interventions came out of my synthesis:",
+      "html": "Three interventions came out of my synthesis:",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 5721,
+        "w": 624,
+        "h": 29
+      }
+    },
+    {
+      "kind": "text",
+      "text": "1",
+      "html": "1",
+      "tag": "div",
+      "fontSize": 12,
+      "fontWeight": "400",
+      "fontFamily": "sans-serif",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "normal",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 5789,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "kind": "text",
+      "text": "1",
+      "html": "1",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 5797,
+        "w": 40,
+        "h": 24
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Introduce KYC within Onboarding",
+      "html": "Introduce KYC within Onboarding",
+      "tag": "p",
+      "fontSize": 18,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "32.4px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 5793,
+        "w": 560,
+        "h": 32
+      }
+    },
+    {
+      "kind": "text",
+      "text": "The onboarding flow was refactored to surface Tier 1 and Tier 2 KYC immediately after email verification, with a visible but non-blocking option to skip. My goal was to remove the need for vendors to hunt for where to complete their verification later, and to frame KYC as a natural continuation of signup rather than a separate task.",
+      "html": "The onboarding flow was refactored to surface Tier 1 and Tier 2 KYC immediately after email verification, with a visible but non-blocking option to skip. My goal was to remove the need for vendors to hunt for where to complete their verification later, and to frame KYC as a natural continuation of signup rather than a separate task.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 5838,
+        "w": 560,
+        "h": 144
+      }
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "div",
+      "fontSize": 12,
+      "fontWeight": "400",
+      "fontFamily": "sans-serif",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "normal",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 5994,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 6002,
+        "w": 40,
+        "h": 24
+      }
+    },
+    {
+      "kind": "image",
+      "src": "https://framerusercontent.com/images/a8QMPQsZH0wBOXo8Gr0hEYAy500.png?scale-down-to=1024&width=1515&height=1252",
+      "alt": "",
+      "natural": [
+        560,
+        462
+      ],
+      "rect": {
+        "x": 752,
+        "y": 5998,
+        "w": 560,
+        "h": 420
+      },
+      "fit": "cover",
+      "radius": "8px"
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "div",
+      "fontSize": 12,
+      "fontWeight": "400",
+      "fontFamily": "sans-serif",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "normal",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 6430,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 6438,
+        "w": 40,
+        "h": 24
+      }
+    },
+    {
+      "kind": "text",
+      "text": "In the previous flow, identity verification sat entirely outside the onboarding sequence. After completing Personal Information, vendors landed on the Home screen and were presented with a standalone \"Verify Your Identity\" prompt alongside Requests and Messages. It was easy to dismiss and easy to forget.",
+      "html": "In the previous flow, identity verification sat entirely outside the onboarding sequence. After completing Personal Information, vendors landed on the Home screen and were presented with a standalone \"Verify Your Identity\" prompt alongside Requests and Messages. It was easy to dismiss and easy to forget.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 6434,
+        "w": 560,
+        "h": 144
+      }
+    },
+    {
+      "kind": "text",
+      "text": "In the my corrected flow, Identity Verification was embedded directly into the Personal Information step. From there, the path splits based on whether the vendor completes it or skips. Vendors who fill it in proceed to the Home screen with full access, where they can also upgrade to higher verification tiers. Vendors who skip still reach the Home screen, but with a persistent Identity Verification prompt surfaced within it, keeping the task visible without blocking access to the platform entirely.",
+      "html": "In the my corrected flow, Identity Verification was embedded directly into the Personal Information step. From there, the path splits based on whether the vendor completes it or skips. <em>Vendors who fill it in proceed to the Home screen with full access, where they can also upgrade to higher verification tiers.</em> <em>Vendors who skip still reach the Home screen, but with a persistent Identity Verification prompt surfaced within it, </em>keeping the task visible without blocking access to the platform entirely.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 6598,
+        "w": 560,
+        "h": 202
+      }
+    },
+    {
+      "kind": "text",
+      "text": "2",
+      "html": "2",
+      "tag": "div",
+      "fontSize": 12,
+      "fontWeight": "400",
+      "fontFamily": "sans-serif",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "normal",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 6839,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "kind": "text",
+      "text": "2",
+      "html": "2",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 6847,
+        "w": 40,
+        "h": 24
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Pre-populate Previous Data",
+      "html": "Pre-populate Previous Data",
+      "tag": "p",
+      "fontSize": 18,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "32.4px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 6843,
+        "w": 560,
+        "h": 32
+      }
+    },
+    {
+      "kind": "text",
+      "text": "KYC forms were updated to pre-populate with data already collected at registration, with fields editable if needed. Vendors no longer had to re-enter information they'd already provided.",
+      "html": "KYC forms were updated to pre-populate with data already collected at registration, with fields editable if needed. Vendors no longer had to re-enter information they'd already provided.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 6888,
+        "w": 560,
+        "h": 86
+      }
+    },
+    {
+      "kind": "text",
+      "text": "3",
+      "html": "3",
+      "tag": "div",
+      "fontSize": 12,
+      "fontWeight": "400",
+      "fontFamily": "sans-serif",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "normal",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 7014,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "kind": "text",
+      "text": "3",
+      "html": "3",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 7022,
+        "w": 40,
+        "h": 24
+      }
+    },
+    {
+      "kind": "text",
+      "text": "If skipped, intrude later.",
+      "html": "If skipped, intrude later.",
+      "tag": "p",
+      "fontSize": 18,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "32.4px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 7018,
+        "w": 560,
+        "h": 32
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Targeted push notifications were introduced to re-engage vendors who had registered but not completed KYC after a defined period of inactivity.",
+      "html": "Targeted push notifications were introduced to re-engage vendors who had registered but not completed KYC after a defined period of inactivity.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 7063,
+        "w": 560,
+        "h": 58
+      }
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "div",
+      "fontSize": 12,
+      "fontWeight": "400",
+      "fontFamily": "sans-serif",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "normal",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 7128,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "kind": "text",
+      "text": "-",
+      "html": "-",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 7136,
+        "w": 40,
+        "h": 24
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Implementation was done in close collaboration with the design and development teams. Given that AnyWorkX was still in its early growth phase, speed mattered - so the refactored flow had to ship on time.",
+      "html": "Implementation was done in close collaboration with the design and development teams. Given that AnyWorkX was still in its early growth phase, speed mattered - so the refactored flow had to ship on time.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 752,
+        "y": 7132,
+        "w": 560,
+        "h": 86
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Testing",
+      "html": "Testing",
+      "tag": "h2",
+      "fontSize": 26,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "39px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 7317,
+        "w": 240,
+        "h": 39
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Post-implementation, I ran a task-driven usability test with 10 participants (5 from previous survey, 5 others within AnyWorkX team and my immediate network) using a think-aloud protocol. I asked users to navigate the redesigned KYC flow while vocalising their experience in real time. For the full flow, I set a time-on-task range of 90 secs to 120 secs. 8 of the 10 testers completed the task within the window. The 2 who didn't were both affected by network issues on their end - no usability failures were identified in the redesigned flow.",
+      "html": "Post-implementation, I ran a task-driven usability test with 10 participants (5 from previous survey, 5 others within AnyWorkX team and my immediate network) using a think-aloud protocol. I asked users to navigate the redesigned KYC flow while vocalising their experience in real time. For the full flow, I set a time-on-task range of 90 secs to 120 secs. 8 of the 10 testers completed the task within the window. The 2 who didn't were both affected by network issues on their end - no usability failures were identified in the redesigned flow.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 7317,
+        "w": 624,
+        "h": 202
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Results",
+      "html": "Results",
+      "tag": "h2",
+      "fontSize": 26,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "39px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 7566,
+        "w": 240,
+        "h": 39
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Three months after my implementation went live, the picture had shifted substantially. Of approximately 9,400 cumulative sign-ups, 6,674 had completed and passed Tier 1 KYC, bringing the completion rate to 71%. The verified vendor pool had more than tripled, giving customers a meaningfully larger selection of bookable service providers, AnyWorkX's main goal.",
+      "html": "Three months after my implementation went live, the picture had shifted substantially. Of approximately 9,400 cumulative sign-ups, 6,674 had completed and passed Tier 1 KYC, bringing the completion rate to 71%. The verified vendor pool had more than tripled, giving customers a meaningfully larger selection of bookable service providers, AnyWorkX's main goal.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 7566,
+        "w": 624,
+        "h": 144
+      }
+    },
+    {
+      "kind": "text",
+      "text": "This project reinforced something I find consistently true in research: the surface complaint (the KYC is hard) rarely tells the full story. The real friction was simpler and more fixable. Vendors were being asked to do work they'd already done, and then left with no path back when they paused. A mixed-methods approach let us pinpoint both issues with enough confidence to move fast in the right direction.",
+      "html": "This project reinforced something I find consistently true in research: the surface complaint (the KYC is hard) rarely tells the full story. The real friction was simpler and more fixable. Vendors were being asked to do work they'd already done, and then left with no path back when they paused. A mixed-methods approach let us pinpoint both issues with enough confidence to move fast in the right direction.",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 7730,
+        "w": 624,
+        "h": 144
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Tools",
+      "html": "Tools",
+      "tag": "h2",
+      "fontSize": 26,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "39px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 7922,
+        "w": 240,
+        "h": 39
+      }
+    },
+    {
+      "kind": "svg",
+      "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\" style=\"fill: var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102));\"><title>Figma</title><path d=\"M15.852 8.981h-4.588V0h4.588c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.491-4.49 4.491zM12.735 7.51h3.117c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-3.117V7.51zm0 1.471H8.148c-2.476 0-4.49-2.014-4.49-4.49S5.672 0 8.148 0h4.588v8.981zm-4.587-7.51c-1.665 0-3.019 1.355-3.019 3.019s1.354 3.02 3.019 3.02h3.117V1.471H8.148zm4.587 15.019H8.148c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h4.588v8.98zM8.148 8.981c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h3.117V8.981H8.148zM8.172 24c-2.489 0-4.515-2.014-4.515-4.49s2.014-4.49 4.49-4.49h4.588v4.441c0 2.503-2.047 4.539-4.563 4.539zm-.024-7.51a3.023 3.023 0 0 0-3.019 3.019c0 1.665 1.365 3.019 3.044 3.019 1.705 0 3.093-1.376 3.093-3.068v-2.97H8.148zm7.704 0h-.098c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h.098c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.49-4.49 4.49zm-.097-7.509c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h.098c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-.098z\"></path></svg>",
+      "rect": {
+        "x": 708,
+        "y": 7942,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Figma",
+      "html": "Figma",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 756,
+        "y": 7944,
+        "w": 46,
+        "h": 29
+      }
+    },
+    {
+      "kind": "svg",
+      "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\" style=\"fill: var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102));\"><title>Files</title><path d=\"M12.367 2.453a.822.822 0 0 0-.576.238L.241 14.213a.822.822 0 0 0-.241.584v.066c0-.323.209-.608.516-.709l7.275-2.318a2.437 2.437 0 0 0 1.584-1.592l2.318-7.267a.757.757 0 0 1 .719-.524zM0 14.863v5.047c0 .904.733 1.637 1.637 1.637h20.726c.904 0 1.637-.733 1.637-1.637V4.09c0-.904-.733-1.637-1.637-1.637h-9.951v.5l.088 9.861c.01 1.175-.962 2.14-2.137 2.14L0 14.862zM12 3.66l-2.148 6.735v.001a2.94 2.94 0 0 1-1.909 1.916l-6.716 2.141h9.136c.905 0 1.638-.734 1.637-1.639zm-10.363.975c-.905 0-1.638.734-1.637 1.638v7.473l9.135-9.111Z\"></path></svg>",
+      "rect": {
+        "x": 708,
+        "y": 8018,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Research",
+      "html": "Research",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 756,
+        "y": 8020,
+        "w": 70,
+        "h": 29
+      }
+    },
+    {
+      "kind": "svg",
+      "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\" style=\"fill: var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102));\"><title>Figma</title><path d=\"M15.852 8.981h-4.588V0h4.588c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.491-4.49 4.491zM12.735 7.51h3.117c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-3.117V7.51zm0 1.471H8.148c-2.476 0-4.49-2.014-4.49-4.49S5.672 0 8.148 0h4.588v8.981zm-4.587-7.51c-1.665 0-3.019 1.355-3.019 3.019s1.354 3.02 3.019 3.02h3.117V1.471H8.148zm4.587 15.019H8.148c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h4.588v8.98zM8.148 8.981c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h3.117V8.981H8.148zM8.172 24c-2.489 0-4.515-2.014-4.515-4.49s2.014-4.49 4.49-4.49h4.588v4.441c0 2.503-2.047 4.539-4.563 4.539zm-.024-7.51a3.023 3.023 0 0 0-3.019 3.019c0 1.665 1.365 3.019 3.044 3.019 1.705 0 3.093-1.376 3.093-3.068v-2.97H8.148zm7.704 0h-.098c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h.098c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.49-4.49 4.49zm-.097-7.509c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h.098c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-.098z\"></path></svg>",
+      "rect": {
+        "x": 708,
+        "y": 8094,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Figjam",
+      "html": "Figjam",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 756,
+        "y": 8096,
+        "w": 50,
+        "h": 29
+      }
+    },
+    {
+      "kind": "svg",
+      "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\" style=\"fill: var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102));\"><title>MAAS</title><path d=\"M4.426 0v24h15.148V0Zm3.357 10.385c.474 0 .858.381.858.852 0 .47-.384.852-.858.852a.855.855 0 0 1-.858-.852c0-.47.384-.852.858-.852m1.044.212h7.928c.218 0 .39.173.397.384v.512a.395.395 0 0 1-.391.384H8.827c.006-.013.012-.02.019-.032a1.22 1.22 0 0 0-.02-1.248m-1.121 2.83c.474 0 .858.381.858.852 0 .47-.384.852-.858.852a.855.855 0 0 1-.858-.852c0-.47.384-.852.858-.852m1.037.198h8.012c.218 0 .39.173.39.378v.513a.395.395 0 0 1-.39.384h-8q.012-.001.013-.013c.16-.275.206-.608.122-.922a1.1 1.1 0 0 0-.147-.34M7.706 16.47c.474 0 .858.382.858.852s-.384.852-.858.852a.855.855 0 0 1-.858-.852c0-.47.384-.852.858-.852m1.037.212h8.012c.218 0 .39.172.39.384v.512a.395.395 0 0 1-.39.384H8.743l.02-.032a1.22 1.22 0 0 0-.02-1.248m-1.037 2.83c.474 0 .858.382.858.852s-.384.852-.858.852a.855.855 0 0 1-.858-.852c0-.47.384-.852.858-.852m1.037.212h8.012a.38.38 0 0 1 .39.384v.513a.395.395 0 0 1-.39.384H8.743l.02-.032a1.22 1.22 0 0 0-.02-1.249\"></path></svg>",
+      "rect": {
+        "x": 708,
+        "y": 8170,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Interviews",
+      "html": "Interviews",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 756,
+        "y": 8172,
+        "w": 78,
+        "h": 29
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Stakeholders' Credits",
+      "html": "Stakeholders' Credits",
+      "tag": "h2",
+      "fontSize": 26,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "39px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 8270,
+        "w": 240,
+        "h": 78
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Product Manager - Bolaji Abdullahi, PMP, MBA \nResearch & Design - Azeem Gbadamosi\nAnyWorkX Development Team - Led by Samuel O. O. Ohwesi",
+      "html": "Product Manager - Bolaji Abdullahi, PMP, MBA <br>Research &amp; Design - Azeem Gbadamosi<br>AnyWorkX Development Team - Led by Samuel O. O. Ohwesi",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 8270,
+        "w": 624,
+        "h": 86
+      }
+    },
+    {
+      "kind": "text",
+      "text": "More projects",
+      "html": "More projects",
+      "tag": "h2",
+      "fontSize": 26,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "39px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 8455,
+        "w": 904,
+        "h": 39
+      }
+    },
+    {
+      "kind": "image",
+      "src": "https://framerusercontent.com/images/SxsOGYqgzGoGsJPDT874YcmBFzQ.png?scale-down-to=512&width=1920&height=1080",
+      "alt": "",
+      "natural": [
+        436,
+        245
+      ],
+      "rect": {
+        "x": 408,
+        "y": 8526,
+        "w": 436,
+        "h": 327
+      },
+      "fit": "cover",
+      "radius": "0px"
+    },
+    {
+      "kind": "text",
+      "text": "3D Video Direction for AUMI Cryptocurrency",
+      "html": "3D Video Direction for AUMI Cryptocurrency",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": "../visual-playground/3d-crypto-animation",
+      "rect": {
+        "x": 408,
+        "y": 8873,
+        "w": 436,
+        "h": 24
+      }
+    },
+    {
+      "kind": "text",
+      "text": "AutoMatic Yield Farming",
+      "html": "AutoMatic Yield Farming",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": "../visual-playground/3d-crypto-animation",
+      "rect": {
+        "x": 408,
+        "y": 8901,
+        "w": 436,
+        "h": 25
+      }
+    },
+    {
+      "kind": "image",
+      "src": "https://framerusercontent.com/images/dOyj9FQcxeSHQSVKA7PQoHke6k.jpg?scale-down-to=512&width=1600&height=1218",
+      "alt": "",
+      "natural": [
+        436,
+        332
+      ],
+      "rect": {
+        "x": 876,
+        "y": 8526,
+        "w": 436,
+        "h": 327
+      },
+      "fit": "cover",
+      "radius": "0px"
+    },
+    {
+      "kind": "text",
+      "text": "A UX Audit That Won a Government Contract -eCitiBiz",
+      "html": "A UX Audit That Won a Government Contract -eCitiBiz",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": "./ecitibiz-case-study",
+      "rect": {
+        "x": 876,
+        "y": 8873,
+        "w": 436,
+        "h": 24
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Citizenship and Business Department of Nigeria",
+      "html": "Citizenship and Business Department of Nigeria",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": "./ecitibiz-case-study",
+      "rect": {
+        "x": 876,
+        "y": 8901,
+        "w": 436,
+        "h": 25
+      }
+    },
+    {
+      "kind": "text",
+      "text": "All projects",
+      "html": "All projects",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(18, 18, 18)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": "../User-Experience-Interaction-Design",
+      "rect": {
+        "x": 823,
+        "y": 8967,
+        "w": 75,
+        "h": 25
+      }
+    }
+  ],
+  "links": [
+    {
+      "href": "../",
+      "text": "Azeem Gbadamosi\n\nInteraction Designer"
+    },
+    {
+      "href": "https://www.instagram.com/theabdulazeem.creative/",
+      "text": ""
+    },
+    {
+      "href": "https://www.behance.net/firstazeem",
+      "text": ""
+    },
+    {
+      "href": "https://www.linkedin.com/in/firstazeem/",
+      "text": ""
+    },
+    {
+      "href": "../",
+      "text": "Home"
+    },
+    {
+      "href": "../User-Experience-Interaction-Design",
+      "text": "Products"
+    },
+    {
+      "href": "../visual-playground",
+      "text": "Playground"
+    },
+    {
+      "href": "../about",
+      "text": "About"
+    },
+    {
+      "href": "../blog",
+      "text": "Blog"
+    },
+    {
+      "href": "../contact",
+      "text": "Contact"
+    },
+    {
+      "href": "../User-Experience-Interaction-Design",
+      "text": "Back to list"
+    },
+    {
+      "href": "../visual-playground/3d-crypto-animation",
+      "text": "3D Video Direction for AUMI Cryptocurrency\n\nAutoMatic Yield Farming"
+    },
+    {
+      "href": "./ecitibiz-case-study",
+      "text": "A UX Audit That Won a Government Contract -eCitiBiz\n\nCitizenship and Business De"
+    },
+    {
+      "href": "../User-Experience-Interaction-Design",
+      "text": "All projects"
+    }
+  ],
+  "chrome": {
+    "navItems": [
+      {
+        "href": "../",
+        "label": "Azeem Gbadamosi\n\nInteraction Designer",
+        "svg": null,
+        "img": "https://framerusercontent.com/images/jjQiVkJ7P7L2gLbhkHRgZioVA.png?scale-down-to=1024",
+        "rect": {
+          "x": 61,
+          "y": 40,
+          "w": 158,
+          "h": 125
+        }
+      },
+      {
+        "href": "https://www.instagram.com/theabdulazeem.creative/",
+        "label": "",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\" style=\"fill: var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102));\"><title>Instagram</title><path d=\"M7.0301.084c-1.2768.0602-2.1487.264-2.911.5634-.7888.3075-1.4575.72-2.1228 1.3877-.6652.6677-1.075 1.3368-1.3802 2.127-.2954.7638-.4956 1.6365-.552 2.914-.0564 1.2775-.0689 1.6882-.0626 4.947.0062 3.2586.0206 3.6671.0825 4.9473.061 1.2765.264 2.1482.5635 2.9107.308.7889.72 1.4573 1.388 2.1228.6679.6655 1.3365 1.0743 2.1285 1.38.7632.295 1.6361.4961 2.9134.552 1.2773.056 1.6884.069 4.9462.0627 3.2578-.0062 3.668-.0207 4.9478-.0814 1.28-.0607 2.147-.2652 2.9098-.5633.7889-.3086 1.4578-.72 2.1228-1.3881.665-.6682 1.0745-1.3378 1.3795-2.1284.2957-.7632.4966-1.636.552-2.9124.056-1.2809.0692-1.6898.063-4.948-.0063-3.2583-.021-3.6668-.0817-4.9465-.0607-1.2797-.264-2.1487-.5633-2.9117-.3084-.7889-.72-1.4568-1.",
+        "img": null,
+        "rect": {
+          "x": 80,
+          "y": 197,
+          "w": 32,
+          "h": 32
+        }
+      },
+      {
+        "href": "https://www.behance.net/firstazeem",
+        "label": "",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\" style=\"fill: var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102));\"><title>Behance</title><path d=\"M16.969 16.927a2.561 2.561 0 0 0 1.901.677 2.501 2.501 0 0 0 1.531-.475c.362-.235.636-.584.779-.99h2.585a5.091 5.091 0 0 1-1.9 2.896 5.292 5.292 0 0 1-3.091.88 5.839 5.839 0 0 1-2.284-.433 4.871 4.871 0 0 1-1.723-1.211 5.657 5.657 0 0 1-1.08-1.874 7.057 7.057 0 0 1-.383-2.393c-.005-.8.129-1.595.396-2.349a5.313 5.313 0 0 1 5.088-3.604 4.87 4.87 0 0 1 2.376.563c.661.362 1.231.87 1.668 1.485a6.2 6.2 0 0 1 .943 2.133c.194.821.263 1.666.205 2.508h-7.699c-.063.79.184 1.574.688 2.187ZM6.947 4.084a8.065 8.065 0 0 1 1.928.198 4.29 4.29 0 0 1 1.49.638c.418.303.748.711.958 1.182.241.579.357 1.203.341 1.83a3.506 3.506 0 0 1-.506 1.961 3.726 3.726 0 0 1-1.503 1.287 3.588 3.588 0 0 1 2.027 1.437c.464.747.697 1.615.67 ",
+        "img": null,
+        "rect": {
+          "x": 124,
+          "y": 197,
+          "w": 32,
+          "h": 32
+        }
+      },
+      {
+        "href": "https://www.linkedin.com/in/firstazeem/",
+        "label": "",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\" style=\"fill: var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102));\"><title>LinkedIn</title><path d=\"M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z\"></path></svg>",
+        "img": null,
+        "rect": {
+          "x": 168,
+          "y": 197,
+          "w": 32,
+          "h": 32
+        }
+      },
+      {
+        "href": "../",
+        "label": "Home",
+        "svg": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102)) /* {&quot;name&quot;:&quot;Tertiary&quot;} */\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M9.5742 1.13259C9.83054 0.955803 10.1695 0.955803 10.4258 1.13259L16.8113 5.53636C17.5556 6.04967 18 6.89605 18 7.8002V16.25C18 17.7688 16.7688 19 15.25 19H4.75C3.23122 19 2 17.7688 2 16.25V7.8002C2 6.89605 2.44443 6.04967 3.18873 5.53636L9.5742 1.13259ZM8.5 17.5H11.5V12.75C11.5 12.6119 11.3881 12.5 11.25 12.5H8.75C8.61193 12.5 8.5 12.6119 8.5 12.75V17.5ZM13 17.5V12.75C13 11.7835 12.2165 11 11.25 11H8.75C7.7835 11 7 11.7835 7 12.75V17.5H4.75C4.05964 17.5 3.5 16.9404 3.5 16.25V7.8002C3.5 7.38922 3.70201 7.0045 4.04033 6.77118L10 2.66106L15.9597 6.77118C16.298 7.0045 16.5 7.38922 16.5 7.8002V16.25C16.5 16.9404 15.9404 17.5 15.25 17.5H13Z\">",
+        "img": null,
+        "rect": {
+          "x": 24,
+          "y": 261,
+          "w": 232,
+          "h": 40
+        }
+      },
+      {
+        "href": "../User-Experience-Interaction-Design",
+        "label": "Products",
+        "svg": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-849e5971-4e20-414b-85bc-9934f715adf8, rgb(17, 17, 17)) /* {&quot;name&quot;:&quot;Primary&quot;} */\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8.32378 2H11.6762C11.9337 1.99998 12.1702 1.99997 12.3679 2.01612C12.581 2.03353 12.8142 2.07339 13.0445 2.19074C13.3738 2.35852 13.6415 2.62624 13.8093 2.95552C13.9266 3.18583 13.9665 3.419 13.9839 3.63213C14 3.82981 14 4.06629 14 4.32377L14 5L16.6762 5C16.9337 4.99998 17.1702 4.99997 17.3679 5.01612C17.581 5.03353 17.8142 5.07339 18.0445 5.19074C18.3738 5.35852 18.6415 5.62624 18.8093 5.95552C18.9266 6.18583 18.9665 6.419 18.9839 6.63213C19 6.82981 19 7.06629 19 7.32377V11.6762C19 11.9337 19 12.1702 18.9839 12.3679C18.9665 12.581 18.9266 12.8142 18.8093 13.0445C18.6415 13.3738 18.3738 13.6415 18.0445 13.8093C18.0297 13.8168 18.0148 13.824",
+        "img": null,
+        "rect": {
+          "x": 24,
+          "y": 305,
+          "w": 232,
+          "h": 40
+        }
+      },
+      {
+        "href": "../visual-playground",
+        "label": "Playground",
+        "svg": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102)) /* {&quot;name&quot;:&quot;Tertiary&quot;} */\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M1 3.25C1 2.83579 1.33579 2.5 1.75 2.5H18.25C18.6642 2.5 19 2.83579 19 3.25C19 3.66421 18.6642 4 18.25 4H1.75C1.33579 4 1 3.66421 1 3.25ZM1 7.75C1 7.33579 1.33579 7 1.75 7H18.25C18.6642 7 19 7.33579 19 7.75C19 8.16421 18.6642 8.5 18.25 8.5H1.75C1.33579 8.5 1 8.16421 1 7.75ZM1 12.25C1 11.8358 1.33579 11.5 1.75 11.5H18.25C18.6642 11.5 19 11.8358 19 12.25C19 12.6642 18.6642 13 18.25 13H1.75C1.33579 13 1 12.6642 1 12.25ZM1 16.75C1 16.3358 1.33579 16 1.75 16H18.25C18.6642 16 19 16.3358 19 16.75C19 17.1642 18.6642 17.5 18.25 17.5H1.75C1.33579 17.5 1 17.1642 1 16.75Z\"></path></svg>",
+        "img": null,
+        "rect": {
+          "x": 24,
+          "y": 349,
+          "w": 232,
+          "h": 40
+        }
+      },
+      {
+        "href": "../about",
+        "label": "About",
+        "svg": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102)) /* {&quot;name&quot;:&quot;Tertiary&quot;} */\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10 2.5C8.61929 2.5 7.5 3.61929 7.5 5C7.5 6.38071 8.61929 7.5 10 7.5C11.3807 7.5 12.5 6.38071 12.5 5C12.5 3.61929 11.3807 2.5 10 2.5ZM6 5C6 2.79086 7.79086 1 10 1C12.2091 1 14 2.79086 14 5C14 7.20914 12.2091 9 10 9C7.79086 9 6 7.20914 6 5ZM3 16.625C3 13.5184 5.5184 11 8.625 11H11.375C14.4816 11 17 13.5184 17 16.625C17 17.9367 15.9367 19 14.625 19H5.375C4.06332 19 3 17.9367 3 16.625ZM8.625 12.5C6.34683 12.5 4.5 14.3468 4.5 16.625C4.5 17.1082 4.89175 17.5 5.375 17.5H14.625C15.1082 17.5 15.5 17.1082 15.5 16.625C15.5 14.3468 13.6532 12.5 11.375 12.5H8.625Z\"></path></svg>",
+        "img": null,
+        "rect": {
+          "x": 24,
+          "y": 393,
+          "w": 232,
+          "h": 40
+        }
+      },
+      {
+        "href": "../blog",
+        "label": "Blog",
+        "svg": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102)) /* {&quot;name&quot;:&quot;Tertiary&quot;} */\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12.8912 2.0481C13.5623 1.37701 14.4725 1 15.4216 1C17.3979 1 19 2.60212 19 4.57843C19 5.52748 18.623 6.43767 17.9519 7.10876L6.28033 18.7803C6.13968 18.921 5.94891 19 5.75 19H1.75C1.33579 19 1 18.6642 1 18.25V14.25C1 14.0511 1.07902 13.8603 1.21967 13.7197L12.8912 2.0481ZM15.4216 2.5C14.8703 2.5 14.3417 2.71898 13.9519 3.10876L13.5607 3.5L16.5 6.43934L16.8912 6.0481C17.281 5.65832 17.5 5.12966 17.5 4.57843C17.5 3.43054 16.5695 2.5 15.4216 2.5ZM15.4393 7.5L12.5 4.56066L2.5 14.5607V17.5H5.43934L15.4393 7.5Z\"></path></svg>",
+        "img": null,
+        "rect": {
+          "x": 24,
+          "y": 437,
+          "w": 232,
+          "h": 40
+        }
+      },
+      {
+        "href": "../contact",
+        "label": "Contact",
+        "svg": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102)) /* {&quot;name&quot;:&quot;Tertiary&quot;} */\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.56424 5.35337L10 9.63457L17.4358 5.35337C17.27 4.85744 16.8017 4.5 16.25 4.5H3.75C3.19828 4.5 2.73005 4.85744 2.56424 5.35337ZM17.5 7.04725L10.3742 11.15C10.1426 11.2833 9.85743 11.2833 9.62578 11.15L2.5 7.04725V14.25C2.5 14.9404 3.05964 15.5 3.75 15.5H16.25C16.9404 15.5 17.5 14.9404 17.5 14.25V7.04725ZM1 5.75C1 4.23122 2.23122 3 3.75 3H16.25C17.7688 3 19 4.23122 19 5.75V14.25C19 15.7688 17.7688 17 16.25 17H3.75C2.23122 17 1 15.7688 1 14.25V5.75Z\"></path></svg>",
+        "img": null,
+        "rect": {
+          "x": 24,
+          "y": 481,
+          "w": 232,
+          "h": 40
+        }
+      }
+    ],
+    "bodyBg": "rgb(244, 245, 245)",
+    "fonts": [
+      "Inter",
+      "Space Grotesk"
+    ]
+  },
+  "route": "/User-Experience-Interaction-Design/anywork-verification"
+}

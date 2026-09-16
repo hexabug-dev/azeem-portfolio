@@ -1,13 +1,12 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Inter, Space_Grotesk } from "next/font/google";
 import "./globals.css";
 import Sidebar from "@/components/Sidebar";
 import MobileNav from "@/components/MobileNav";
+import Script from "next/script";
 
-const inter = Inter({
-  variable: "--font-inter",
-  subsets: ["latin"],
-});
+const inter = Inter({ variable: "--font-inter", subsets: ["latin"] });
+const spaceGrotesk = Space_Grotesk({ variable: "--font-space-grotesk", subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Azeem Gbadamosi - Interaction Designer",
@@ -20,12 +19,16 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
     <html
       lang="en"
       data-scroll-behavior="smooth"
-      className={`${inter.variable} h-full antialiased`}
+      className={`${inter.variable} ${spaceGrotesk.variable} h-full antialiased`}
+      suppressHydrationWarning
     >
       <body className="min-h-full bg-[var(--bg)] text-[var(--fg)]">
+        <Script id="theme" strategy="beforeInteractive">
+          {`(function(){try{var s=localStorage.getItem("currentToggleState");var d=s?s==="dark":window.matchMedia("(prefers-color-scheme: dark)").matches;document.documentElement.setAttribute("data-theme",d?"dark":"light");}catch(e){}})();`}
+        </Script>
         <Sidebar />
         <MobileNav />
-        <div className="md:pl-20 pb-16 md:pb-0">{children}</div>
+        <div className="pb-20 md:pl-[72px] md:pb-0 xl:pl-[288px]">{children}</div>
       </body>
     </html>
   );

@@ -1,0 +1,694 @@
+{
+  "name": "cs-prixon",
+  "route": "/User-Experience-Interaction-Design/prixon-inteface",
+  "title": "Azeem Gbadamosi",
+  "header": {
+    "back": {
+      "text": "Back to list",
+      "href": "../User-Experience-Interaction-Design"
+    },
+    "h1": "Smart Experience for Non-Smart TV Users",
+    "blocks": [
+      {
+        "t": "tag",
+        "html": "Interaction",
+        "text": "Interaction",
+        "indent": 0,
+        "x": 420,
+        "w": 71,
+        "size": 14
+      },
+      {
+        "t": "tag",
+        "html": "Prototyping",
+        "text": "Prototyping",
+        "indent": 0,
+        "x": 527,
+        "w": 77,
+        "size": 14
+      },
+      {
+        "t": "tag",
+        "html": "3D Design",
+        "text": "3D Design",
+        "indent": 0,
+        "x": 640,
+        "w": 69,
+        "size": 14
+      },
+      {
+        "t": "h1",
+        "html": "Smart Experience for Non-Smart TV Users",
+        "text": "Smart Experience for Non-Smart TV Users",
+        "indent": 0,
+        "x": 408,
+        "w": 904,
+        "size": 40
+      },
+      {
+        "t": "metaValue",
+        "html": "We redesigned the launcher interface for Prixon, a streaming media player that converts regular televisions into smart ones, enabling users to access a vast array of content such as news, movies, music and radio.",
+        "text": "We redesigned the launcher interface for Prixon, a streaming media player that converts regular televisions into smart ones, enabling users to access a vast array of content such as news, movies, music and radio.",
+        "indent": 0,
+        "x": 408,
+        "w": 904,
+        "size": 18,
+        "muted": true
+      },
+      {
+        "t": "action",
+        "html": "View Full Preview",
+        "text": "View Full Preview",
+        "href": "https://drive.google.com/drive/folders/1-M3GegBakDvHIBPikzAv3XKHfiKQAXX2",
+        "indent": 0,
+        "x": 456,
+        "w": 117,
+        "size": 14
+      },
+      {
+        "t": "image",
+        "src": "/media/UZHhJBJmTjfU4QSb0ajDQ9bUZY.jpg",
+        "w": 1280,
+        "h": 962,
+        "indent": 0,
+        "x": 408,
+        "dw": 904,
+        "alt": ""
+      },
+      {
+        "t": "metaValue",
+        "html": "4 Weeks",
+        "text": "4 Weeks",
+        "indent": 0,
+        "x": 597,
+        "w": 72,
+        "size": 18,
+        "svg": "<svg fill=\"currentColor\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6.75 1C7.16421 1 7.5 1.33579 7.5 1.75V3H12.5V1.75C12.5 1.33579 12.8358 1 13.25 1C13.6642 1 14 1.33579 14 1.75V3H16.25C17.7688 3 19 4.23122 19 5.75V16.25C19 17.7688 17.7688 19 16.25 19H3.75C2.23122 19 1 17.7688 1 16.25V5.75C1 4.23122 2.23122 3 3.75 3H6V1.75C6 1.33579 6.33579 1 6.75 1ZM6 4.5H3.75C3.05964 4.5 2.5 5.05964 2.5 5.75V8H17.5V5.75C17.5 5.05964 16.9404 4.5 16.25 4.5H14V5.25C14 5.66421 13.6642 6 13.25 6C12.8358 6 12.5 5.66421 12.5 5.25V4.5H7.5V5.25C7.5 5.66421 7.16421 6 6.75 6C6.33579 6 6 5.66421 6 5.25V4.5ZM17.5 9.5H2.5V16.25C2.5 16.9404 3.05964 17.5 3.75 17.5H16.25C16.9404 17.5 17.5 16.9404 17.5 16.25V9.5Z\"></path></svg>"
+      },
+      {
+        "t": "metaLabel",
+        "html": "Duration",
+        "text": "Duration",
+        "indent": 0,
+        "x": 605,
+        "w": 56,
+        "size": 14,
+        "muted": true
+      },
+      {
+        "t": "metaValue",
+        "html": "Lead Interaction Designer",
+        "text": "Lead Interaction Designer",
+        "indent": 292,
+        "x": 981,
+        "w": 212,
+        "size": 18
+      },
+      {
+        "t": "metaLabel",
+        "html": "Role",
+        "text": "Role",
+        "indent": 384,
+        "x": 1073,
+        "w": 29,
+        "size": 14,
+        "muted": true
+      }
+    ]
+  },
+  "footer": "",
+  "sections": [
+    {
+      "heading": "Background",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "h3",
+          "html": "Prixon is a cutting-edge streaming media player that can effectively convert traditional TVs into smart devices, enabling users to access a vast array of online content, such as TV shows, movies, music, and radio. By leveraging an internet connection, the player facilitates seamless streaming of content from well-known services like Netflix, DonTV, Amazon Prime Video, Hulu, and YouTube. It also allows installation of custom apps should you have to install one.",
+          "text": "Prixon is a cutting-edge streaming media player that can effectively convert traditional TVs into smart devices, enabling users to access a vast array of online content, such as TV shows, movies, music, and radio. By leveraging an internet connection, the player facilitates seamless streaming of content from well-known services like Netflix, DonTV, Amazon Prime Video, Hulu, and YouTube. It also allows installation of custom apps should you have to install one.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 18,
+          "muted": true
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "The Design Issues",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "badge",
+          "html": "1",
+          "text": "1",
+          "indent": 0,
+          "x": 688,
+          "w": 40,
+          "size": 16
+        },
+        {
+          "t": "h3",
+          "html": "Users Found it Technical",
+          "text": "Users Found it Technical",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 18
+        },
+        {
+          "t": "p",
+          "html": "We carried out usability tests with 15 people and asked them to verbalize what they felt as they interacted with the initial interface. The sessions revealed that users found the interface for Prixon to be hard in outlook and technical. They felt some buttons were small or out of sight, the navigation challenged their intuition, and some had to have known how the system behaved before they could interact with it better. Users simply want to watch a show or entertaining movie and should not have to be exposed to a technical-looking screen, thus, a better interface that addressed the realized limitations had to be designed. The prototype was to be simple, easy to navigate, intuitive, accessible and marketable.",
+          "text": "We carried out usability tests with 15 people and asked them to verbalize what they felt as they interacted with the initial interface. The sessions revealed that users found the interface for Prixon to be hard in outlook and technical. They felt some buttons were small or out of sight, the navigation challenged their intuition, and some had to have known how the system behaved before they could interact with it better. \n\nUsers simply want to watch a show or entertaining movie and should not have to be exposed to a technical-looking screen, thus, a better interface that addressed the realized limitations had to be designed. The prototype was to be simple, easy to navigate, intuitive, accessible and marketable.",
+          "multiline": true,
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "badge",
+          "html": "2",
+          "text": "2",
+          "indent": 0,
+          "x": 688,
+          "w": 40,
+          "size": 16
+        },
+        {
+          "t": "h3",
+          "html": "DonTV Emphasis",
+          "text": "DonTV Emphasis",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 18
+        },
+        {
+          "t": "p",
+          "html": "Prixon owns DonTV, and they needed to use this medium to bring the app to the face of people as well, so we had to come up with a layout that made DonTV stick out from the set of other applications without being intrusive.",
+          "text": "Prixon owns DonTV, and they needed to use this medium to bring the app to the face of people as well, so we had to come up with a layout that made DonTV stick out from the set of other applications without being intrusive.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "badge",
+          "html": "3",
+          "text": "3",
+          "indent": 0,
+          "x": 688,
+          "w": 40,
+          "size": 16
+        },
+        {
+          "t": "h3",
+          "html": "Visual Appeal",
+          "text": "Visual Appeal",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 18
+        },
+        {
+          "t": "p",
+          "html": "The UI needed a overhaul, right from the booting screen to the setup pages and the main home launcher. It had to be different from the previous one, but more easy to operate. With product design guidelines from, Google's Design-for-TV Foundations Guide and inspirations from LG Smart TV, I sketched some concepts on excalidraw which led me into creating a process checklist. 1. Tune the colours 2. Declutter the launcher screen 3. Create an apps gallery 4. New Icons 5. Background for each system apps 6. Emphasize DonTV",
+          "text": "The UI needed a overhaul, right from the booting screen to the setup pages and the main home launcher. It had to be different from the previous one, but more easy to operate. With product design guidelines from, Google's Design-for-TV Foundations Guide and inspirations from LG Smart TV, I sketched some concepts on excalidraw which led me into creating a process checklist.\n\n1. Tune the colours\n2. Declutter the launcher screen\n3. Create an apps gallery\n4. New Icons\n5. Background for each system apps\n6. Emphasize DonTV",
+          "multiline": true,
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "image",
+          "src": "/media/0sFplSy75pNDFElfxX6Dd4GR69I.png",
+          "w": 904,
+          "h": 678,
+          "indent": 0,
+          "x": 408,
+          "dw": 904,
+          "alt": ""
+        },
+        {
+          "t": "image",
+          "src": "/media/3kLKkbs6rp5NVQt9FhPGtFc.png",
+          "w": 904,
+          "h": 678,
+          "indent": 0,
+          "x": 408,
+          "dw": 904,
+          "alt": ""
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "Redesigning The Launcher",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "badge",
+          "html": "1",
+          "text": "1",
+          "indent": 0,
+          "x": 688,
+          "w": 40,
+          "size": 16
+        },
+        {
+          "t": "h3",
+          "html": "The Native Apps on Home Screen",
+          "text": "The Native Apps on Home Screen",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 18
+        },
+        {
+          "t": "p",
+          "html": "The 3D Illustrator provided some background illustraions were designed for other native apps that will be pre-installed in the device. These were done on Blender3D. The apps, NETFLIX, HULU, SPOTIFY, PRIME and Playstore came with the device.",
+          "text": "The 3D Illustrator provided some background illustraions were designed for other native apps that will be pre-installed in the device. These were done on Blender3D. The apps, NETFLIX, HULU, SPOTIFY, PRIME and Playstore came with the device.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "badge",
+          "html": "2",
+          "text": "2",
+          "indent": 0,
+          "x": 688,
+          "w": 40,
+          "size": 16
+        },
+        {
+          "t": "h3",
+          "html": "Background Transitions for Apps",
+          "text": "Background Transitions for Apps",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 18
+        },
+        {
+          "t": "p",
+          "html": "I designed the home screen to feature apps from the previous UI but with a refreshed look. Each app, when selected, would display its respective background. Additionally, the quick settings icons underwent a redesign and were positioned at the bottom of the screen.",
+          "text": "I designed the home screen to feature apps from the previous UI but with a refreshed look. Each app, when selected, would display its respective background. Additionally, the quick settings icons underwent a redesign and were positioned at the bottom of the screen.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "image",
+          "src": "/media/ED54n7NwYjgnAeHrC2JMZJP82XE.png",
+          "w": 904,
+          "h": 796,
+          "indent": 0,
+          "x": 408,
+          "dw": 904,
+          "alt": ""
+        },
+        {
+          "t": "image",
+          "src": "/media/gBMpfXF2RXjs7vf02G6dXCT7U.png",
+          "w": 904,
+          "h": 678,
+          "indent": 0,
+          "x": 408,
+          "dw": 904,
+          "alt": ""
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "App Gallery",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "badge",
+          "html": "1",
+          "text": "1",
+          "indent": 0,
+          "x": 688,
+          "w": 40,
+          "size": 16
+        },
+        {
+          "t": "h3",
+          "html": "The Application Library",
+          "text": "The Application Library",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 18
+        },
+        {
+          "t": "p",
+          "html": "I introduced an app gallery where users could conveniently access and open all installed applications. This was to allow users easily navigate through their customized selection of apps for managing and launching applications.",
+          "text": "I introduced an app gallery where users could conveniently access and open all installed applications. This was to allow users easily navigate through their customized selection of apps for managing and launching applications.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "badge",
+          "html": "2",
+          "text": "2",
+          "indent": 0,
+          "x": 688,
+          "w": 40,
+          "size": 16
+        },
+        {
+          "t": "h3",
+          "html": "Access to All Apps",
+          "text": "Access to All Apps",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 18
+        },
+        {
+          "t": "p",
+          "html": "Whether users had installed applications individually or customized them according to their preferences, the app gallery simplified the process of app management, ensuring a user-friendly interface for navigation and utilization.",
+          "text": "Whether users had installed applications individually or customized them according to their preferences, the app gallery simplified the process of app management, ensuring a user-friendly interface for navigation and utilization.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "image",
+          "src": "/media/2DY5F87Rw2IFFENTqE8hbBYeQk.png",
+          "w": 904,
+          "h": 678,
+          "indent": 0,
+          "x": 408,
+          "dw": 904,
+          "alt": ""
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "Emphasizing DonTV",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "A special request by the Prixon Team was to put some emphasis on DonTV (Prixon’s product), making it stand out among other apps. To achieve this, two strategies were put in place:",
+          "text": "A special request by the Prixon Team was to put some emphasis on DonTV (Prixon’s product), making it stand out among other apps. To achieve this, two strategies were put in place:",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "badge",
+          "html": "1",
+          "text": "1",
+          "indent": 0,
+          "x": 688,
+          "w": 40,
+          "size": 16
+        },
+        {
+          "t": "h3",
+          "html": "Default Selection of DonTV",
+          "text": "Default Selection of DonTV",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 18
+        },
+        {
+          "t": "p",
+          "html": "DonTV app is automatically selected after startup is completed.",
+          "text": "DonTV app is automatically selected after startup is completed.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "badge",
+          "html": "2",
+          "text": "2",
+          "indent": 0,
+          "x": 688,
+          "w": 40,
+          "size": 16
+        },
+        {
+          "t": "h3",
+          "html": "DonTV Sections Popping Out",
+          "text": "DonTV Sections Popping Out",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 18
+        },
+        {
+          "t": "p",
+          "html": "Previews of the four sections of DonTV, including Series, Video-On-Demand, Radio, and LiveTV, were strategically presented below to captivate and pique the user's interest. The intention is to draw users into exploring these section, fostering curiosity about the diverse content offerings available on the platform.",
+          "text": "Previews of the four sections of DonTV, including Series, Video-On-Demand, Radio, and LiveTV, were strategically presented below to captivate and pique the user's interest. The intention is to draw users into exploring these section, fostering curiosity about the diverse content offerings available on the platform.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "h3",
+          "html": "The other apps did not have this same privilege. Compare the instances below where DonTV app is selected to that where the Amazon Prime app is selected.",
+          "text": "The other apps did not have this same privilege. Compare the instances below where DonTV app is selected to that where the Amazon Prime app is selected.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 18
+        },
+        {
+          "t": "image",
+          "src": "/media/ChBo6rYEHlcYeBup98EucggwBFI.png",
+          "w": 904,
+          "h": 678,
+          "indent": 0,
+          "x": 408,
+          "dw": 904,
+          "alt": ""
+        },
+        {
+          "t": "image",
+          "src": "/media/b3QsGEktGUuDOwkO1JV2uv5heyo.png",
+          "w": 904,
+          "h": 678,
+          "indent": 0,
+          "x": 408,
+          "dw": 904,
+          "alt": ""
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "Other Screens",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "h3",
+          "html": "I also designed other screens including the booting animation, language settings, file browser, software update, quick settings dialogue and volume. Below are previews of other screens in the media streamer prototype:",
+          "text": "I also designed other screens including the booting animation, language settings, file browser, software update, quick settings dialogue and volume. Below are previews of other screens in the media streamer prototype:",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 18,
+          "muted": true
+        },
+        {
+          "t": "image",
+          "src": "/media/pQXyJ976z2O8Fct9hehBmEhvxFk.png",
+          "w": 904,
+          "h": 678,
+          "indent": 0,
+          "x": 408,
+          "dw": 904,
+          "alt": ""
+        },
+        {
+          "t": "image",
+          "src": "/media/Ok9LkoYDmBizX9GG1JVgC0o6Ws.png",
+          "w": 904,
+          "h": 678,
+          "indent": 0,
+          "x": 408,
+          "dw": 904,
+          "alt": ""
+        },
+        {
+          "t": "image",
+          "src": "/media/oJAHFMDkzG0ss3aGP6kyeHD9Y.png",
+          "w": 904,
+          "h": 678,
+          "indent": 0,
+          "x": 408,
+          "dw": 904,
+          "alt": ""
+        },
+        {
+          "t": "image",
+          "src": "/media/Z7uJLQ4OOlof2UKFiqhh8HQUwY.png",
+          "w": 904,
+          "h": 678,
+          "indent": 0,
+          "x": 408,
+          "dw": 904,
+          "alt": ""
+        },
+        {
+          "t": "action",
+          "html": "View Full Preview",
+          "text": "View Full Preview",
+          "href": "https://drive.google.com/drive/folders/1-M3GegBakDvHIBPikzAv3XKHfiKQAXX2",
+          "indent": 0,
+          "x": 456,
+          "w": 117,
+          "size": 14
+        }
+      ],
+      "more": {
+        "text": "View Full Preview",
+        "href": "https://drive.google.com/drive/folders/1-M3GegBakDvHIBPikzAv3XKHfiKQAXX2"
+      }
+    },
+    {
+      "heading": "The Impact on Users and Prixon",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "h3",
+          "html": "We had the same users test the new prototype by giving them a set of tasks to do. To moderate this session, I selected tasks which a regular customer would likely want to do in their homes. E.g. \"Go to settings and change the language from English to French\", \"You want to check if your tv box is connected to an hotspot, proceed to the page where you would likely see this\" etc. as well as some questions about their feelings after interacting with it. Most users found the tasks doable within the ideal timeframe and there was also positive feedback across all testers about the outlook.<br><br>On the side of Prixon, they were satisfied with the new architecture and the emphasis strategy for the DonTV app. They also got positive feedback from retailers and DonTV recorded more viewership than in the previous setup with the \"now user-friendly, donTV-emphasizing and novel-looking\" product.",
+          "text": "We had the same users test the new prototype by giving them a set of tasks to do. To moderate this session, I selected tasks which a regular customer would likely want to do in their homes. E.g. \"Go to settings and change the language from English to French\", \"You want to check if your tv box is connected to an hotspot, proceed to the page where you would likely see this\" etc. as well as some questions about their feelings after interacting with it. Most users found the tasks doable within the ideal timeframe and there was also positive feedback across all testers about the outlook.\n\nOn the side of Prixon, they were satisfied with the new architecture and the emphasis strategy for the DonTV app. They also got positive feedback from retailers and DonTV recorded more viewership than in the previous setup with the \"now user-friendly, donTV-emphasizing and novel-looking\" product.",
+          "multiline": true,
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 18,
+          "muted": true
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "Tools",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "chip",
+          "html": "Figma",
+          "text": "Figma",
+          "indent": 68,
+          "x": 756,
+          "w": 46,
+          "size": 16,
+          "svg": "<svg fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\"><title>Figma</title><path d=\"M15.852 8.981h-4.588V0h4.588c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.491-4.49 4.491zM12.735 7.51h3.117c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-3.117V7.51zm0 1.471H8.148c-2.476 0-4.49-2.014-4.49-4.49S5.672 0 8.148 0h4.588v8.981zm-4.587-7.51c-1.665 0-3.019 1.355-3.019 3.019s1.354 3.02 3.019 3.02h3.117V1.471H8.148zm4.587 15.019H8.148c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h4.588v8.98zM8.148 8.981c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h3.117V8.981H8.148zM8.172 24c-2.489 0-4.515-2.014-4.515-4.49s2.014-4.49 4.49-4.49h4.588v4.441c0 2.503-2.047 4.539-4.563 4.539zm-.024-7.51a3.023 3.023 0 0 0-3.019 3.019c0 1.665 1.365 3.019 3.044 3.019 1.705 0 3.093-1.376 3.093-3.068v-2.97H8.148zm7.704 0h-.098c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h.098c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.49-4.49 4.49zm-.097-7.509c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h.098c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-.098z\"></path></svg>"
+        },
+        {
+          "t": "chip",
+          "html": "Adobe Photoshop",
+          "text": "Adobe Photoshop",
+          "indent": 68,
+          "x": 756,
+          "w": 136,
+          "size": 16,
+          "svg": "<svg fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\"><title>Adobe Photoshop</title><path d=\"M9.85 8.42c-.37-.15-.77-.21-1.18-.2-.26 0-.49 0-.68.01-.2-.01-.34 0-.41.01v3.36c.14.01.27.02.39.02h.53c.39 0 .78-.06 1.15-.18.32-.09.6-.28.82-.53.21-.25.31-.59.31-1.03.01-.31-.07-.62-.23-.89-.17-.26-.41-.46-.7-.57zM19.75.3H4.25C1.9.3 0 2.2 0 4.55v14.899c0 2.35 1.9 4.25 4.25 4.25h15.5c2.35 0 4.25-1.9 4.25-4.25V4.55C24 2.2 22.1.3 19.75.3zm-7.391 11.65c-.399.56-.959.98-1.609 1.22-.68.25-1.43.34-2.25.34-.24 0-.4 0-.5-.01s-.24-.01-.43-.01v3.209c.01.07-.04.131-.11.141H5.52c-.08 0-.12-.041-.12-.131V6.42c0-.07.03-.11.1-.11.17 0 .33 0 .56-.01.24-.01.49-.01.76-.02s.56-.01.87-.02c.31-.01.61-.01.91-.01.82 0 1.5.1 2.06.31.5.17.96.45 1.34.82.32.32.57.71.73 1.14.149.42.229.85.229 1.3.001.86-.199 1.57-.6 2.13zm7.091 3.89c-.28.4-.671.709-1.12.891-.49.209-1.09.318-1.811.318-.459 0-.91-.039-1.359-.129-.35-.061-.7-.17-1.02-.32-.07-.039-.121-.109-.111-.189v-1.74c0-.029.011-.07.041-.09.029-.02.06-.01.09.01.39.23.8.391 1.24.49.379.1.779.15 1.18.15.38 0 .65-.051.83-.141.16-.07.27-.24.27-.42 0-.141-.08-.27-.24-.4-.16-.129-.489-.279-.979-.471-.51-.18-.979-.42-1.42-.719-.31-.221-.569-.51-.761-.85-.159-.32-.239-.67-.229-1.021 0-.43.12-.84.341-1.21.25-.4.619-.72 1.049-.92.469-.239 1.059-.349 1.769-.349.41 0 .83.03 1.24.09.3.04.59.12.86.23.039.01.08.05.1.09.01.04.02.08.02.12v1.63c0 .04-.02.08-.05.1-.09.02-.14.02-.18 0-.3-.16-.62-.27-.96-.34-.37-.08-.74-.13-1.12-.13-.2-.01-.41.02-.601.07-.129.03-.24.1-.31.2-.05.08-.08.18-.08.27s.04.18.101.26c.09.11.209.2.34.27.229.12.47.23.709.33.541.18 1.061.43 1.541.73.33.209.6.49.789.83.16.318.24.67.23 1.029.011.471-.129.94-.389 1.331z\"></path></svg>"
+        },
+        {
+          "t": "chip",
+          "html": "Blender",
+          "text": "Blender",
+          "indent": 68,
+          "x": 756,
+          "w": 58,
+          "size": 16,
+          "svg": "<svg fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\"><title>Blender</title><path d=\"M12.51 13.214c.046-.8.438-1.506 1.03-2.006a3.424 3.424 0 0 1 2.212-.79c.85 0 1.631.3 2.211.79.592.5.983 1.206 1.028 2.005.045.823-.285 1.586-.865 2.153a3.389 3.389 0 0 1-2.374.938 3.393 3.393 0 0 1-2.376-.938c-.58-.567-.91-1.33-.865-2.152M7.35 14.831c.006.314.106.922.256 1.398a7.372 7.372 0 0 0 1.593 2.757 8.227 8.227 0 0 0 2.787 2.001 8.947 8.947 0 0 0 3.66.76 8.964 8.964 0 0 0 3.657-.772 8.285 8.285 0 0 0 2.785-2.01 7.428 7.428 0 0 0 1.592-2.762 6.964 6.964 0 0 0 .25-3.074 7.123 7.123 0 0 0-1.016-2.779 7.764 7.764 0 0 0-1.852-2.043h.002L13.566 2.55l-.02-.015c-.492-.378-1.319-.376-1.86.002-.547.382-.609 1.015-.123 1.415l-.001.001 3.126 2.543-9.53.01h-.013c-.788.001-1.545.518-1.695 1.172-.154.665.38 1.217 1.2 1.22V8.9l4.83-.01-8.62 6.617-.034.025c-.813.622-1.075 1.658-.563 2.313.52.667 1.625.668 2.447.004L7.414 14s-.069.52-.063.831zm12.09 1.741c-.97.988-2.326 1.548-3.795 1.55-1.47.004-2.827-.552-3.797-1.538a4.51 4.51 0 0 1-1.036-1.622 4.282 4.282 0 0 1 .282-3.519 4.702 4.702 0 0 1 1.153-1.371c.942-.768 2.141-1.183 3.396-1.185 1.256-.002 2.455.41 3.398 1.175.48.391.87.854 1.152 1.367a4.28 4.28 0 0 1 .522 1.706 4.236 4.236 0 0 1-.239 1.811 4.54 4.54 0 0 1-1.035 1.626\"></path></svg>"
+        },
+        {
+          "t": "h3",
+          "html": "We've worked with Azeem's team multiple times, and it has always been a pleasure! His redesign on our interfaces captivated our audience and made them easier to interact with. Azeem also works in a very timely manner, communicates and always ensures that you are fully satisfied with the results!",
+          "text": "We've worked with Azeem's team multiple times, and it has always been a pleasure! His redesign on our interfaces captivated our audience and made them easier to interact with. Azeem also works in a very timely manner, communicates and always ensures that you are fully satisfied with the results!",
+          "indent": 0,
+          "x": 448,
+          "w": 824,
+          "size": 18
+        },
+        {
+          "t": "p",
+          "html": "AbdelMajid",
+          "text": "AbdelMajid",
+          "indent": 0,
+          "x": 448,
+          "w": 824,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "metaLabel",
+          "html": "MD at Prixon.tv",
+          "text": "MD at Prixon.tv",
+          "indent": 0,
+          "x": 448,
+          "w": 824,
+          "size": 14,
+          "muted": true
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "Contributors' Credits",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "h3",
+          "html": "3D Illustration - Olanrewaju Oguniran<br>Art Direction - Azeem Gbadamosi<br>Research and Testing - Azeem Gbadamosi &amp; Awwal Adefowope<br>Design &amp; Prototyping - Azeem Gbadamosi",
+          "text": "3D Illustration - Olanrewaju Oguniran\nArt Direction - Azeem Gbadamosi\nResearch and Testing - Azeem Gbadamosi & Awwal Adefowope\nDesign & Prototyping - Azeem Gbadamosi",
+          "multiline": true,
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 18,
+          "muted": true
+        }
+      ],
+      "more": null
+    }
+  ],
+  "related": [
+    {
+      "image": "/media/SxsOGYqgzGoGsJPDT874YcmBFzQ.png",
+      "title": "3D Video Direction for AUMI Cryptocurrency",
+      "client": "AutoMatic Yield Farming"
+    },
+    {
+      "image": "/media/pIcapelQfSS5teiijlFLC7PFnCM.jpg",
+      "title": "Field-First: Designing a Tax System for Market Traders and Artisans",
+      "client": "Delta State Internal Revenue Service"
+    }
+  ]
+}

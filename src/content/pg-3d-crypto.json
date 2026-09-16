@@ -1,0 +1,202 @@
+{
+  "name": "pg-3d-crypto",
+  "route": "/visual-playground/3d-crypto-animation",
+  "title": "Azeem Gbadamosi",
+  "header": {
+    "back": {
+      "text": "Back to list",
+      "href": "../visual-playground"
+    },
+    "h1": "3D Video Direction for AUMI Cryptocurrency",
+    "blocks": [
+      {
+        "t": "tag",
+        "html": "Art Direction",
+        "text": "Art Direction",
+        "indent": 0,
+        "x": 420,
+        "w": 83,
+        "size": 14
+      },
+      {
+        "t": "tag",
+        "html": "Prototyping",
+        "text": "Prototyping",
+        "indent": 0,
+        "x": 539,
+        "w": 77,
+        "size": 14
+      },
+      {
+        "t": "tag",
+        "html": "3D Design",
+        "text": "3D Design",
+        "indent": 0,
+        "x": 653,
+        "w": 69,
+        "size": 14
+      },
+      {
+        "t": "h1",
+        "html": "3D Video Direction for AUMI Cryptocurrency",
+        "text": "3D Video Direction for AUMI Cryptocurrency",
+        "indent": 0,
+        "x": 408,
+        "w": 904,
+        "size": 40
+      },
+      {
+        "t": "metaValue",
+        "html": "AutoMatic Network is a dex aggregator built on Polygon chain. It serves as a decentralized platform for stakers and farmers to have their assets in one place rather than in different apps, removing the hurdle of having to monitor many crypto assets and investments across various dexes and giving users control in one interface. I worked on this project as a contract with a team of three; a voiceover artist, a 3D video editor and I, the animation director and storyboard curator.",
+        "text": "AutoMatic Network is a dex aggregator built on Polygon chain. It serves as a decentralized platform for stakers and farmers to have their assets in one place rather than in different apps, removing the hurdle of having to monitor many crypto assets and investments across various dexes and giving users control in one interface. I worked on this project as a contract with a team of three; a voiceover artist, a 3D video editor and I, the animation director and storyboard curator.",
+        "indent": 0,
+        "x": 408,
+        "w": 904,
+        "size": 18,
+        "muted": true
+      },
+      {
+        "t": "embed",
+        "src": "https://player.vimeo.com/video/897162761?autoplay=1&autopause=0&app_id=122963",
+        "indent": 0,
+        "x": 408,
+        "dw": 904,
+        "ratio": 1.776,
+        "title": "$AUMI Animation"
+      },
+      {
+        "t": "metaValue",
+        "html": "2022",
+        "text": "2022",
+        "indent": 0,
+        "x": 611,
+        "w": 43,
+        "size": 18,
+        "svg": "<svg fill=\"currentColor\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6.75 1C7.16421 1 7.5 1.33579 7.5 1.75V3H12.5V1.75C12.5 1.33579 12.8358 1 13.25 1C13.6642 1 14 1.33579 14 1.75V3H16.25C17.7688 3 19 4.23122 19 5.75V16.25C19 17.7688 17.7688 19 16.25 19H3.75C2.23122 19 1 17.7688 1 16.25V5.75C1 4.23122 2.23122 3 3.75 3H6V1.75C6 1.33579 6.33579 1 6.75 1ZM6 4.5H3.75C3.05964 4.5 2.5 5.05964 2.5 5.75V8H17.5V5.75C17.5 5.05964 16.9404 4.5 16.25 4.5H14V5.25C14 5.66421 13.6642 6 13.25 6C12.8358 6 12.5 5.66421 12.5 5.25V4.5H7.5V5.25C7.5 5.66421 7.16421 6 6.75 6C6.33579 6 6 5.66421 6 5.25V4.5ZM17.5 9.5H2.5V16.25C2.5 16.9404 3.05964 17.5 3.75 17.5H16.25C16.9404 17.5 17.5 16.9404 17.5 16.25V9.5Z\"></path></svg>"
+      },
+      {
+        "t": "metaLabel",
+        "html": "Timeline",
+        "text": "Timeline",
+        "indent": 0,
+        "x": 605,
+        "w": 56,
+        "size": 14,
+        "muted": true
+      },
+      {
+        "t": "metaValue",
+        "html": "Script Writer &amp; Video Direction",
+        "text": "Script Writer & Video Direction",
+        "indent": 276,
+        "x": 962,
+        "w": 251,
+        "size": 18
+      },
+      {
+        "t": "metaLabel",
+        "html": "Role",
+        "text": "Role",
+        "indent": 384,
+        "x": 1073,
+        "w": 29,
+        "size": 14,
+        "muted": true
+      }
+    ]
+  },
+  "footer": "",
+  "sections": [
+    {
+      "heading": "Tools",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "chip",
+          "html": "Blender 3D",
+          "text": "Blender 3D",
+          "indent": 68,
+          "x": 756,
+          "w": 84,
+          "size": 16,
+          "svg": "<svg fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\"><title>Blender</title><path d=\"M12.51 13.214c.046-.8.438-1.506 1.03-2.006a3.424 3.424 0 0 1 2.212-.79c.85 0 1.631.3 2.211.79.592.5.983 1.206 1.028 2.005.045.823-.285 1.586-.865 2.153a3.389 3.389 0 0 1-2.374.938 3.393 3.393 0 0 1-2.376-.938c-.58-.567-.91-1.33-.865-2.152M7.35 14.831c.006.314.106.922.256 1.398a7.372 7.372 0 0 0 1.593 2.757 8.227 8.227 0 0 0 2.787 2.001 8.947 8.947 0 0 0 3.66.76 8.964 8.964 0 0 0 3.657-.772 8.285 8.285 0 0 0 2.785-2.01 7.428 7.428 0 0 0 1.592-2.762 6.964 6.964 0 0 0 .25-3.074 7.123 7.123 0 0 0-1.016-2.779 7.764 7.764 0 0 0-1.852-2.043h.002L13.566 2.55l-.02-.015c-.492-.378-1.319-.376-1.86.002-.547.382-.609 1.015-.123 1.415l-.001.001 3.126 2.543-9.53.01h-.013c-.788.001-1.545.518-1.695 1.172-.154.665.38 1.217 1.2 1.22V8.9l4.83-.01-8.62 6.617-.034.025c-.813.622-1.075 1.658-.563 2.313.52.667 1.625.668 2.447.004L7.414 14s-.069.52-.063.831zm12.09 1.741c-.97.988-2.326 1.548-3.795 1.55-1.47.004-2.827-.552-3.797-1.538a4.51 4.51 0 0 1-1.036-1.622 4.282 4.282 0 0 1 .282-3.519 4.702 4.702 0 0 1 1.153-1.371c.942-.768 2.141-1.183 3.396-1.185 1.256-.002 2.455.41 3.398 1.175.48.391.87.854 1.152 1.367a4.28 4.28 0 0 1 .522 1.706 4.236 4.236 0 0 1-.239 1.811 4.54 4.54 0 0 1-1.035 1.626\"></path></svg>"
+        },
+        {
+          "t": "chip",
+          "html": "Adobe Photoshop",
+          "text": "Adobe Photoshop",
+          "indent": 68,
+          "x": 756,
+          "w": 136,
+          "size": 16,
+          "svg": "<svg fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\"><title>Adobe Photoshop</title><path d=\"M9.85 8.42c-.37-.15-.77-.21-1.18-.2-.26 0-.49 0-.68.01-.2-.01-.34 0-.41.01v3.36c.14.01.27.02.39.02h.53c.39 0 .78-.06 1.15-.18.32-.09.6-.28.82-.53.21-.25.31-.59.31-1.03.01-.31-.07-.62-.23-.89-.17-.26-.41-.46-.7-.57zM19.75.3H4.25C1.9.3 0 2.2 0 4.55v14.899c0 2.35 1.9 4.25 4.25 4.25h15.5c2.35 0 4.25-1.9 4.25-4.25V4.55C24 2.2 22.1.3 19.75.3zm-7.391 11.65c-.399.56-.959.98-1.609 1.22-.68.25-1.43.34-2.25.34-.24 0-.4 0-.5-.01s-.24-.01-.43-.01v3.209c.01.07-.04.131-.11.141H5.52c-.08 0-.12-.041-.12-.131V6.42c0-.07.03-.11.1-.11.17 0 .33 0 .56-.01.24-.01.49-.01.76-.02s.56-.01.87-.02c.31-.01.61-.01.91-.01.82 0 1.5.1 2.06.31.5.17.96.45 1.34.82.32.32.57.71.73 1.14.149.42.229.85.229 1.3.001.86-.199 1.57-.6 2.13zm7.091 3.89c-.28.4-.671.709-1.12.891-.49.209-1.09.318-1.811.318-.459 0-.91-.039-1.359-.129-.35-.061-.7-.17-1.02-.32-.07-.039-.121-.109-.111-.189v-1.74c0-.029.011-.07.041-.09.029-.02.06-.01.09.01.39.23.8.391 1.24.49.379.1.779.15 1.18.15.38 0 .65-.051.83-.141.16-.07.27-.24.27-.42 0-.141-.08-.27-.24-.4-.16-.129-.489-.279-.979-.471-.51-.18-.979-.42-1.42-.719-.31-.221-.569-.51-.761-.85-.159-.32-.239-.67-.229-1.021 0-.43.12-.84.341-1.21.25-.4.619-.72 1.049-.92.469-.239 1.059-.349 1.769-.349.41 0 .83.03 1.24.09.3.04.59.12.86.23.039.01.08.05.1.09.01.04.02.08.02.12v1.63c0 .04-.02.08-.05.1-.09.02-.14.02-.18 0-.3-.16-.62-.27-.96-.34-.37-.08-.74-.13-1.12-.13-.2-.01-.41.02-.601.07-.129.03-.24.1-.31.2-.05.08-.08.18-.08.27s.04.18.101.26c.09.11.209.2.34.27.229.12.47.23.709.33.541.18 1.061.43 1.541.73.33.209.6.49.789.83.16.318.24.67.23 1.029.011.471-.129.94-.389 1.331z\"></path></svg>"
+        },
+        {
+          "t": "chip",
+          "html": "Microsoft Suites",
+          "text": "Microsoft Suites",
+          "indent": 68,
+          "x": 756,
+          "w": 123,
+          "size": 16,
+          "svg": "<svg fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\"><title>Microsoft</title><path d=\"M0 0v11.408h11.408V0zm12.594 0v11.408H24V0zM0 12.594V24h11.408V12.594zm12.594 0V24H24V12.594z\"></path></svg>"
+        },
+        {
+          "t": "h3",
+          "html": "The community of AutoMatic found this video intriguing and it garnered a lot of engagement on the channels where it was shared, causing a strong influx of new degens and community members.",
+          "text": "The community of AutoMatic found this video intriguing and it garnered a lot of engagement on the channels where it was shared, causing a strong influx of new degens and community members.",
+          "indent": 0,
+          "x": 448,
+          "w": 824,
+          "size": 18
+        },
+        {
+          "t": "p",
+          "html": "Client (Anon)",
+          "text": "Client (Anon)",
+          "indent": 0,
+          "x": 448,
+          "w": 824,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "metaLabel",
+          "html": "Project Owner",
+          "text": "Project Owner",
+          "indent": 0,
+          "x": 448,
+          "w": 824,
+          "size": 14,
+          "muted": true
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "Conclusion",
+      "layout": "split",
+      "blocks": [],
+      "kind": "chips",
+      "items": [
+        {
+          "text": "Full case study soon.",
+          "w": 624
+        }
+      ],
+      "more": null
+    }
+  ],
+  "related": [
+    {
+      "image": "/media/pcRyYX6D2XdZ1N7uSp4whdKig.png",
+      "title": "Smart Remote Menu",
+      "client": "Aceconn China"
+    },
+    {
+      "image": "/media/WL8NdaES3kr8N4yyKrZQsr5BYU.png",
+      "title": "Seamless DeFi Trading on Neo EVM",
+      "client": "Rootswap Finance"
+    }
+  ]
+}

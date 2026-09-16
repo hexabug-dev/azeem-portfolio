@@ -1,0 +1,690 @@
+{
+  "name": "cs-delta",
+  "route": "/User-Experience-Interaction-Design/detla-state-igr",
+  "title": "Azeem Gbadamosi",
+  "header": {
+    "back": {
+      "text": "Back to list",
+      "href": "../User-Experience-Interaction-Design"
+    },
+    "h1": "Field-First: Designing a Tax System for Market Traders and Artisans",
+    "blocks": [
+      {
+        "t": "tag",
+        "html": "NIN",
+        "text": "NIN",
+        "indent": 0,
+        "x": 420,
+        "w": 25,
+        "size": 14
+      },
+      {
+        "t": "tag",
+        "html": "Verification",
+        "text": "Verification",
+        "indent": 0,
+        "x": 481,
+        "w": 74,
+        "size": 14
+      },
+      {
+        "t": "tag",
+        "html": "Contextual Inquiry",
+        "text": "Contextual Inquiry",
+        "indent": 0,
+        "x": 591,
+        "w": 121,
+        "size": 14
+      },
+      {
+        "t": "h1",
+        "html": "Field-First: Designing a Tax System for Market Traders and Artisans",
+        "text": "Field-First: Designing a Tax System for Market Traders and Artisans",
+        "indent": 0,
+        "x": 408,
+        "w": 904,
+        "size": 40
+      },
+      {
+        "t": "p",
+        "html": "In 2023, Delta State's Internal Revenue Generation (IRG) initiative set out to bring informal sector businesses into the tax net; the market traders, kiosks, artisans, and sole proprietors who form the backbone of local commerce in Nigerian communities. These businesses are economically active and legally obligated for taxes, but structurally distant from the government monitoring systems that reach formal companies. They are unlikely to visit a parastatal or government revenue office to file or pay, and the existing online tax infrastructure wasn't designed with them in mind.",
+        "text": "In 2023, Delta State's Internal Revenue Generation (IRG) initiative set out to bring informal sector businesses into the tax net; the market traders, kiosks, artisans, and sole proprietors who form the backbone of local commerce in Nigerian communities. These businesses are economically active and legally obligated for taxes, but structurally distant from the government monitoring systems that reach formal companies. They are unlikely to visit a parastatal or government revenue office to file or pay, and the existing online tax infrastructure wasn't designed with them in mind.",
+        "indent": 0,
+        "x": 408,
+        "w": 904,
+        "size": 16,
+        "muted": true
+      },
+      {
+        "t": "p",
+        "html": "The project was commissioned through AnchorDataware Solutions. I came onto the project as the product designer, working from the PRD provided.",
+        "text": "The project was commissioned through AnchorDataware Solutions. I came onto the project as the product designer, working from the PRD provided.",
+        "indent": 0,
+        "x": 408,
+        "w": 904,
+        "size": 16,
+        "muted": true
+      },
+      {
+        "t": "image",
+        "src": "/media/pIcapelQfSS5teiijlFLC7PFnCM.jpg",
+        "w": 1679,
+        "h": 1220,
+        "indent": 0,
+        "x": 408,
+        "dw": 904,
+        "alt": ""
+      },
+      {
+        "t": "metaValue",
+        "html": "4 Weeks",
+        "text": "4 Weeks",
+        "indent": 0,
+        "x": 597,
+        "w": 72,
+        "size": 18,
+        "svg": "<svg fill=\"currentColor\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6.75 1C7.16421 1 7.5 1.33579 7.5 1.75V3H12.5V1.75C12.5 1.33579 12.8358 1 13.25 1C13.6642 1 14 1.33579 14 1.75V3H16.25C17.7688 3 19 4.23122 19 5.75V16.25C19 17.7688 17.7688 19 16.25 19H3.75C2.23122 19 1 17.7688 1 16.25V5.75C1 4.23122 2.23122 3 3.75 3H6V1.75C6 1.33579 6.33579 1 6.75 1ZM6 4.5H3.75C3.05964 4.5 2.5 5.05964 2.5 5.75V8H17.5V5.75C17.5 5.05964 16.9404 4.5 16.25 4.5H14V5.25C14 5.66421 13.6642 6 13.25 6C12.8358 6 12.5 5.66421 12.5 5.25V4.5H7.5V5.25C7.5 5.66421 7.16421 6 6.75 6C6.33579 6 6 5.66421 6 5.25V4.5ZM17.5 9.5H2.5V16.25C2.5 16.9404 3.05964 17.5 3.75 17.5H16.25C16.9404 17.5 17.5 16.9404 17.5 16.25V9.5Z\"></path></svg>"
+      },
+      {
+        "t": "metaLabel",
+        "html": "Duration",
+        "text": "Duration",
+        "indent": 0,
+        "x": 605,
+        "w": 56,
+        "size": 14,
+        "muted": true
+      },
+      {
+        "t": "metaValue",
+        "html": "Lead Interaction Designer",
+        "text": "Lead Interaction Designer",
+        "indent": 292,
+        "x": 981,
+        "w": 212,
+        "size": 18
+      },
+      {
+        "t": "metaLabel",
+        "html": "Role",
+        "text": "Role",
+        "indent": 384,
+        "x": 1073,
+        "w": 29,
+        "size": 14,
+        "muted": true
+      }
+    ]
+  },
+  "footer": "",
+  "sections": [
+    {
+      "heading": "The Problem",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "The core challenge was one of access - in two directions.",
+          "text": "The core challenge was one of access - in two directions.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "p",
+          "html": "The state needed a way to reach and register informal businesses that had no digital tax presence.",
+          "text": "The state needed a way to reach and register informal businesses that had no digital tax presence.",
+          "indent": 20,
+          "x": 708,
+          "w": 604,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "p",
+          "html": "Those businesses needed a payment experience that felt familiar and low-friction enough to actually use. Bringing them into a web portal or asking them to interact with a government office was a <strong>non-starter</strong> for most.",
+          "text": "Those businesses needed a payment experience that felt familiar and low-friction enough to actually use. Bringing them into a web portal or asking them to interact with a government office was a non-starter for most.",
+          "indent": 20,
+          "x": 708,
+          "w": 604,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "p",
+          "html": "The solution the state wanted to pursue was a <em>field-agent model</em>: trained agents stationed across Local Government Areas (LGAs) or operating as mobile agents within catchment areas, equipped to register taxpayers and collect payments on the spot. For this to be successful, the agents would be equipped with a <strong>mobile POS machine</strong> and a <strong>smart android tablet.</strong> These were the two systems I designed for.",
+          "text": "The solution the state wanted to pursue was a field-agent model: trained agents stationed across Local Government Areas (LGAs) or operating as mobile agents within catchment areas, equipped to register taxpayers and collect payments on the spot. For this to be successful, the agents would be equipped with a mobile POS machine and a smart android tablet. These were the two systems I designed for.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "image",
+          "src": "/media/92KyS0ne8bTKiIxNi9wKRMncjA.png",
+          "w": 624,
+          "h": 468,
+          "indent": 0,
+          "x": 688,
+          "dw": 624,
+          "alt": ""
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "My Role",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "I designed three interconnected product surfaces based on the PRD: <strong>a tablet app for tax profile registration and verification</strong>, <strong>a POS app with a print module for payment collection</strong>, and a <strong>single admin dashboard screen for revenue monitoring</strong>. Given that this is a government financial system handling NIN data and tax records, I am sharing selected screens and flows rather than the full design. The case study focuses on the <em>two primary agent-facing flows.</em>",
+          "text": "I designed three interconnected product surfaces based on the PRD: a tablet app for tax profile registration and verification, a POS app with a print module for payment collection, and a single admin dashboard screen for revenue monitoring. Given that this is a government financial system handling NIN data and tax records, I am sharing selected screens and flows rather than the full design. The case study focuses on the two primary agent-facing flows.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "Understanding the Users with Contextual Inquiry",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "There were two distinct users to design for.",
+          "text": "There were two distinct users to design for.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "p",
+          "html": "The <strong>field agent</strong> needed tools that were fast, reliable in low-connectivity environments, and clear enough to use while standing in a market or at a roadside kiosk. They were <em>the interface between the state and the taxpayer</em> - their experience directly determined whether registration and collection happened at all.",
+          "text": "The field agent needed tools that were fast, reliable in low-connectivity environments, and clear enough to use while standing in a market or at a roadside kiosk. They were the interface between the state and the taxpayer - their experience directly determined whether registration and collection happened at all.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "p",
+          "html": "The <strong>informal business owner</strong> - the taxpayer - was not directly using the digital product, but their <strong>comfort and trust</strong> in the process was critical. Many of these users transact daily through POS agents: it is already a familiar, trusted model to hand a card or cash to an agent and receive a printed receipt. Designing the payment flow around that existing mental model was a deliberate and central decision.",
+          "text": "The informal business owner - the taxpayer - was not directly using the digital product, but their comfort and trust in the process was critical. Many of these users transact daily through POS agents: it is already a familiar, trusted model to hand a card or cash to an agent and receive a printed receipt. Designing the payment flow around that existing mental model was a deliberate and central decision.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "image",
+          "src": "/media/gRSEvkaaGzsN1XZLQvBuA0bA.jpg",
+          "w": 624,
+          "h": 416,
+          "indent": 0,
+          "x": 688,
+          "dw": 624,
+          "alt": ""
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "What I Designed",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "badge",
+          "html": "1",
+          "text": "1",
+          "indent": 0,
+          "x": 688,
+          "w": 40,
+          "size": 16
+        },
+        {
+          "t": "h3",
+          "html": "Tablet App — Tax Profile Registration Flow",
+          "text": "Tablet App — Tax Profile Registration Flow",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 18
+        },
+        {
+          "t": "p",
+          "html": "I built the registration flow around Nigeria's National Identification Number (NIN), which gave the system a reliable identity anchor for the largely undocumented informal sector. Everyone has an NIN in Nigeria. Without an NIN, mobile and banking services are impossible.",
+          "text": "I built the registration flow around Nigeria's National Identification Number (NIN), which gave the system a reliable identity anchor for the largely undocumented informal sector. Everyone has an NIN in Nigeria. Without an NIN, mobile and banking services are impossible.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "embed",
+          "src": "https://azeem-tablet-tax-flow.netlify.app/",
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "ratio": 1.3333,
+          "title": ""
+        },
+        {
+          "t": "p",
+          "html": "The flow was structured in <em>three phases.</em>",
+          "text": "The flow was structured in three phases.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "p",
+          "html": "In the first phase, the agent enters the taxpayer's NIN. The system queries the NIN database and returns pre-filled personal information, name, date of birth, and other identity details. These fields cannot be edited by the agent; they are confirmed against the taxpayer's physical ID document, ensuring the agent verifies identity before proceeding.",
+          "text": "In the first phase, the agent enters the taxpayer's NIN. The system queries the NIN database and returns pre-filled personal information, name, date of birth, and other identity details. These fields cannot be edited by the agent; they are confirmed against the taxpayer's physical ID document, ensuring the agent verifies identity before proceeding.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "video",
+          "src": "/media/pWNLaYcLvrvmPGF4Edwewfs5ig.webm",
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "ratio": 1.2785
+        },
+        {
+          "t": "image",
+          "src": "/media/TgNZIjWvLQsunui7w7UTghDUxc.png",
+          "w": 560,
+          "h": 420,
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "alt": ""
+        },
+        {
+          "t": "image",
+          "src": "/media/7X8vLEGME50Q3alByzwEdqHVs4.png",
+          "w": 560,
+          "h": 420,
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "alt": ""
+        },
+        {
+          "t": "p",
+          "html": "In the second phase, if a business exists under that NIN, the system surfaces the registered business names associated with it. Simultaneously, the system checks whether a tax profile already exists for each business. If a profile exists, the agent is informed and no duplicate is created. If no profile exists, the agent can select the business and proceed.",
+          "text": "In the second phase, if a business exists under that NIN, the system surfaces the registered business names associated with it. Simultaneously, the system checks whether a tax profile already exists for each business. If a profile exists, the agent is informed and no duplicate is created. If no profile exists, the agent can select the business and proceed.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "video",
+          "src": "/media/IK6JhYlGrTRonGNLy4eSEyMNHc.webm",
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "ratio": 1.2785
+        },
+        {
+          "t": "image",
+          "src": "/media/NCiHIXxfbPCuR5Atokadp65cM.png",
+          "w": 560,
+          "h": 420,
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "alt": ""
+        },
+        {
+          "t": "image",
+          "src": "/media/1KxJFFNNz1W5MixLLirSeC2iEDc.png",
+          "w": 560,
+          "h": 420,
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "alt": ""
+        },
+        {
+          "t": "image",
+          "src": "/media/5wfiO2ZDSkKpmLNYEZlm2Oaca1U.png",
+          "w": 560,
+          "h": 420,
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "alt": ""
+        },
+        {
+          "t": "p",
+          "html": "In the third phase, the agent completes the tax profile creation. The outcome is a taxpayer profile that generates a unique Tax ID and populates the taxpayer's tax debt, payment history, and upcoming obligations - all immediately visible to the agent.",
+          "text": "In the third phase, the agent completes the tax profile creation. The outcome is a taxpayer profile that generates a unique Tax ID and populates the taxpayer's tax debt, payment history, and upcoming obligations - all immediately visible to the agent.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "video",
+          "src": "/media/aWXaXsVNxa1by3tu4ohOV3Zo8p8.webm",
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "ratio": 1.2785
+        },
+        {
+          "t": "p",
+          "html": "As shown in the video, I added the following states to keep user informed about the progress of the account creation and status of service being ran. Illustration below:",
+          "text": "As shown in the video, I added the following states to keep user informed about the progress of the account creation and status of service being ran. Illustration below:",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "image",
+          "src": "/media/AP9pP5IhsaeeZB9QKCS9KyOkfc.png",
+          "w": 560,
+          "h": 420,
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "alt": ""
+        },
+        {
+          "t": "p",
+          "html": "Tablet flow also covered four non-happy paths: NIN not found, identity mismatch on physical ID check, no business found under NIN, and an existing tax profile detected.",
+          "text": "Tablet flow also covered four non-happy paths: NIN not found, identity mismatch on physical ID check, no business found under NIN, and an existing tax profile detected.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "badge",
+          "html": "2",
+          "text": "2",
+          "indent": 0,
+          "x": 688,
+          "w": 40,
+          "size": 16
+        },
+        {
+          "t": "h3",
+          "html": "POS App - Payment Collection Flow",
+          "text": "POS App - Payment Collection Flow",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 18
+        },
+        {
+          "t": "p",
+          "html": "I kept the payment flow minimal. The agent enters the taxpayer's Tax ID, which pulls up the outstanding tax debt. The taxpayer pays - either by ATM card or cash, and the agent processes the transaction. A receipt is printed immediately as proof of payment.",
+          "text": "I kept the payment flow minimal. The agent enters the taxpayer's Tax ID, which pulls up the outstanding tax debt. The taxpayer pays - either by ATM card or cash, and the agent processes the transaction. A receipt is printed immediately as proof of payment.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "embed",
+          "src": "https://azeem-pos-flow.netlify.app/",
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "ratio": 1.3333,
+          "title": ""
+        },
+        {
+          "t": "video",
+          "src": "/media/eDIEWqDgN6mlw0wCNfnTILa4M.webm",
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "ratio": 1.2785
+        },
+        {
+          "t": "p",
+          "html": "I designed some interactive feedbacks in certain paths of the flow as well. I use Lottie files and Aftereffects for animations.",
+          "text": "I designed some interactive feedbacks in certain paths of the flow as well. I use Lottie files and Aftereffects for animations.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "video",
+          "src": "/media/kT1CTXxlrmbSpYwoPhrQDulWNY.webm",
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "ratio": 1.2785
+        },
+        {
+          "t": "p",
+          "html": "The decision to support both card and cash was grounded in how informal sector users actually interact with money. Nigeria has over 5.9 million active POS terminals - nearly 1,000 times the number of bank branches in the country (Technext), and a 2023 survey found that 36% of Nigerian adults had used a POS agent for deposits or withdrawals in the previous year, while formal bank branch visits dropped sharply after 2020 (Technext).",
+          "text": "The decision to support both card and cash was grounded in how informal sector users actually interact with money. Nigeria has over 5.9 million active POS terminals - nearly 1,000 times the number of bank branches in the country (Technext), and a 2023 survey found that 36% of Nigerian adults had used a POS agent for deposits or withdrawals in the previous year, while formal bank branch visits dropped sharply after 2020 (Technext).",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "p",
+          "html": "For informal market traders and artisans in particular, the informal economy runs on proximity, trust, and human relationships (Techpoint Africa) - and POS agents sit squarely within that. The ordinary Nigerian prefers to go to the POS to get cash rather than go to the ATM (IEEE Spectrum), a preference driven by the scarcity, withdrawal limits, and unreliability of the formal ATM network. Designing the tax payment experience to mirror that existing, familiar interaction reduced the behavioural barrier for taxpayers significantly. It was the appropriate design choice for the context.",
+          "text": "For informal market traders and artisans in particular, the informal economy runs on proximity, trust, and human relationships (Techpoint Africa) - and POS agents sit squarely within that. The ordinary Nigerian prefers to go to the POS to get cash rather than go to the ATM (IEEE Spectrum), a preference driven by the scarcity, withdrawal limits, and unreliability of the formal ATM network. Designing the tax payment experience to mirror that existing, familiar interaction reduced the behavioural barrier for taxpayers significantly. It was the appropriate design choice for the context.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "image",
+          "src": "/media/esRUhRudvayvggMZa8z5aTwuwA.jpg",
+          "w": 560,
+          "h": 370,
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "alt": ""
+        },
+        {
+          "t": "badge",
+          "html": "3",
+          "text": "3",
+          "indent": 0,
+          "x": 688,
+          "w": 40,
+          "size": 16
+        },
+        {
+          "t": "h3",
+          "html": "Admin Dashboard",
+          "text": "Admin Dashboard",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 18
+        },
+        {
+          "t": "p",
+          "html": "Although, this was beyond scope for my aspect of the project, I proposed a dashboard screen to give state administrators visibility into agent activity and revenue performance, showing active agents, revenue streams broken down by LGA, and collection summaries.",
+          "text": "Although, this was beyond scope for my aspect of the project, I proposed a dashboard screen to give state administrators visibility into agent activity and revenue performance, showing active agents, revenue streams broken down by LGA, and collection summaries.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "image",
+          "src": "/media/EZC1Iuj5ym1Vzk3UQYFeyjetO8A.png",
+          "w": 560,
+          "h": 420,
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "alt": ""
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "Environment Factors",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "The system had to work for agents operating in environments with variable network connectivity and varying levels of digital literacy, so I kept flows short and sequential, with clear state feedback at every step, particularly around the NIN lookup and the tax profile existence check, where ambiguity could lead to errors or duplicate records. Every decision point in the flow needed to be unambiguous enough that an agent could resolve it confidently without escalating.",
+          "text": "The system had to work for agents operating in environments with variable network connectivity and varying levels of digital literacy, so I kept flows short and sequential, with clear state feedback at every step,  particularly around the NIN lookup and the tax profile existence check, where ambiguity could lead to errors or duplicate records. Every decision point in the flow needed to be unambiguous enough that an agent could resolve it confidently without escalating.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "A Note on Technical Considerations",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "One technical consideration worth highlighting was the application of an <strong>eager loading</strong> pattern to the Tax ID lookup. Borrowing from how Google prefetches account data the moment a user begins entering their email, I designed the system to begin loading the taxpayer's profile in the background as soon as the Tax ID was entered - before the agent explicitly confirmed or submitted. Given that the probability of proceeding after a valid Tax ID entry is naturally very high, and that field agents would be operating in markets and open areas with variable internet connectivity, reducing perceived load time at that critical step was an important interaction decision.",
+          "text": "One technical consideration worth highlighting was the application of an eager loading pattern to the Tax ID lookup. Borrowing from how Google prefetches account data the moment a user begins entering their email, I designed the system to begin loading the taxpayer's profile in the background as soon as the Tax ID was entered - before the agent explicitly confirmed or submitted. Given that the probability of proceeding after a valid Tax ID entry is naturally very high, and that field agents would be operating in markets and open areas with variable internet connectivity, reducing perceived load time at that critical step was an important interaction decision.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "image",
+          "src": "/media/7pQKqzYLTNo69sxG45MZ9pLwR8.png",
+          "w": 624,
+          "h": 507,
+          "indent": 0,
+          "x": 688,
+          "dw": 624,
+          "alt": ""
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "The Impact",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "The urgency behind this project is reflected in Delta State's own revenue trajectory. In 2023, the Delta State Internal Revenue Service generated ₦114 billion against a target of ₦95 billion - surpassing the projection by over 20% and exceeding 2022 collections by 35.75%, described by the executive chairman as unprecedented in the state's history (Asaba Metro News). Despite that milestone, the DSIRS identified the informal sector as the focal point for meeting its 2024 projection of ₦136 billion, explicitly calling on artisans, unions, and associations to fulfil their tax obligations (Leadership Newspapers). The system designed in this project was a direct instrument for closing that gap - bringing the tax collection experience to where informal businesses already operate, rather than expecting them to come to government.",
+          "text": "The urgency behind this project is reflected in Delta State's own revenue trajectory. In 2023, the Delta State Internal Revenue Service generated ₦114 billion against a target of ₦95 billion - surpassing the projection by over 20% and exceeding 2022 collections by 35.75%, described by the executive chairman as unprecedented in the state's history (Asaba Metro News). Despite that milestone, the DSIRS identified the informal sector as the focal point for meeting its 2024 projection of ₦136 billion, explicitly calling on artisans, unions, and associations to fulfil their tax obligations (Leadership Newspapers). The system designed in this project was a direct instrument for closing that gap - bringing the tax collection experience to where informal businesses already operate, rather than expecting them to come to government.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "action",
+          "html": "2025 Delta IGR Report",
+          "text": "2025 Delta IGR Report",
+          "href": "https://guardian.ng/issue/oborevworis-infrastructure-momentum-and-new-era-of-fiscal-discipline-in-delta/",
+          "indent": 252,
+          "x": 940,
+          "w": 149,
+          "size": 14
+        }
+      ],
+      "more": {
+        "text": "2025 Delta IGR Report",
+        "href": "https://guardian.ng/issue/oborevworis-infrastructure-momentum-and-new-era-of-fiscal-discipline-in-delta/"
+      }
+    },
+    {
+      "heading": "Tools",
+      "layout": "split",
+      "blocks": [],
+      "kind": "chips",
+      "items": [
+        {
+          "text": "Figma",
+          "w": 46,
+          "svg": "<svg fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\"><title>Figma</title><path d=\"M15.852 8.981h-4.588V0h4.588c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.491-4.49 4.491zM12.735 7.51h3.117c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-3.117V7.51zm0 1.471H8.148c-2.476 0-4.49-2.014-4.49-4.49S5.672 0 8.148 0h4.588v8.981zm-4.587-7.51c-1.665 0-3.019 1.355-3.019 3.019s1.354 3.02 3.019 3.02h3.117V1.471H8.148zm4.587 15.019H8.148c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h4.588v8.98zM8.148 8.981c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h3.117V8.981H8.148zM8.172 24c-2.489 0-4.515-2.014-4.515-4.49s2.014-4.49 4.49-4.49h4.588v4.441c0 2.503-2.047 4.539-4.563 4.539zm-.024-7.51a3.023 3.023 0 0 0-3.019 3.019c0 1.665 1.365 3.019 3.044 3.019 1.705 0 3.093-1.376 3.093-3.068v-2.97H8.148zm7.704 0h-.098c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h.098c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.49-4.49 4.49zm-.097-7.509c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h.098c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-.098z\"></path></svg>"
+        },
+        {
+          "text": "Research",
+          "w": 70,
+          "svg": "<svg fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\"><title>Files</title><path d=\"M12.367 2.453a.822.822 0 0 0-.576.238L.241 14.213a.822.822 0 0 0-.241.584v.066c0-.323.209-.608.516-.709l7.275-2.318a2.437 2.437 0 0 0 1.584-1.592l2.318-7.267a.757.757 0 0 1 .719-.524zM0 14.863v5.047c0 .904.733 1.637 1.637 1.637h20.726c.904 0 1.637-.733 1.637-1.637V4.09c0-.904-.733-1.637-1.637-1.637h-9.951v.5l.088 9.861c.01 1.175-.962 2.14-2.137 2.14L0 14.862zM12 3.66l-2.148 6.735v.001a2.94 2.94 0 0 1-1.909 1.916l-6.716 2.141h9.136c.905 0 1.638-.734 1.637-1.639zm-10.363.975c-.905 0-1.638.734-1.637 1.638v7.473l9.135-9.111Z\"></path></svg>"
+        },
+        {
+          "text": "Figjam",
+          "w": 50,
+          "svg": "<svg fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\"><title>Figma</title><path d=\"M15.852 8.981h-4.588V0h4.588c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.491-4.49 4.491zM12.735 7.51h3.117c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-3.117V7.51zm0 1.471H8.148c-2.476 0-4.49-2.014-4.49-4.49S5.672 0 8.148 0h4.588v8.981zm-4.587-7.51c-1.665 0-3.019 1.355-3.019 3.019s1.354 3.02 3.019 3.02h3.117V1.471H8.148zm4.587 15.019H8.148c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h4.588v8.98zM8.148 8.981c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h3.117V8.981H8.148zM8.172 24c-2.489 0-4.515-2.014-4.515-4.49s2.014-4.49 4.49-4.49h4.588v4.441c0 2.503-2.047 4.539-4.563 4.539zm-.024-7.51a3.023 3.023 0 0 0-3.019 3.019c0 1.665 1.365 3.019 3.044 3.019 1.705 0 3.093-1.376 3.093-3.068v-2.97H8.148zm7.704 0h-.098c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h.098c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.49-4.49 4.49zm-.097-7.509c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h.098c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-.098z\"></path></svg>"
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "Stakeholders' Credits",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Project Inititative - Dr. Joel Adidi (AnchorDataware Solutions)<br>Product Manager - Bolaji Abdullahi, PMP, MBA <br>Research &amp; Design - Azeem Gbadamosi",
+          "text": "Project Inititative - Dr. Joel Adidi (AnchorDataware Solutions)\nProduct Manager - Bolaji Abdullahi, PMP, MBA \nResearch & Design - Azeem Gbadamosi",
+          "multiline": true,
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        }
+      ],
+      "more": null
+    }
+  ],
+  "related": [
+    {
+      "image": "/media/SxsOGYqgzGoGsJPDT874YcmBFzQ.png",
+      "title": "3D Video Direction for AUMI Cryptocurrency",
+      "client": "AutoMatic Yield Farming"
+    },
+    {
+      "image": "/media/dOyj9FQcxeSHQSVKA7PQoHke6k.jpg",
+      "title": "A UX Audit That Won a Government Contract -eCitiBiz",
+      "client": "Citizenship and Business Department of Nigeria"
+    }
+  ]
+}

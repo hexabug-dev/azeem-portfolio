@@ -6,7 +6,7 @@ import { Home, Briefcase, LayoutGrid, User, PenSquare, Mail } from "lucide-react
 
 const navItems = [
   { href: "/", label: "Home", icon: Home },
-  { href: "/User-Experience-Interaction-Design", label: "Work", icon: Briefcase },
+  { href: "/User-Experience-Interaction-Design", label: "Products", icon: Briefcase },
   { href: "/visual-playground", label: "Play", icon: LayoutGrid },
   { href: "/about", label: "About", icon: User },
   { href: "/blog", label: "Blog", icon: PenSquare },

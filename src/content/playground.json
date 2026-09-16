@@ -1,0 +1,61 @@
+{
+  "name": "playground",
+  "route": "/visual-playground",
+  "title": "Azeem Gbadamosi",
+  "header": {
+    "back": null,
+    "h1": "Playground",
+    "blocks": [
+      {
+        "t": "h1",
+        "html": "Playground",
+        "text": "Playground",
+        "indent": 0,
+        "x": 408,
+        "w": 904,
+        "size": 40
+      },
+      {
+        "t": "metaValue",
+        "html": "Projects across Visual Identities, Motion Graphics, Marketing Materials &amp; Presentations",
+        "text": "Projects across Visual Identities, Motion Graphics, Marketing Materials & Presentations",
+        "indent": 0,
+        "x": 408,
+        "w": 904,
+        "size": 18,
+        "muted": true
+      }
+    ]
+  },
+  "footer": "© 2026 Azeem",
+  "sections": [
+    {
+      "heading": "",
+      "layout": "stacked",
+      "blocks": [],
+      "kind": "cards",
+      "items": [
+        {
+          "image": "/media/hYL53YSdjyUY8mz234U9ci0REDY.jpg",
+          "title": "Riya & Friends - Kids Storybook",
+          "client": "Prince Safri",
+          "href": "./visual-playground/riya-kids-book-design"
+        },
+        {
+          "image": "/media/NtOngL28emIXQvq3RDmSH6HtS8.png",
+          "title": "AI Saturdays - An AI & ML Cohort",
+          "client": "Branding and Visual Identity",
+          "href": "./visual-playground/AI-Saturdays"
+        },
+        {
+          "image": "/media/SxsOGYqgzGoGsJPDT874YcmBFzQ.png",
+          "title": "3D Video Direction for AUMI Cryptocurrency",
+          "client": "AutoMatic Yield Farming",
+          "href": "./visual-playground/3d-crypto-animation"
+        }
+      ],
+      "more": null
+    }
+  ],
+  "related": []
+}

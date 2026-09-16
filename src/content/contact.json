@@ -1,0 +1,159 @@
+{
+  "name": "contact",
+  "route": "/contact",
+  "title": "Azeem Gbadamosi",
+  "header": {
+    "back": null,
+    "h1": "Contact",
+    "blocks": [
+      {
+        "t": "h1",
+        "html": "Contact",
+        "text": "Contact",
+        "indent": 0,
+        "x": 408,
+        "w": 904,
+        "size": 40
+      },
+      {
+        "t": "metaValue",
+        "html": "Get in touch for design inquiries",
+        "text": "Get in touch for design inquiries",
+        "indent": 0,
+        "x": 408,
+        "w": 904,
+        "size": 18,
+        "muted": true
+      },
+      {
+        "t": "p",
+        "html": "azeem@tazcreative.io",
+        "text": "azeem@tazcreative.io",
+        "indent": 0,
+        "x": 408,
+        "w": 436,
+        "size": 16,
+        "muted": true
+      },
+      {
+        "t": "metaLabel",
+        "html": "E-mail",
+        "text": "E-mail",
+        "indent": 0,
+        "x": 408,
+        "w": 436,
+        "size": 14,
+        "muted": true
+      },
+      {
+        "t": "p",
+        "html": "+372 5378 5825",
+        "text": "+372 5378 5825",
+        "indent": 188,
+        "x": 876,
+        "w": 436,
+        "size": 16,
+        "muted": true
+      },
+      {
+        "t": "metaLabel",
+        "html": "Phone",
+        "text": "Phone",
+        "indent": 188,
+        "x": 876,
+        "w": 436,
+        "size": 14,
+        "muted": true
+      },
+      {
+        "t": "action",
+        "html": "Schedule a call",
+        "text": "Schedule a call",
+        "href": "./about",
+        "indent": 0,
+        "x": 428,
+        "w": 101,
+        "size": 14
+      },
+      {
+        "t": "chip",
+        "html": "Copy e-mail",
+        "text": "Copy e-mail",
+        "indent": 0,
+        "x": 591,
+        "w": 91,
+        "size": 16
+      },
+      {
+        "t": "chip",
+        "html": "Copied!",
+        "text": "Copied!",
+        "indent": 0,
+        "x": 607,
+        "w": 58,
+        "size": 16
+      },
+      {
+        "t": "metaLabel",
+        "html": "Copy email",
+        "text": "Copy email",
+        "indent": 0,
+        "x": 614,
+        "w": 73,
+        "size": 14
+      }
+    ]
+  },
+  "footer": "",
+  "sections": [
+    {
+      "heading": "Send a message",
+      "layout": "stacked",
+      "blocks": [
+        {
+          "t": "field",
+          "fieldType": "text",
+          "placeholder": "Name",
+          "required": false,
+          "indent": 0,
+          "x": 408
+        },
+        {
+          "t": "field",
+          "fieldType": "email",
+          "placeholder": "Email",
+          "required": false,
+          "indent": 184,
+          "x": 870
+        },
+        {
+          "t": "field",
+          "fieldType": "textarea",
+          "placeholder": "Message",
+          "required": false,
+          "indent": 0,
+          "x": 408
+        },
+        {
+          "t": "field",
+          "fieldType": "submit",
+          "placeholder": "",
+          "required": false,
+          "indent": 0,
+          "x": 408
+        },
+        {
+          "t": "metaLabel",
+          "html": "© 2026 Azeem",
+          "text": "© 2026 Azeem",
+          "indent": 0,
+          "x": 408,
+          "w": 904,
+          "size": 14
+        }
+      ],
+      "more": null
+    }
+  ],
+  "related": []
+}

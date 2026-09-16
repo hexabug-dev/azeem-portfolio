@@ -1,0 +1,735 @@
+{
+  "url": "https://azeemolawale.com/visual-playground/AI-Saturdays",
+  "title": "Azeem Gbadamosi",
+  "scrollHeight": 5473,
+  "blocks": [
+    {
+      "kind": "svg",
+      "html": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102))\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M11.7996 6.23966C12.0814 6.5432 12.0639 7.01775 11.7603 7.2996L8.85221 10L11.7603 12.7004C12.0639 12.9823 12.0814 13.4568 11.7996 13.7603C11.5177 14.0639 11.0432 14.0815 10.7397 13.7996L7.23966 10.5496C7.08684 10.4077 7 10.2086 7 10C7 9.79145 7.08684 9.59232 7.23966 9.45041L10.7397 6.20041C11.0432 5.91856 11.5177 5.93613 11.7996 6.23966Z\"></path></svg>",
+      "rect": {
+        "x": 408,
+        "y": 51,
+        "w": 20,
+        "h": 20
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Back to list",
+      "html": "Back to list",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(18, 18, 18)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": "../visual-playground",
+      "rect": {
+        "x": 436,
+        "y": 48,
+        "w": 73,
+        "h": 25
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Branding",
+      "html": "Branding",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 420,
+        "y": 173,
+        "w": 59,
+        "h": 25
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Event",
+      "html": "Event",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 515,
+        "y": 173,
+        "w": 37,
+        "h": 25
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Visual Identity",
+      "html": "Visual Identity",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(161, 88, 48)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 588,
+        "y": 173,
+        "w": 93,
+        "h": 25
+      }
+    },
+    {
+      "kind": "text",
+      "text": "AI Abeokuta - An AI & ML Cohort",
+      "html": "AI Abeokuta - An AI &amp; ML Cohort",
+      "tag": "h1",
+      "fontSize": 40,
+      "fontWeight": "700",
+      "fontFamily": "Space Grotesk",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "60px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 232,
+        "w": 904,
+        "h": 60
+      }
+    },
+    {
+      "kind": "text",
+      "text": "AI Abeokuta (AI6) is an e-learning service provider helping Artificial Intelligence enthusiasts and newbies get started in the field of ML and AI. This showcase entails a glimpse into their branding from the logo concept to banners and creative copies as curated by me.",
+      "html": "AI Abeokuta (AI6) is an e-learning service provider helping Artificial Intelligence enthusiasts and newbies get started in the field of ML and AI. This showcase entails a glimpse into their branding from the logo concept to banners and creative copies as curated by me.",
+      "tag": "p",
+      "fontSize": 18,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "32.4px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 300,
+        "w": 904,
+        "h": 97
+      }
+    },
+    {
+      "kind": "image",
+      "src": "https://framerusercontent.com/images/nz8eYlMDU4KoPwGyVVQ6Ug8xLVI.png?scale-down-to=1024&lossless=1",
+      "alt": "",
+      "natural": [
+        904,
+        678
+      ],
+      "rect": {
+        "x": 408,
+        "y": 453,
+        "w": 904,
+        "h": 678
+      },
+      "fit": "cover",
+      "radius": "12px"
+    },
+    {
+      "kind": "image",
+      "src": "https://framerusercontent.com/images/vRLbOqj5ikWlClV7geIjO1Mq8LY.png?scale-down-to=1024&lossless=1",
+      "alt": "",
+      "natural": [
+        904,
+        870
+      ],
+      "rect": {
+        "x": 408,
+        "y": 1172,
+        "w": 904,
+        "h": 870
+      },
+      "fit": "cover",
+      "radius": "12px"
+    },
+    {
+      "kind": "image",
+      "src": "https://framerusercontent.com/images/lqQeT7niRVfNro1ny20VblPDey4.png?scale-down-to=1024&lossless=1",
+      "alt": "",
+      "natural": [
+        904,
+        634
+      ],
+      "rect": {
+        "x": 408,
+        "y": 2090,
+        "w": 904,
+        "h": 635
+      },
+      "fit": "cover",
+      "radius": "12px"
+    },
+    {
+      "kind": "text",
+      "text": "Social Media Covers",
+      "html": "Social Media Covers",
+      "tag": "h2",
+      "fontSize": 26,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "39px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 2773,
+        "w": 240,
+        "h": 78
+      }
+    },
+    {
+      "kind": "text",
+      "text": "I also designed headers for the cohort's Twitter and LinkedIn channels using the standard dimensions and taking into account possible cropping and overlays on mobile and desktop.",
+      "html": "I also designed headers for the cohort's Twitter and LinkedIn channels using the standard dimensions and taking into account possible cropping and overlays on mobile and desktop.",
+      "tag": "p",
+      "fontSize": 18,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "32.4px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 688,
+        "y": 2773,
+        "w": 624,
+        "h": 97
+      }
+    },
+    {
+      "kind": "image",
+      "src": "https://framerusercontent.com/images/vP51Per7bdnzLmwPrHjEREBhM.png?scale-down-to=1024",
+      "alt": "",
+      "natural": [
+        904,
+        301
+      ],
+      "rect": {
+        "x": 408,
+        "y": 2968,
+        "w": 904,
+        "h": 301
+      },
+      "fit": "cover",
+      "radius": "12px"
+    },
+    {
+      "kind": "image",
+      "src": "https://framerusercontent.com/images/yJYMJ1hCxZwKMbAYrJmdVMEoI.png?scale-down-to=1024",
+      "alt": "",
+      "natural": [
+        904,
+        226
+      ],
+      "rect": {
+        "x": 408,
+        "y": 3317,
+        "w": 904,
+        "h": 226
+      },
+      "fit": "cover",
+      "radius": "12px"
+    },
+    {
+      "kind": "image",
+      "src": "https://framerusercontent.com/images/NtOngL28emIXQvq3RDmSH6HtS8.png",
+      "alt": "",
+      "natural": [
+        904,
+        678
+      ],
+      "rect": {
+        "x": 408,
+        "y": 3591,
+        "w": 904,
+        "h": 678
+      },
+      "fit": "cover",
+      "radius": "12px"
+    },
+    {
+      "kind": "text",
+      "text": "Tools",
+      "html": "Tools",
+      "tag": "h2",
+      "fontSize": 26,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "39px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 4367,
+        "w": 240,
+        "h": 39
+      }
+    },
+    {
+      "kind": "svg",
+      "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\" style=\"fill: var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102));\"><title>Adobe Photoshop</title><path d=\"M9.85 8.42c-.37-.15-.77-.21-1.18-.2-.26 0-.49 0-.68.01-.2-.01-.34 0-.41.01v3.36c.14.01.27.02.39.02h.53c.39 0 .78-.06 1.15-.18.32-.09.6-.28.82-.53.21-.25.31-.59.31-1.03.01-.31-.07-.62-.23-.89-.17-.26-.41-.46-.7-.57zM19.75.3H4.25C1.9.3 0 2.2 0 4.55v14.899c0 2.35 1.9 4.25 4.25 4.25h15.5c2.35 0 4.25-1.9 4.25-4.25V4.55C24 2.2 22.1.3 19.75.3zm-7.391 11.65c-.399.56-.959.98-1.609 1.22-.68.25-1.43.34-2.25.34-.24 0-.4 0-.5-.01s-.24-.01-.43-.01v3.209c.01.07-.04.131-.11.141H5.52c-.08 0-.12-.041-.12-.131V6.42c0-.07.03-.11.1-.11.17 0 .33 0 .56-.01.24-.01.49-.01.76-.02s.56-.01.87-.02c.31-.01.61-.01.91-.01.82 0 1.5.1 2.06.31.5.17.96.45 1.34.82.32.32.57.71.73 1.14.149.42.229.85.229 1.3.001.86-.199 1.57-.6 2.13zm7.091 3.89c-.28.4-.671.709-1.12.891-.49.209-1.09.318-1.811.318-.459 0-.91-.039-1.359-.129-.35-.061-.7-.17-1.02-.32-.07-.039-.121-.109-.111-.189v-1.74c0-.029.011-.07.041-.09.029-.02.06-.01.09.01.39.23.8.391 1.24.49.379.1.779.15 1.18.15.38 0 .65-.051.83-.141.16-.07.27-.24.27-.42 0-.141-.08-.27-.24-.4-.16-.129-.489-.279-.979-.471-.51-.18-.979-.42-1.42-.719-.31-.221-.569-.51-.761-.85-.159-.32-.239-.67-.229-1.021 0-.43.12-.84.341-1.21.25-.4.619-.72 1.049-.92.469-.239 1.059-.349 1.769-.349.41 0 .83.03 1.24.09.3.04.59.12.86.23.039.01.08.05.1.09.01.04.02.08.02.12v1.63c0 .04-.02.08-.05.1-.09.02-.14.02-.18 0-.3-.16-.62-.27-.96-.34-.37-.08-.74-.13-1.12-.13-.2-.01-.41.02-.601.07-.129.03-.24.1-.31.2-.05.08-.08.18-.08.27s.04.18.101.26c.09.11.209.2.34.27.229.12.47.23.709.33.541.18 1.061.43 1.541.73.33.209.6.49.789.83.16.318.24.67.23 1.029.011.471-.129.94-.389 1.331z\"></path></svg>",
+      "rect": {
+        "x": 708,
+        "y": 4387,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Adobe Photoshop",
+      "html": "Adobe Photoshop",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 756,
+        "y": 4388,
+        "w": 136,
+        "h": 29
+      }
+    },
+    {
+      "kind": "svg",
+      "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\" style=\"fill: var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102));\"><title>Adobe Illustrator</title><path d=\"M10.53 10.73c-.1-.31-.19-.61-.29-.92-.1-.31-.19-.6-.27-.89-.08-.28-.15-.54-.22-.78h-.02c-.09.43-.2.86-.34 1.29-.15.48-.3.98-.46 1.48-.14.51-.29.98-.44 1.4h2.54c-.06-.211-.14-.46-.23-.721-.09-.269-.18-.559-.27-.859zM19.75.3H4.25C1.9.3 0 2.2 0 4.55v14.9c0 2.35 1.9 4.25 4.25 4.25h15.5c2.35 0 4.25-1.9 4.25-4.25V4.55C24 2.2 22.1.3 19.75.3zM14.7 16.83h-2.091c-.069.01-.139-.04-.159-.11l-.82-2.38H7.91l-.76 2.35c-.02.09-.1.15-.19.141H5.08c-.11 0-.14-.061-.11-.18L8.19 7.38c.03-.1.06-.21.1-.33.04-.21.06-.43.06-.65-.01-.05.03-.1.08-.11h2.59c.08 0 .12.03.13.08l3.65 10.3c.03.109 0 .16-.1.16zm3.4-.15c0 .11-.039.16-.129.16H16.01c-.1 0-.15-.061-.15-.16v-7.7c0-.1.041-.14.131-.14h1.98c.09 0 .129.05.129.14v7.7zm-.209-9.03c-.231.24-.571.37-.911.35-.33.01-.65-.12-.891-.35-.23-.25-.35-.58-.34-.92-.01-.34.12-.66.359-.89.242-.23.562-.35.892-.35.391 0 .689.12.91.35.22.24.34.56.33.89.01.34-.11.67-.349.92z\"></path></svg>",
+      "rect": {
+        "x": 708,
+        "y": 4463,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "kind": "text",
+      "text": "Adobe Illustrator",
+      "html": "Adobe Illustrator",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "28.8px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 756,
+        "y": 4464,
+        "w": 126,
+        "h": 29
+      }
+    },
+    {
+      "kind": "text",
+      "text": "More projects",
+      "html": "More projects",
+      "tag": "h2",
+      "fontSize": 26,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "39px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 408,
+        "y": 4613,
+        "w": 904,
+        "h": 39
+      }
+    },
+    {
+      "kind": "image",
+      "src": "https://framerusercontent.com/images/SxsOGYqgzGoGsJPDT874YcmBFzQ.png?scale-down-to=512",
+      "alt": "",
+      "natural": [
+        436,
+        245
+      ],
+      "rect": {
+        "x": 408,
+        "y": 4684,
+        "w": 436,
+        "h": 327
+      },
+      "fit": "cover",
+      "radius": "0px"
+    },
+    {
+      "kind": "text",
+      "text": "3D Video Direction for AUMI Cryptocurrency",
+      "html": "3D Video Direction for AUMI Cryptocurrency",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": "./3d-crypto-animation",
+      "rect": {
+        "x": 408,
+        "y": 5031,
+        "w": 436,
+        "h": 24
+      }
+    },
+    {
+      "kind": "text",
+      "text": "AutoMatic Yield Farming",
+      "html": "AutoMatic Yield Farming",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": "./3d-crypto-animation",
+      "rect": {
+        "x": 408,
+        "y": 5059,
+        "w": 436,
+        "h": 25
+      }
+    },
+    {
+      "kind": "image",
+      "src": "https://framerusercontent.com/images/XDTFM9Y9JlG7SKESMM5sXAWVE.jpg?scale-down-to=512",
+      "alt": "",
+      "natural": [
+        436,
+        345
+      ],
+      "rect": {
+        "x": 876,
+        "y": 4684,
+        "w": 436,
+        "h": 327
+      },
+      "fit": "cover",
+      "radius": "0px"
+    },
+    {
+      "kind": "text",
+      "text": "Enabling People Connect with Service Providers",
+      "html": "Enabling People Connect with Service Providers",
+      "tag": "p",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(17, 17, 17)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "24px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 876,
+        "y": 5031,
+        "w": 436,
+        "h": 24
+      }
+    },
+    {
+      "kind": "text",
+      "text": "AnyworkX Africa",
+      "html": "AnyworkX Africa",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "400",
+      "fontFamily": "Inter",
+      "color": "rgb(102, 102, 102)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": null,
+      "rect": {
+        "x": 876,
+        "y": 5059,
+        "w": 436,
+        "h": 25
+      }
+    },
+    {
+      "kind": "text",
+      "text": "All projects",
+      "html": "All projects",
+      "tag": "p",
+      "fontSize": 14,
+      "fontWeight": "500",
+      "fontFamily": "Inter",
+      "color": "rgb(18, 18, 18)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "lineHeight": "25.2px",
+      "textTransform": "none",
+      "border": false,
+      "radius": "0px",
+      "href": "../User-Experience-Interaction-Design",
+      "rect": {
+        "x": 823,
+        "y": 5125,
+        "w": 75,
+        "h": 25
+      }
+    }
+  ],
+  "links": [
+    {
+      "href": "../",
+      "text": "Azeem Gbadamosi\n\nInteraction Designer"
+    },
+    {
+      "href": "https://www.instagram.com/theabdulazeem.creative/",
+      "text": ""
+    },
+    {
+      "href": "https://www.behance.net/firstazeem",
+      "text": ""
+    },
+    {
+      "href": "https://www.linkedin.com/in/firstazeem/",
+      "text": ""
+    },
+    {
+      "href": "../",
+      "text": "Home"
+    },
+    {
+      "href": "../User-Experience-Interaction-Design",
+      "text": "Products"
+    },
+    {
+      "href": "../visual-playground",
+      "text": "Playground"
+    },
+    {
+      "href": "../about",
+      "text": "About"
+    },
+    {
+      "href": "../blog",
+      "text": "Blog"
+    },
+    {
+      "href": "../contact",
+      "text": "Contact"
+    },
+    {
+      "href": "../visual-playground",
+      "text": "Back to list"
+    },
+    {
+      "href": "./3d-crypto-animation",
+      "text": "3D Video Direction for AUMI Cryptocurrency\n\nAutoMatic Yield Farming"
+    },
+    {
+      "href": null,
+      "text": "Enabling People Connect with Service Providers\n\nAnyworkX Africa"
+    },
+    {
+      "href": "../User-Experience-Interaction-Design",
+      "text": "All projects"
+    }
+  ],
+  "chrome": {
+    "navItems": [
+      {
+        "href": "../",
+        "label": "Azeem Gbadamosi\n\nInteraction Designer",
+        "svg": null,
+        "img": "https://framerusercontent.com/images/jjQiVkJ7P7L2gLbhkHRgZioVA.png?scale-down-to=1024",
+        "rect": {
+          "x": 61,
+          "y": 40,
+          "w": 158,
+          "h": 125
+        }
+      },
+      {
+        "href": "https://www.instagram.com/theabdulazeem.creative/",
+        "label": "",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\" style=\"fill: var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102));\"><title>Instagram</title><path d=\"M7.0301.084c-1.2768.0602-2.1487.264-2.911.5634-.7888.3075-1.4575.72-2.1228 1.3877-.6652.6677-1.075 1.3368-1.3802 2.127-.2954.7638-.4956 1.6365-.552 2.914-.0564 1.2775-.0689 1.6882-.0626 4.947.0062 3.2586.0206 3.6671.0825 4.9473.061 1.2765.264 2.1482.5635 2.9107.308.7889.72 1.4573 1.388 2.1228.6679.6655 1.3365 1.0743 2.1285 1.38.7632.295 1.6361.4961 2.9134.552 1.2773.056 1.6884.069 4.9462.0627 3.2578-.0062 3.668-.0207 4.9478-.0814 1.28-.0607 2.147-.2652 2.9098-.5633.7889-.3086 1.4578-.72 2.1228-1.3881.665-.6682 1.0745-1.3378 1.3795-2.1284.2957-.7632.4966-1.636.552-2.9124.056-1.2809.0692-1.6898.063-4.948-.0063-3.2583-.021-3.6668-.0817-4.9465-.0607-1.2797-.264-2.1487-.5633-2.9117-.3084-.7889-.72-1.4568-1.",
+        "img": null,
+        "rect": {
+          "x": 80,
+          "y": 197,
+          "w": 32,
+          "h": 32
+        }
+      },
+      {
+        "href": "https://www.behance.net/firstazeem",
+        "label": "",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\" style=\"fill: var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102));\"><title>Behance</title><path d=\"M16.969 16.927a2.561 2.561 0 0 0 1.901.677 2.501 2.501 0 0 0 1.531-.475c.362-.235.636-.584.779-.99h2.585a5.091 5.091 0 0 1-1.9 2.896 5.292 5.292 0 0 1-3.091.88 5.839 5.839 0 0 1-2.284-.433 4.871 4.871 0 0 1-1.723-1.211 5.657 5.657 0 0 1-1.08-1.874 7.057 7.057 0 0 1-.383-2.393c-.005-.8.129-1.595.396-2.349a5.313 5.313 0 0 1 5.088-3.604 4.87 4.87 0 0 1 2.376.563c.661.362 1.231.87 1.668 1.485a6.2 6.2 0 0 1 .943 2.133c.194.821.263 1.666.205 2.508h-7.699c-.063.79.184 1.574.688 2.187ZM6.947 4.084a8.065 8.065 0 0 1 1.928.198 4.29 4.29 0 0 1 1.49.638c.418.303.748.711.958 1.182.241.579.357 1.203.341 1.83a3.506 3.506 0 0 1-.506 1.961 3.726 3.726 0 0 1-1.503 1.287 3.588 3.588 0 0 1 2.027 1.437c.464.747.697 1.615.67 ",
+        "img": null,
+        "rect": {
+          "x": 124,
+          "y": 197,
+          "w": 32,
+          "h": 32
+        }
+      },
+      {
+        "href": "https://www.linkedin.com/in/firstazeem/",
+        "label": "",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\" style=\"fill: var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102));\"><title>LinkedIn</title><path d=\"M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z\"></path></svg>",
+        "img": null,
+        "rect": {
+          "x": 168,
+          "y": 197,
+          "w": 32,
+          "h": 32
+        }
+      },
+      {
+        "href": "../",
+        "label": "Home",
+        "svg": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102)) /* {&quot;name&quot;:&quot;Tertiary&quot;} */\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M9.5742 1.13259C9.83054 0.955803 10.1695 0.955803 10.4258 1.13259L16.8113 5.53636C17.5556 6.04967 18 6.89605 18 7.8002V16.25C18 17.7688 16.7688 19 15.25 19H4.75C3.23122 19 2 17.7688 2 16.25V7.8002C2 6.89605 2.44443 6.04967 3.18873 5.53636L9.5742 1.13259ZM8.5 17.5H11.5V12.75C11.5 12.6119 11.3881 12.5 11.25 12.5H8.75C8.61193 12.5 8.5 12.6119 8.5 12.75V17.5ZM13 17.5V12.75C13 11.7835 12.2165 11 11.25 11H8.75C7.7835 11 7 11.7835 7 12.75V17.5H4.75C4.05964 17.5 3.5 16.9404 3.5 16.25V7.8002C3.5 7.38922 3.70201 7.0045 4.04033 6.77118L10 2.66106L15.9597 6.77118C16.298 7.0045 16.5 7.38922 16.5 7.8002V16.25C16.5 16.9404 15.9404 17.5 15.25 17.5H13Z\">",
+        "img": null,
+        "rect": {
+          "x": 24,
+          "y": 261,
+          "w": 232,
+          "h": 40
+        }
+      },
+      {
+        "href": "../User-Experience-Interaction-Design",
+        "label": "Products",
+        "svg": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-849e5971-4e20-414b-85bc-9934f715adf8, rgb(17, 17, 17)) /* {&quot;name&quot;:&quot;Primary&quot;} */\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8.32378 2H11.6762C11.9337 1.99998 12.1702 1.99997 12.3679 2.01612C12.581 2.03353 12.8142 2.07339 13.0445 2.19074C13.3738 2.35852 13.6415 2.62624 13.8093 2.95552C13.9266 3.18583 13.9665 3.419 13.9839 3.63213C14 3.82981 14 4.06629 14 4.32377L14 5L16.6762 5C16.9337 4.99998 17.1702 4.99997 17.3679 5.01612C17.581 5.03353 17.8142 5.07339 18.0445 5.19074C18.3738 5.35852 18.6415 5.62624 18.8093 5.95552C18.9266 6.18583 18.9665 6.419 18.9839 6.63213C19 6.82981 19 7.06629 19 7.32377V11.6762C19 11.9337 19 12.1702 18.9839 12.3679C18.9665 12.581 18.9266 12.8142 18.8093 13.0445C18.6415 13.3738 18.3738 13.6415 18.0445 13.8093C18.0297 13.8168 18.0148 13.824",
+        "img": null,
+        "rect": {
+          "x": 24,
+          "y": 305,
+          "w": 232,
+          "h": 40
+        }
+      },
+      {
+        "href": "../visual-playground",
+        "label": "Playground",
+        "svg": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102)) /* {&quot;name&quot;:&quot;Tertiary&quot;} */\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M1 3.25C1 2.83579 1.33579 2.5 1.75 2.5H18.25C18.6642 2.5 19 2.83579 19 3.25C19 3.66421 18.6642 4 18.25 4H1.75C1.33579 4 1 3.66421 1 3.25ZM1 7.75C1 7.33579 1.33579 7 1.75 7H18.25C18.6642 7 19 7.33579 19 7.75C19 8.16421 18.6642 8.5 18.25 8.5H1.75C1.33579 8.5 1 8.16421 1 7.75ZM1 12.25C1 11.8358 1.33579 11.5 1.75 11.5H18.25C18.6642 11.5 19 11.8358 19 12.25C19 12.6642 18.6642 13 18.25 13H1.75C1.33579 13 1 12.6642 1 12.25ZM1 16.75C1 16.3358 1.33579 16 1.75 16H18.25C18.6642 16 19 16.3358 19 16.75C19 17.1642 18.6642 17.5 18.25 17.5H1.75C1.33579 17.5 1 17.1642 1 16.75Z\"></path></svg>",
+        "img": null,
+        "rect": {
+          "x": 24,
+          "y": 349,
+          "w": 232,
+          "h": 40
+        }
+      },
+      {
+        "href": "../about",
+        "label": "About",
+        "svg": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102)) /* {&quot;name&quot;:&quot;Tertiary&quot;} */\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10 2.5C8.61929 2.5 7.5 3.61929 7.5 5C7.5 6.38071 8.61929 7.5 10 7.5C11.3807 7.5 12.5 6.38071 12.5 5C12.5 3.61929 11.3807 2.5 10 2.5ZM6 5C6 2.79086 7.79086 1 10 1C12.2091 1 14 2.79086 14 5C14 7.20914 12.2091 9 10 9C7.79086 9 6 7.20914 6 5ZM3 16.625C3 13.5184 5.5184 11 8.625 11H11.375C14.4816 11 17 13.5184 17 16.625C17 17.9367 15.9367 19 14.625 19H5.375C4.06332 19 3 17.9367 3 16.625ZM8.625 12.5C6.34683 12.5 4.5 14.3468 4.5 16.625C4.5 17.1082 4.89175 17.5 5.375 17.5H14.625C15.1082 17.5 15.5 17.1082 15.5 16.625C15.5 14.3468 13.6532 12.5 11.375 12.5H8.625Z\"></path></svg>",
+        "img": null,
+        "rect": {
+          "x": 24,
+          "y": 393,
+          "w": 232,
+          "h": 40
+        }
+      },
+      {
+        "href": "../blog",
+        "label": "Blog",
+        "svg": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102)) /* {&quot;name&quot;:&quot;Tertiary&quot;} */\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12.8912 2.0481C13.5623 1.37701 14.4725 1 15.4216 1C17.3979 1 19 2.60212 19 4.57843C19 5.52748 18.623 6.43767 17.9519 7.10876L6.28033 18.7803C6.13968 18.921 5.94891 19 5.75 19H1.75C1.33579 19 1 18.6642 1 18.25V14.25C1 14.0511 1.07902 13.8603 1.21967 13.7197L12.8912 2.0481ZM15.4216 2.5C14.8703 2.5 14.3417 2.71898 13.9519 3.10876L13.5607 3.5L16.5 6.43934L16.8912 6.0481C17.281 5.65832 17.5 5.12966 17.5 4.57843C17.5 3.43054 16.5695 2.5 15.4216 2.5ZM15.4393 7.5L12.5 4.56066L2.5 14.5607V17.5H5.43934L15.4393 7.5Z\"></path></svg>",
+        "img": null,
+        "rect": {
+          "x": 24,
+          "y": 437,
+          "w": 232,
+          "h": 40
+        }
+      },
+      {
+        "href": "../contact",
+        "label": "Contact",
+        "svg": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"var(--token-92ca0ef4-2cbc-4669-ae36-2b4079212874, rgb(102, 102, 102)) /* {&quot;name&quot;:&quot;Tertiary&quot;} */\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.56424 5.35337L10 9.63457L17.4358 5.35337C17.27 4.85744 16.8017 4.5 16.25 4.5H3.75C3.19828 4.5 2.73005 4.85744 2.56424 5.35337ZM17.5 7.04725L10.3742 11.15C10.1426 11.2833 9.85743 11.2833 9.62578 11.15L2.5 7.04725V14.25C2.5 14.9404 3.05964 15.5 3.75 15.5H16.25C16.9404 15.5 17.5 14.9404 17.5 14.25V7.04725ZM1 5.75C1 4.23122 2.23122 3 3.75 3H16.25C17.7688 3 19 4.23122 19 5.75V14.25C19 15.7688 17.7688 17 16.25 17H3.75C2.23122 17 1 15.7688 1 14.25V5.75Z\"></path></svg>",
+        "img": null,
+        "rect": {
+          "x": 24,
+          "y": 481,
+          "w": 232,
+          "h": 40
+        }
+      }
+    ],
+    "bodyBg": "rgb(244, 245, 245)",
+    "fonts": [
+      "Inter",
+      "Space Grotesk"
+    ]
+  },
+  "route": "/visual-playground/AI-Saturdays"
+}

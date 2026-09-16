@@ -1,0 +1,653 @@
+{
+  "name": "cs-anywork",
+  "route": "/User-Experience-Interaction-Design/anywork-verification",
+  "title": "Azeem Gbadamosi",
+  "header": {
+    "back": {
+      "text": "Back to list",
+      "href": "../User-Experience-Interaction-Design"
+    },
+    "h1": "Increasing Vendor KYC Completion from 35% to 71% on AnyWorkX",
+    "blocks": [
+      {
+        "t": "tag",
+        "html": "Verification",
+        "text": "Verification",
+        "indent": 0,
+        "x": 420,
+        "w": 74,
+        "size": 14
+      },
+      {
+        "t": "tag",
+        "html": "UX Evaluation",
+        "text": "UX Evaluation",
+        "indent": 0,
+        "x": 530,
+        "w": 91,
+        "size": 14
+      },
+      {
+        "t": "h1",
+        "html": "Increasing Vendor KYC Completion from 35% to 71% on AnyWorkX",
+        "text": "Increasing Vendor KYC Completion from 35% to 71% on AnyWorkX",
+        "indent": 0,
+        "x": 408,
+        "w": 904,
+        "size": 40
+      },
+      {
+        "t": "metaValue",
+        "html": "AnyWorkX is an on-demand service marketplace - think Bolt, but for skilled professionals. Need a plumber at 8pm or a mechanic for your broken down vehicle on the highway to another city? You open AnyWorkX, find a verified vendor nearby, and request their service. The platform's value to customers depends entirely on one thing: having a healthy pool of verified, bookable service providers. That's where the problem began.",
+        "text": "AnyWorkX is an on-demand service marketplace - think Bolt, but for skilled professionals. Need a plumber at 8pm or a mechanic for your broken down vehicle on the highway to another city? You open AnyWorkX, find a verified vendor nearby, and request their service. The platform's value to customers depends entirely on one thing: having a healthy pool of verified, bookable service providers. That's where the problem began.",
+        "indent": 0,
+        "x": 408,
+        "w": 904,
+        "size": 18,
+        "muted": true
+      },
+      {
+        "t": "image",
+        "src": "/media/6k5IgwdIZ4tmoFRigBIfa5DXpIA.png",
+        "w": 1356,
+        "h": 1163,
+        "indent": 0,
+        "x": 408,
+        "dw": 904,
+        "alt": ""
+      },
+      {
+        "t": "image",
+        "src": "/media/9VyXqe7BcuaAI8WnKoXz0wunNjs.png",
+        "w": 1356,
+        "h": 1017,
+        "indent": 0,
+        "x": 408,
+        "dw": 904,
+        "alt": ""
+      },
+      {
+        "t": "metaValue",
+        "html": "3 weeks",
+        "text": "3 weeks",
+        "indent": 0,
+        "x": 598,
+        "w": 69,
+        "size": 18,
+        "svg": "<svg fill=\"currentColor\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6.75 1C7.16421 1 7.5 1.33579 7.5 1.75V3H12.5V1.75C12.5 1.33579 12.8358 1 13.25 1C13.6642 1 14 1.33579 14 1.75V3H16.25C17.7688 3 19 4.23122 19 5.75V16.25C19 17.7688 17.7688 19 16.25 19H3.75C2.23122 19 1 17.7688 1 16.25V5.75C1 4.23122 2.23122 3 3.75 3H6V1.75C6 1.33579 6.33579 1 6.75 1ZM6 4.5H3.75C3.05964 4.5 2.5 5.05964 2.5 5.75V8H17.5V5.75C17.5 5.05964 16.9404 4.5 16.25 4.5H14V5.25C14 5.66421 13.6642 6 13.25 6C12.8358 6 12.5 5.66421 12.5 5.25V4.5H7.5V5.25C7.5 5.66421 7.16421 6 6.75 6C6.33579 6 6 5.66421 6 5.25V4.5ZM17.5 9.5H2.5V16.25C2.5 16.9404 3.05964 17.5 3.75 17.5H16.25C16.9404 17.5 17.5 16.9404 17.5 16.25V9.5Z\"></path></svg>"
+      },
+      {
+        "t": "metaLabel",
+        "html": "Duration",
+        "text": "Duration",
+        "indent": 0,
+        "x": 605,
+        "w": 56,
+        "size": 14,
+        "muted": true
+      },
+      {
+        "t": "metaValue",
+        "html": "UX Researching",
+        "text": "UX Researching",
+        "indent": 332,
+        "x": 1021,
+        "w": 133,
+        "size": 18
+      },
+      {
+        "t": "metaLabel",
+        "html": "Role",
+        "text": "Role",
+        "indent": 384,
+        "x": 1073,
+        "w": 29,
+        "size": 14,
+        "muted": true
+      }
+    ]
+  },
+  "footer": "",
+  "sections": [
+    {
+      "heading": "The Problem",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "To be listed and bookable on the platform, vendors must complete Tier 1 KYC (Know Your Customer) verification after registration. Following the first wave of a marketing campaign, admins observed a significant drop-off: a large number of vendors were signing up but not completing KYC, leaving them in a \"no-kyc\" status and invisible to customers. An initial analytics pull confirmed the scale. Out of 1,286 sign-ups, only 452 had completed Tier 1 KYC, a completion rate of 35%. A week later, with sign-ups reaching 1,560, the rate had only edged up to 39%. The problem was clear and measurable.",
+          "text": "To be listed and bookable on the platform, vendors must complete Tier 1 KYC (Know Your Customer) verification after registration. Following the first wave of a marketing campaign, admins observed a significant drop-off: a large number of vendors were signing up but not completing KYC, leaving them in a \"no-kyc\" status and invisible to customers. An initial analytics pull confirmed the scale. Out of 1,286 sign-ups, only 452 had completed Tier 1 KYC, a completion rate of 35%. A week later, with sign-ups reaching 1,560, the rate had only edged up to 39%. The problem was clear and measurable.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "My Role",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "This was more of a probem solving role than a design exercise. I led the UX research and recommendations on this project, directly collaborating with the Product Manager and indirectly, the Customer-facing team. I designed the research plan, ran the user interviews personally, and drove the synthesis and design recommendations through to implementation alongside the development team.",
+          "text": "This was more of a probem solving role than a design exercise. I led the UX research and recommendations on this project, directly collaborating with the Product Manager and indirectly, the Customer-facing team. I designed the research plan, ran the user interviews personally, and drove the synthesis and design recommendations through to implementation alongside the development team.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "Research Goals",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We set out to understand three things: what was motivating (or discouraging) vendors from completing KYC, where specifically in the flow they were dropping off, and what design interventions could meaningfully move the completion rate. Below are the KPIs.",
+          "text": "We set out to understand three things: what was motivating (or discouraging) vendors from completing KYC, where specifically in the flow they were dropping off, and what design interventions could meaningfully move the completion rate. Below are the KPIs.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "badge",
+          "html": "1",
+          "text": "1",
+          "indent": 0,
+          "x": 688,
+          "w": 40,
+          "size": 16
+        },
+        {
+          "t": "h3",
+          "html": "Primary: KYC Completion Rates",
+          "text": "Primary: KYC Completion Rates",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 18
+        },
+        {
+          "t": "p",
+          "html": "Vendor completion rate of Tier 1 KYC after registration",
+          "text": "Vendor completion rate of Tier 1 KYC after registration",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "badge",
+          "html": "2",
+          "text": "2",
+          "indent": 0,
+          "x": 688,
+          "w": 40,
+          "size": 16
+        },
+        {
+          "t": "h3",
+          "html": "Secondary: Time and User Reported Satisfaction",
+          "text": "Secondary: Time and User Reported Satisfaction",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 18
+        },
+        {
+          "t": "p",
+          "html": "Time taken to complete KYC and user-reported satisfaction with the experience",
+          "text": "Time taken to complete KYC and user-reported satisfaction with the experience",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "Research Approach",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "I designed a multi-method research plan that moved from quantitative signal to qualitative depth.",
+          "text": "I designed a multi-method research plan that moved from quantitative signal to qualitative depth.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "image",
+          "src": "/media/z37vrT6GTEhMiYZ5sk1eeYIKiVM.png",
+          "w": 624,
+          "h": 442,
+          "indent": 0,
+          "x": 688,
+          "dw": 624,
+          "alt": ""
+        },
+        {
+          "t": "p",
+          "html": "We reached out to new onboards via in-app modals, emails and mostly phone calls since we were dealing with a mix of user segments (some tech savvy, some not). This part was handled by the customer team. The goal was to recruit two distinct groups and gather restrospective feedback about the signup process:",
+          "text": "We reached out to new onboards via in-app modals, emails and mostly phone calls since we were dealing with a mix of user segments (some tech savvy, some not). This part was handled by the customer team. The goal was to recruit two distinct groups and gather restrospective feedback about the signup process:",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "p",
+          "html": "Vendors who successfully completed KYC verification <em>(Completers)</em>",
+          "text": "Vendors who successfully completed KYC verification (Completers)",
+          "indent": 20,
+          "x": 708,
+          "w": 604,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "p",
+          "html": "Vendors who abandoned the KYC process <em>(Drop-offs)</em>",
+          "text": "Vendors who abandoned the KYC process (Drop-offs)",
+          "indent": 20,
+          "x": 708,
+          "w": 604,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "p",
+          "html": "I recommended tagetting those who were most recently registered for the sake of memory. To recruit them, we offered incentives of Airtime vouchers. Although there was little visibility on in-app behaviour data to map exactly where vendors were abandoning the registration/KYC flow, the development team gave data on this from pulling events from Segment.",
+          "text": "I recommended tagetting those who were most recently registered for the sake of memory. To recruit them, we offered incentives of Airtime vouchers. Although there was little visibility on in-app behaviour data to map exactly where vendors were abandoning the registration/KYC flow, the development team gave data on this from pulling events from Segment.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "p",
+          "html": "For qualitative depth, I conducted call sessions with the recruits. I asked completers about how long the onboarding took, how difficult they found it, and how clear the instructions were. I asked drop-offs where they stopped, why, and what could have been done differently.",
+          "text": "For qualitative depth, I conducted call sessions with the recruits. I asked completers about how long the onboarding took, how difficult they found it, and how clear the instructions were. I asked drop-offs where they stopped, why, and what could have been done differently.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "p",
+          "html": "While conducting these sessions, I discovered that many participants struggled to reconstruct why they had dropped off, so I adapted on the fly by resorting to a <em>stimulated recall technique</em> where I walked vendors through the registration and KYC flow live via <em>Whatsapp video-sharing</em>, prompting them to narrate their experience in retrospect. This revealed friction that surveys alone wouldn't have caught.",
+          "text": "While conducting these sessions, I discovered that many participants struggled to reconstruct why they had dropped off, so I adapted on the fly by resorting to a stimulated recall technique where I walked vendors through the registration and KYC flow live via Whatsapp video-sharing, prompting them to narrate their experience in retrospect. This revealed friction that surveys alone wouldn't have caught.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "image",
+          "src": "/media/ei03qD3SxfeyGVxbWRUvdttRQU.png",
+          "w": 624,
+          "h": 461,
+          "indent": 0,
+          "x": 688,
+          "dw": 624,
+          "alt": ""
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "What We Found",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Using thematic analysis to analyse transcritpts and recordings from the sessions, I came up with themes that gave insights into what the issues were. Two root causes emerged consistently across both quantitative and qualitative data:",
+          "text": "Using thematic analysis to analyse transcritpts and recordings from the sessions, I came up with themes that gave insights into what the issues were. Two root causes emerged consistently across both quantitative and qualitative data:",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "badge",
+          "html": "1",
+          "text": "1",
+          "indent": 0,
+          "x": 688,
+          "w": 40,
+          "size": 16
+        },
+        {
+          "t": "h3",
+          "html": "Redundant data entry",
+          "text": "Redundant data entry",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 18
+        },
+        {
+          "t": "p",
+          "html": "Vendors were being asked to re-enter personal information during KYC that they had already submitted at registration i.e. name, phone number, location details. This created a perception that the process was unnecessarily long and poorly designed, which eroded trust and motivation to continue.",
+          "text": "Vendors were being asked to re-enter personal information during KYC that they had already submitted at registration i.e. name, phone number, location details. This created a perception that the process was unnecessarily long and poorly designed, which eroded trust and motivation to continue.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "badge",
+          "html": "2",
+          "text": "2",
+          "indent": 0,
+          "x": 688,
+          "w": 40,
+          "size": 16
+        },
+        {
+          "t": "h3",
+          "html": "Lack of continuity prompts",
+          "text": "Lack of continuity prompts",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 18
+        },
+        {
+          "t": "p",
+          "html": "There were no push notifications or in-app reminders nudging vendors back to complete KYC if they skipped or exited the process. Once they left, there was no recovery mechanism.",
+          "text": "There were no push notifications or in-app reminders nudging vendors back to complete KYC if they skipped or exited the process. Once they left, there was no recovery mechanism.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "h3",
+          "html": "One interesting insight!",
+          "text": "One interesting insight!",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 18
+        },
+        {
+          "t": "p",
+          "html": "A secondary insight from the survey data: vendors who did complete KYC tended to be in digital-native roles, designers, developers, virtual assistants etc. suggesting familiarity with KYC processes played a role. The flow wasn't meeting vendors where they were.",
+          "text": "A secondary insight from the survey data: vendors who did complete KYC tended to be in digital-native roles, designers, developers, virtual assistants etc. suggesting familiarity with KYC processes played a role. The flow wasn't meeting vendors where they were.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "Design Decisions",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Three interventions came out of my synthesis:",
+          "text": "Three interventions came out of my synthesis:",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "badge",
+          "html": "1",
+          "text": "1",
+          "indent": 0,
+          "x": 688,
+          "w": 40,
+          "size": 16
+        },
+        {
+          "t": "h3",
+          "html": "Introduce KYC within Onboarding",
+          "text": "Introduce KYC within Onboarding",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 18
+        },
+        {
+          "t": "p",
+          "html": "The onboarding flow was refactored to surface Tier 1 and Tier 2 KYC immediately after email verification, with a visible but non-blocking option to skip. My goal was to remove the need for vendors to hunt for where to complete their verification later, and to frame KYC as a natural continuation of signup rather than a separate task.",
+          "text": "The onboarding flow was refactored to surface Tier 1 and Tier 2 KYC immediately after email verification, with a visible but non-blocking option to skip. My goal was to remove the need for vendors to hunt for where to complete their verification later, and to frame KYC as a natural continuation of signup rather than a separate task.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "image",
+          "src": "/media/a8QMPQsZH0wBOXo8Gr0hEYAy500.png",
+          "w": 560,
+          "h": 462,
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "alt": ""
+        },
+        {
+          "t": "p",
+          "html": "In the previous flow, identity verification sat entirely outside the onboarding sequence. After completing Personal Information, vendors landed on the Home screen and were presented with a standalone \"Verify Your Identity\" prompt alongside Requests and Messages. It was easy to dismiss and easy to forget.",
+          "text": "In the previous flow, identity verification sat entirely outside the onboarding sequence. After completing Personal Information, vendors landed on the Home screen and were presented with a standalone \"Verify Your Identity\" prompt alongside Requests and Messages. It was easy to dismiss and easy to forget.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "p",
+          "html": "In the my corrected flow, Identity Verification was embedded directly into the Personal Information step. From there, the path splits based on whether the vendor completes it or skips. <em>Vendors who fill it in proceed to the Home screen with full access, where they can also upgrade to higher verification tiers.</em> <em>Vendors who skip still reach the Home screen, but with a persistent Identity Verification prompt surfaced within it, </em>keeping the task visible without blocking access to the platform entirely.",
+          "text": "In the my corrected flow, Identity Verification was embedded directly into the Personal Information step. From there, the path splits based on whether the vendor completes it or skips. Vendors who fill it in proceed to the Home screen with full access, where they can also upgrade to higher verification tiers. Vendors who skip still reach the Home screen, but with a persistent Identity Verification prompt surfaced within it, keeping the task visible without blocking access to the platform entirely.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "badge",
+          "html": "2",
+          "text": "2",
+          "indent": 0,
+          "x": 688,
+          "w": 40,
+          "size": 16
+        },
+        {
+          "t": "h3",
+          "html": "Pre-populate Previous Data",
+          "text": "Pre-populate Previous Data",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 18
+        },
+        {
+          "t": "p",
+          "html": "KYC forms were updated to pre-populate with data already collected at registration, with fields editable if needed. Vendors no longer had to re-enter information they'd already provided.",
+          "text": "KYC forms were updated to pre-populate with data already collected at registration, with fields editable if needed. Vendors no longer had to re-enter information they'd already provided.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "badge",
+          "html": "3",
+          "text": "3",
+          "indent": 0,
+          "x": 688,
+          "w": 40,
+          "size": 16
+        },
+        {
+          "t": "h3",
+          "html": "If skipped, intrude later.",
+          "text": "If skipped, intrude later.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 18
+        },
+        {
+          "t": "p",
+          "html": "Targeted push notifications were introduced to re-engage vendors who had registered but not completed KYC after a defined period of inactivity.",
+          "text": "Targeted push notifications were introduced to re-engage vendors who had registered but not completed KYC after a defined period of inactivity.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "p",
+          "html": "Implementation was done in close collaboration with the design and development teams. Given that AnyWorkX was still in its early growth phase, speed mattered - so the refactored flow had to ship on time.",
+          "text": "Implementation was done in close collaboration with the design and development teams. Given that AnyWorkX was still in its early growth phase, speed mattered - so the refactored flow had to ship on time.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "Testing",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Post-implementation, I ran a task-driven usability test with 10 participants (5 from previous survey, 5 others within AnyWorkX team and my immediate network) using a think-aloud protocol. I asked users to navigate the redesigned KYC flow while vocalising their experience in real time. For the full flow, I set a time-on-task range of 90 secs to 120 secs. 8 of the 10 testers completed the task within the window. The 2 who didn't were both affected by network issues on their end - no usability failures were identified in the redesigned flow.",
+          "text": "Post-implementation, I ran a task-driven usability test with 10 participants (5 from previous survey, 5 others within AnyWorkX team and my immediate network) using a think-aloud protocol. I asked users to navigate the redesigned KYC flow while vocalising their experience in real time. For the full flow, I set a time-on-task range of 90 secs to 120 secs. 8 of the 10 testers completed the task within the window. The 2 who didn't were both affected by network issues on their end - no usability failures were identified in the redesigned flow.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "Results",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Three months after my implementation went live, the picture had shifted substantially. Of approximately 9,400 cumulative sign-ups, 6,674 had completed and passed Tier 1 KYC, bringing the completion rate to 71%. The verified vendor pool had more than tripled, giving customers a meaningfully larger selection of bookable service providers, AnyWorkX's main goal.",
+          "text": "Three months after my implementation went live, the picture had shifted substantially. Of approximately 9,400 cumulative sign-ups, 6,674 had completed and passed Tier 1 KYC, bringing the completion rate to 71%. The verified vendor pool had more than tripled, giving customers a meaningfully larger selection of bookable service providers, AnyWorkX's main goal.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "p",
+          "html": "This project reinforced something I find consistently true in research: the surface complaint (the KYC is hard) rarely tells the full story. The real friction was simpler and more fixable. Vendors were being asked to do work they'd already done, and then left with no path back when they paused. A mixed-methods approach let us pinpoint both issues with enough confidence to move fast in the right direction.",
+          "text": "This project reinforced something I find consistently true in research: the surface complaint (the KYC is hard) rarely tells the full story. The real friction was simpler and more fixable. Vendors were being asked to do work they'd already done, and then left with no path back when they paused. A mixed-methods approach let us pinpoint both issues with enough confidence to move fast in the right direction.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "Tools",
+      "layout": "split",
+      "blocks": [],
+      "kind": "chips",
+      "items": [
+        {
+          "text": "Figma",
+          "w": 46,
+          "svg": "<svg fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\"><title>Figma</title><path d=\"M15.852 8.981h-4.588V0h4.588c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.491-4.49 4.491zM12.735 7.51h3.117c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-3.117V7.51zm0 1.471H8.148c-2.476 0-4.49-2.014-4.49-4.49S5.672 0 8.148 0h4.588v8.981zm-4.587-7.51c-1.665 0-3.019 1.355-3.019 3.019s1.354 3.02 3.019 3.02h3.117V1.471H8.148zm4.587 15.019H8.148c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h4.588v8.98zM8.148 8.981c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h3.117V8.981H8.148zM8.172 24c-2.489 0-4.515-2.014-4.515-4.49s2.014-4.49 4.49-4.49h4.588v4.441c0 2.503-2.047 4.539-4.563 4.539zm-.024-7.51a3.023 3.023 0 0 0-3.019 3.019c0 1.665 1.365 3.019 3.044 3.019 1.705 0 3.093-1.376 3.093-3.068v-2.97H8.148zm7.704 0h-.098c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h.098c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.49-4.49 4.49zm-.097-7.509c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h.098c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-.098z\"></path></svg>"
+        },
+        {
+          "text": "Research",
+          "w": 70,
+          "svg": "<svg fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\"><title>Files</title><path d=\"M12.367 2.453a.822.822 0 0 0-.576.238L.241 14.213a.822.822 0 0 0-.241.584v.066c0-.323.209-.608.516-.709l7.275-2.318a2.437 2.437 0 0 0 1.584-1.592l2.318-7.267a.757.757 0 0 1 .719-.524zM0 14.863v5.047c0 .904.733 1.637 1.637 1.637h20.726c.904 0 1.637-.733 1.637-1.637V4.09c0-.904-.733-1.637-1.637-1.637h-9.951v.5l.088 9.861c.01 1.175-.962 2.14-2.137 2.14L0 14.862zM12 3.66l-2.148 6.735v.001a2.94 2.94 0 0 1-1.909 1.916l-6.716 2.141h9.136c.905 0 1.638-.734 1.637-1.639zm-10.363.975c-.905 0-1.638.734-1.637 1.638v7.473l9.135-9.111Z\"></path></svg>"
+        },
+        {
+          "text": "Figjam",
+          "w": 50,
+          "svg": "<svg fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\"><title>Figma</title><path d=\"M15.852 8.981h-4.588V0h4.588c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.491-4.49 4.491zM12.735 7.51h3.117c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-3.117V7.51zm0 1.471H8.148c-2.476 0-4.49-2.014-4.49-4.49S5.672 0 8.148 0h4.588v8.981zm-4.587-7.51c-1.665 0-3.019 1.355-3.019 3.019s1.354 3.02 3.019 3.02h3.117V1.471H8.148zm4.587 15.019H8.148c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h4.588v8.98zM8.148 8.981c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h3.117V8.981H8.148zM8.172 24c-2.489 0-4.515-2.014-4.515-4.49s2.014-4.49 4.49-4.49h4.588v4.441c0 2.503-2.047 4.539-4.563 4.539zm-.024-7.51a3.023 3.023 0 0 0-3.019 3.019c0 1.665 1.365 3.019 3.044 3.019 1.705 0 3.093-1.376 3.093-3.068v-2.97H8.148zm7.704 0h-.098c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h.098c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.49-4.49 4.49zm-.097-7.509c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h.098c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-.098z\"></path></svg>"
+        },
+        {
+          "text": "Interviews",
+          "w": 78,
+          "svg": "<svg fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\"><title>MAAS</title><path d=\"M4.426 0v24h15.148V0Zm3.357 10.385c.474 0 .858.381.858.852 0 .47-.384.852-.858.852a.855.855 0 0 1-.858-.852c0-.47.384-.852.858-.852m1.044.212h7.928c.218 0 .39.173.397.384v.512a.395.395 0 0 1-.391.384H8.827c.006-.013.012-.02.019-.032a1.22 1.22 0 0 0-.02-1.248m-1.121 2.83c.474 0 .858.381.858.852 0 .47-.384.852-.858.852a.855.855 0 0 1-.858-.852c0-.47.384-.852.858-.852m1.037.198h8.012c.218 0 .39.173.39.378v.513a.395.395 0 0 1-.39.384h-8q.012-.001.013-.013c.16-.275.206-.608.122-.922a1.1 1.1 0 0 0-.147-.34M7.706 16.47c.474 0 .858.382.858.852s-.384.852-.858.852a.855.855 0 0 1-.858-.852c0-.47.384-.852.858-.852m1.037.212h8.012c.218 0 .39.172.39.384v.512a.395.395 0 0 1-.39.384H8.743l.02-.032a1.22 1.22 0 0 0-.02-1.248m-1.037 2.83c.474 0 .858.382.858.852s-.384.852-.858.852a.855.855 0 0 1-.858-.852c0-.47.384-.852.858-.852m1.037.212h8.012a.38.38 0 0 1 .39.384v.513a.395.395 0 0 1-.39.384H8.743l.02-.032a1.22 1.22 0 0 0-.02-1.249\"></path></svg>"
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "Stakeholders' Credits",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Product Manager - Bolaji Abdullahi, PMP, MBA <br>Research &amp; Design - Azeem Gbadamosi<br>AnyWorkX Development Team - Led by Samuel O. O. Ohwesi",
+          "text": "Product Manager - Bolaji Abdullahi, PMP, MBA \nResearch & Design - Azeem Gbadamosi\nAnyWorkX Development Team - Led by Samuel O. O. Ohwesi",
+          "multiline": true,
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        }
+      ],
+      "more": null
+    }
+  ],
+  "related": [
+    {
+      "image": "/media/SxsOGYqgzGoGsJPDT874YcmBFzQ.png",
+      "title": "3D Video Direction for AUMI Cryptocurrency",
+      "client": "AutoMatic Yield Farming"
+    },
+    {
+      "image": "/media/dOyj9FQcxeSHQSVKA7PQoHke6k.jpg",
+      "title": "A UX Audit That Won a Government Contract -eCitiBiz",
+      "client": "Citizenship and Business Department of Nigeria"
+    }
+  ]
+}

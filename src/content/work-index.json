@@ -1,0 +1,79 @@
+{
+  "name": "work-index",
+  "route": "/User-Experience-Interaction-Design",
+  "title": "Azeem Gbadamosi",
+  "header": {
+    "back": null,
+    "h1": "User Experience & Interaction Design Projects",
+    "blocks": [
+      {
+        "t": "h1",
+        "html": "User Experience &amp; Interaction Design Projects",
+        "text": "User Experience & Interaction Design Projects",
+        "indent": 0,
+        "x": 408,
+        "w": 904,
+        "size": 40
+      },
+      {
+        "t": "metaValue",
+        "html": "Case studies of some of my works across Product Design, User Research, Affective Computing &amp; Prototyping.",
+        "text": "Case studies of some of my works across Product Design, User Research, Affective Computing & Prototyping.",
+        "indent": 0,
+        "x": 408,
+        "w": 904,
+        "size": 18,
+        "muted": true
+      }
+    ]
+  },
+  "footer": "© 2026 Azeem",
+  "sections": [
+    {
+      "heading": "",
+      "layout": "stacked",
+      "blocks": [],
+      "kind": "cards",
+      "items": [
+        {
+          "image": "/media/NAHig5m7Pq6K5st4lXXqekHgY.jpg",
+          "title": "Smart Experience for Non-Smart TV Users",
+          "client": "Prixon UAE",
+          "href": "./User-Experience-Interaction-Design/prixon-inteface"
+        },
+        {
+          "image": "/media/pIcapelQfSS5teiijlFLC7PFnCM.jpg",
+          "title": "Field-First: Designing a Tax System for Market Traders and Artisans",
+          "client": "Delta State Internal Revenue Service",
+          "href": "./User-Experience-Interaction-Design/detla-state-igr"
+        },
+        {
+          "image": "/media/dOyj9FQcxeSHQSVKA7PQoHke6k.jpg",
+          "title": "A UX Audit That Won a Government Contract - eCitiBiz",
+          "client": "Citizenship and Business Department of Nigeria",
+          "href": "./User-Experience-Interaction-Design/ecitibiz-case-study"
+        },
+        {
+          "image": "/media/XDTFM9Y9JlG7SKESMM5sXAWVE.jpg",
+          "title": "Increasing Vendor KYC Completion from 35% to 71% on AnyWorkX",
+          "client": "AnyworkX Africa",
+          "href": "./User-Experience-Interaction-Design/anywork-verification"
+        },
+        {
+          "image": "/media/lFIbECpGycvXyWhIytcy3KUY.jpg",
+          "title": "Waqtly Software Suite: Deploying 7000 tablets for EU and UAE Homes",
+          "client": "Waqtly",
+          "href": "./User-Experience-Interaction-Design/waqtly-product-suite"
+        },
+        {
+          "image": "/media/mVX6j90gWujWhJ1guH3RTrBZDek.png",
+          "title": "Tallinn City Digital Twin",
+          "client": "Tallinn Strategic Management Office",
+          "href": "./User-Experience-Interaction-Design/tlldt"
+        }
+      ],
+      "more": null
+    }
+  ],
+  "related": []
+}

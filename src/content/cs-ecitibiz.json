@@ -1,0 +1,881 @@
+{
+  "name": "cs-ecitibiz",
+  "route": "/User-Experience-Interaction-Design/ecitibiz-case-study",
+  "title": "Azeem Gbadamosi",
+  "header": {
+    "back": {
+      "text": "Back to list",
+      "href": "../User-Experience-Interaction-Design"
+    },
+    "h1": "A UX Audit That Won a Government Contract -eCitiBiz",
+    "blocks": [
+      {
+        "t": "tag",
+        "html": "National Identification Number",
+        "text": "National Identification Number",
+        "indent": 0,
+        "x": 420,
+        "w": 202,
+        "size": 14
+      },
+      {
+        "t": "tag",
+        "html": "Verification",
+        "text": "Verification",
+        "indent": 0,
+        "x": 658,
+        "w": 74,
+        "size": 14
+      },
+      {
+        "t": "tag",
+        "html": "Contextual Inquiry",
+        "text": "Contextual Inquiry",
+        "indent": 80,
+        "x": 768,
+        "w": 121,
+        "size": 14
+      },
+      {
+        "t": "tag",
+        "html": "e-Governance",
+        "text": "e-Governance",
+        "indent": 236,
+        "x": 925,
+        "w": 94,
+        "size": 14
+      },
+      {
+        "t": "h1",
+        "html": "A UX Audit That Won a Government Contract -eCitiBiz",
+        "text": "A UX Audit That Won a Government Contract -eCitiBiz",
+        "indent": 0,
+        "x": 408,
+        "w": 904,
+        "size": 40
+      },
+      {
+        "t": "p",
+        "html": "eCitiBiz (now <a href=\"https://candb.interior.gov.ng\">candb.interior.gov.ng</a>) is the official web portal of the Citizenship &amp; Business Department under Nigeria's Ministry of Interior. It handles an unusually broad scope of government services: citizenship applications, expatriate quota management, business permit processing, marriage certification, and more, serving Nigerian citizens, corporate entities, and expatriates alike. The system behind it is a heavily customised ERP, built to automate end-to-end workflows across multiple account types and user categories.",
+        "text": "eCitiBiz (now candb.interior.gov.ng) is the official web portal of the Citizenship & Business Department under Nigeria's Ministry of Interior. It handles an unusually broad scope of government services: citizenship applications, expatriate quota management, business permit processing, marriage certification, and more, serving Nigerian citizens, corporate entities, and expatriates alike. The system behind it is a heavily customised ERP, built to automate end-to-end workflows across multiple account types and user categories.",
+        "indent": 0,
+        "x": 408,
+        "w": 904,
+        "size": 16,
+        "muted": true
+      },
+      {
+        "t": "p",
+        "html": "I led a UX audit of the platform alongside a product manager, Bolaji Abdullahi. I presented the audit to the platform's stakeholders (Anchor Dataware, Nigeria) and secured us the contract to execute a full redesign, which I then led in Figma.",
+        "text": "I led a UX audit of the platform alongside a product manager, Bolaji Abdullahi. I presented the audit to the platform's stakeholders (Anchor Dataware, Nigeria) and secured us the contract to execute a full redesign, which I then led in Figma.",
+        "indent": 0,
+        "x": 408,
+        "w": 904,
+        "size": 16,
+        "muted": true
+      },
+      {
+        "t": "action",
+        "html": "View Copy of UX Audit and Proposal",
+        "text": "View Copy of UX Audit and Proposal",
+        "href": "https://drive.google.com/file/d/1Z8N4bTduXMubZAUlMXz4xyIGISE2tQmu/view?usp=drive_link",
+        "indent": 0,
+        "x": 508,
+        "w": 244,
+        "size": 14
+      },
+      {
+        "t": "image",
+        "src": "/media/dOyj9FQcxeSHQSVKA7PQoHke6k.jpg",
+        "w": 904,
+        "h": 688,
+        "indent": 0,
+        "x": 408,
+        "dw": 904,
+        "alt": ""
+      },
+      {
+        "t": "metaValue",
+        "html": "2 months",
+        "text": "2 months",
+        "indent": 0,
+        "x": 594,
+        "w": 77,
+        "size": 18,
+        "svg": "<svg fill=\"currentColor\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6.75 1C7.16421 1 7.5 1.33579 7.5 1.75V3H12.5V1.75C12.5 1.33579 12.8358 1 13.25 1C13.6642 1 14 1.33579 14 1.75V3H16.25C17.7688 3 19 4.23122 19 5.75V16.25C19 17.7688 17.7688 19 16.25 19H3.75C2.23122 19 1 17.7688 1 16.25V5.75C1 4.23122 2.23122 3 3.75 3H6V1.75C6 1.33579 6.33579 1 6.75 1ZM6 4.5H3.75C3.05964 4.5 2.5 5.05964 2.5 5.75V8H17.5V5.75C17.5 5.05964 16.9404 4.5 16.25 4.5H14V5.25C14 5.66421 13.6642 6 13.25 6C12.8358 6 12.5 5.66421 12.5 5.25V4.5H7.5V5.25C7.5 5.66421 7.16421 6 6.75 6C6.33579 6 6 5.66421 6 5.25V4.5ZM17.5 9.5H2.5V16.25C2.5 16.9404 3.05964 17.5 3.75 17.5H16.25C16.9404 17.5 17.5 16.9404 17.5 16.25V9.5Z\"></path></svg>"
+      },
+      {
+        "t": "metaLabel",
+        "html": "Duration",
+        "text": "Duration",
+        "indent": 0,
+        "x": 605,
+        "w": 56,
+        "size": 14,
+        "muted": true
+      },
+      {
+        "t": "metaValue",
+        "html": "Lead Product Designer",
+        "text": "Lead Product Designer",
+        "indent": 304,
+        "x": 992,
+        "w": 189,
+        "size": 18
+      },
+      {
+        "t": "metaLabel",
+        "html": "Role",
+        "text": "Role",
+        "indent": 384,
+        "x": 1073,
+        "w": 29,
+        "size": 14,
+        "muted": true
+      }
+    ]
+  },
+  "footer": "",
+  "sections": [
+    {
+      "heading": "The Problem",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "eCitiBiz is not simply a peripheral government service. Every foreign or local entity seeking to register a business, manage expats quotas, certify a marriage, or apply for citizenship interacts with this platform. The stakes of a poor experience are therefore not just inconvenience; they are systemic.",
+          "text": "eCitiBiz is not simply a peripheral government service. Every foreign or local entity seeking to register a business, manage expats quotas, certify a marriage, or apply for citizenship interacts with this platform. The stakes of a poor experience are therefore not just inconvenience; they are systemic.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "p",
+          "html": "The platform was recording a disproportionate number of applications stuck in incomplete statuses. Users who had started processes could not finish them, leaving their cases in limbo and creating backlogs for the ministry to resolve manually.",
+          "text": "The platform was recording a disproportionate number of applications stuck in incomplete statuses. Users who had started processes could not finish them, leaving their cases in limbo and creating backlogs for the ministry to resolve manually.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "p",
+          "html": "While in an interview with the stakeholders, we learnt that more telling was what users were doing instead: rather than navigating the platform themselves, many were turning to third-party agents, people familiar with the system's quirks, to complete their applications on their behalf. For a platform that handles sensitive data including identity documents, business records, and citizenship information, this agent dependency was not just a usability failure, it was a privacy and security risk. Personal data was being handled by intermediaries because the designed experience had made \"<em>self-service\"</em> effectively impossible for the average user. I performed a Google Lighthouse audit, which confirmed what users were experiencing: a performance score of 46, an accessibility score of 75, and a best practices score of 67, all well below acceptable thresholds for a platform of this national significance.",
+          "text": "While in an interview with the stakeholders, we learnt that more telling was what users were doing instead: rather than navigating the platform themselves, many were turning to third-party agents, people familiar with the system's quirks, to complete their applications on their behalf. For a platform that handles sensitive data including identity documents, business records, and citizenship information, this agent dependency was not just a usability failure, it was a privacy and security risk. Personal data was being handled by intermediaries because the designed experience had made \"self-service\" effectively impossible for the average user. I performed a Google Lighthouse audit, which confirmed what users were experiencing: a performance score of 46, an accessibility score of 75, and a best practices score of 67, all well below acceptable thresholds for a platform of this national significance.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "image",
+          "src": "/media/tp8SedwXvAuMbanjkfeWL24Smc.png",
+          "w": 624,
+          "h": 310,
+          "indent": 0,
+          "x": 688,
+          "dw": 624,
+          "alt": ""
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "My Role",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "I initiated and led the audit, designed the review framework, and conducted the usability evaluation across the full site. Bolaji co-authored the audit report and proposal. Following the contract award and stakeholder presentation, I led the redesign of the portal, covering the design system, information architecture, user segments, language, visual design, accessibility compliance, and dashboard structure, alongside two junior designers. Before and After illustration shown below.",
+          "text": "I initiated and led the audit, designed the review framework, and conducted the usability evaluation across the full site. Bolaji co-authored the audit report and proposal. Following the contract award and stakeholder presentation, I led the redesign of the portal, covering the design system, information architecture, user segments, language, visual design, accessibility compliance, and dashboard structure, alongside two junior designers. Before and After illustration shown below.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "video",
+          "src": "/media/eFVnsYh8YFdroHL8uieHODXwyhs.webm",
+          "indent": 0,
+          "x": 688,
+          "dw": 624,
+          "ratio": 1.4545
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "Auditing the old system",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "My audit was structured across the following areas: onboarding journey, information architecture, language, visual design, and the dashboards for each user segment.",
+          "text": "My audit was structured across the following areas: onboarding journey, information architecture, language, visual design, and the dashboards for each user segment.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "p",
+          "html": "I identified two critical failure points in the <strong>onboarding journey</strong>: inconsistent sign-up forms across services, and a broken email verification flow that showed no content after the user clicked their confirmation link. Both created immediate trust damage for a government platform where users were submitting personal and business documents most likely under tension.",
+          "text": "I identified two critical failure points in the onboarding journey: inconsistent sign-up forms across services, and a broken email verification flow that showed no content after the user clicked their confirmation link. Both created immediate trust damage for a government platform where users were submitting personal and business documents most likely under tension.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "image",
+          "src": "/media/PXM9nezrduzDRHy52G54Y1tWhQA.png",
+          "w": 624,
+          "h": 507,
+          "indent": 0,
+          "x": 688,
+          "dw": 624,
+          "alt": ""
+        },
+        {
+          "t": "p",
+          "html": "The <strong>content and information architecture</strong> also lacked hierarchy. <strong>Language</strong> was often technical or bureaucratic, making it inaccessible to general users. Related content was not grouped, and there were no clear headings to help users scan and navigate. Broken links and unnecessary decorative elements added noise to already dense pages.",
+          "text": "The content and information architecture also lacked hierarchy. Language was often technical or bureaucratic, making it inaccessible to general users. Related content was not grouped, and there were no clear headings to help users scan and navigate. Broken links and unnecessary decorative elements added noise to already dense pages.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "p",
+          "html": "The <strong>visual design</strong> needed structural work across typography, contrast, call-to-action placement, and branding consistency. <br><br>The <strong>dashboard</strong> presented a long flat list of service links with no navigation tabs and no account-level organisation. For corporate users managing expatriate quotas, one of the most complex workflows on the platform, this created a steep and unnecessary learning curve.",
+          "text": "The visual design needed structural work across typography, contrast, call-to-action placement, and branding consistency. \n\nThe dashboard presented a long flat list of service links with no navigation tabs and no account-level organisation. For corporate users managing expatriate quotas, one of the most complex workflows on the platform, this created a steep and unnecessary learning curve.",
+          "multiline": true,
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "Redesigning eCitiBiz",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Working through the audit findings, I identified five critical areas where the platform was giving friction to its users. I'll walk through each one: what the problem was, what I found, and what I designed in response.",
+          "text": "Working through the audit findings, I identified five critical areas where the platform was giving friction to its users. I'll walk through each one: what the problem was, what I found, and what I designed in response.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "badge",
+          "html": "1",
+          "text": "1",
+          "indent": 0,
+          "x": 688,
+          "w": 40,
+          "size": 16
+        },
+        {
+          "t": "h3",
+          "html": "Registration",
+          "text": "Registration",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 18
+        },
+        {
+          "t": "p",
+          "html": "The first thing I noticed in the sign-up experience was the lack of orientation. Depending on the service being accessed, users were presented with a different registration form, and nothing in the interface told them which path they were on, how it related to their goal, or what to expect next. For someone new to the platform, this was immediately disorienting.",
+          "text": "The first thing I noticed in the sign-up experience was the lack of orientation. Depending on the service being accessed, users were presented with a different registration form, and nothing in the interface told them which path they were on, how it related to their goal, or what to expect next. For someone new to the platform, this was immediately disorienting.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "image",
+          "src": "/media/nmVFdWBQ8F4VQJyxHmOJxeSLWj8.png",
+          "w": 560,
+          "h": 458,
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "alt": ""
+        },
+        {
+          "t": "p",
+          "html": "The verification step compounded the problem. After completing registration, users received an email verification link. Clicking it led to a blank page with no content, no feedback, and no indication of whether anything had worked. I tested this myself and it was easy to see why users were abandoning at this point or calling support to ask if their account had been created. This was a technical probelm,so I documented the scenario with screenshots and shared it with AnchorData as a recommendation.",
+          "text": "The verification step compounded the problem. After completing registration, users received an email verification link. Clicking it led to a blank page with no content, no feedback, and no indication of whether anything had worked. I tested this myself and it was easy to see why users were abandoning at this point or calling support to ask if their account had been created. This was a technical probelm,so I documented the scenario with screenshots and shared it with AnchorData as a recommendation.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "p",
+          "html": "During the design phase, I explored unifying the registration experience into a single entry flow. <em><strong>Feedback from AnchorDataware, however, clarified a technical constraint: </strong>the underlying data collection architecture was already structured such that each service required its own distinct registration entry. </em>Consolidating them into one flow would have required rebuilding the data layer, which was outside the scope of the engagement. With this, I had to revert to distinct signup forms but with a flow that still allows you to click only one sign up button.",
+          "text": "During the design phase, I explored unifying the registration experience into a single entry flow. Feedback from AnchorDataware, however, clarified a technical constraint: the underlying data collection architecture was already structured such that each service required its own distinct registration entry. Consolidating them into one flow would have required rebuilding the data layer, which was outside the scope of the engagement. With this, I had to revert to distinct signup forms but with a flow that still allows you to click only one sign up button.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "image",
+          "src": "/media/thEgSHXxYMcAtcM5xjyTnEl9mY.png",
+          "w": 560,
+          "h": 727,
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "alt": ""
+        },
+        {
+          "t": "p",
+          "html": "My response was to work within that constraint while addressing the core usability friction. Drawing on <em>Nielsen's principle of Recognition over Recall</em>, which holds that \"users should be able to identify where they are and what is required of them from visible interface cues rather than having to remember it\", I redesigned each registration path to be clearly identifiable at every stage.",
+          "text": "My response was to work within that constraint while addressing the core usability friction. Drawing on Nielsen's principle of Recognition over Recall, which holds that \"users should be able to identify where they are and what is required of them from visible interface cues rather than having to remember it\", I redesigned each registration path to be clearly identifiable at every stage.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "video",
+          "src": "/media/dTqueAXTTHtwS7G20Iru7hZ1nG0.webm",
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "ratio": 1.4545
+        },
+        {
+          "t": "p",
+          "html": "I made the entry points to each path easy to find from the homepage, added clear labelling within each flow with breadcrumbs, and introduced tooltips at key points in the registration paths to guide users through what was being asked of them without requiring prior knowledge of the system.",
+          "text": "I made the entry points to each path easy to find from the homepage, added clear labelling within each flow with breadcrumbs, and introduced tooltips at key points in the registration paths to guide users through what was being asked of them without requiring prior knowledge of the system.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "video",
+          "src": "/media/P4Pl9J3hqDeGogostoaAt4rAk.webm",
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "ratio": 1.3333
+        },
+        {
+          "t": "badge",
+          "html": "2",
+          "text": "2",
+          "indent": 0,
+          "x": 688,
+          "w": 40,
+          "size": 16
+        },
+        {
+          "t": "h3",
+          "html": "Language &amp; Content",
+          "text": "Language & Content",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 18
+        },
+        {
+          "t": "p",
+          "html": "The content across the platform previously read like it had been written for internal government use rather than for the citizens and businesses it was meant to serve. It was technical, jargon-heavy, and assumed a level of familiarity with government processes that most users simply do not have. For someone going through a citizenship application or expatriate quota process for the first time, this created real confusion about what was being asked of them and what the consequences of each step were.",
+          "text": "The content across the platform previously read like it had been written for internal government use rather than for the citizens and businesses it was meant to serve. It was technical, jargon-heavy, and assumed a level of familiarity with government processes that most users simply do not have. For someone going through a citizenship application or expatriate quota process for the first time, this created real confusion about what was being asked of them and what the consequences of each step were.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "p",
+          "html": "I recommended a full content rewrite in plain language, with a framework and consistent tone applied across all pages. This was contracted to Esan Faith. My position here was that content clarity is not a cosmetic issue. If a user cannot understand what a form is asking, they cannot complete it. The agent dependency problem I mentioned earlier was partly a language problem.",
+          "text": "I recommended a full content rewrite in plain language, with a framework and consistent tone applied across all pages. This was contracted to Esan Faith. My position here was that content clarity is not a cosmetic issue. If a user cannot understand what a form is asking, they cannot complete it. The agent dependency problem I mentioned earlier was partly a language problem.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "image",
+          "src": "/media/mJ9jYb6nsgb9Z3ZeJ9kD3qv0RI.png",
+          "w": 560,
+          "h": 415,
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "alt": ""
+        },
+        {
+          "t": "p",
+          "html": "Apart from writing articles in user-friendly languages, the language across other journeys were also either redundant or needed review. See examples of two problematic paths, <strong>clicking \"Migrate Records\",</strong> and <em><strong>\"a foreigner's application for marriage\". </strong></em>",
+          "text": "Apart from writing articles in user-friendly languages, the language across other journeys were also either redundant or needed review. See examples of two problematic paths, clicking \"Migrate Records\", and \"a foreigner's application for marriage\".",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "image",
+          "src": "/media/rWOJuWGl0vsqMctAyWbYMjoijI.png",
+          "w": 560,
+          "h": 381,
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "alt": ""
+        },
+        {
+          "t": "image",
+          "src": "/media/tbLfLxcbGpB7WaRiHlXDKeSNw.png",
+          "w": 560,
+          "h": 385,
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "alt": ""
+        },
+        {
+          "t": "p",
+          "html": "There were many other instances of these in the system. I removed redundancies where not needed and introduced explanatory aids where required. For example, for \"Special Marriage\" applications, I added the meaning as a subtitle as well as a representative image as shown below. This would help any new information-seeking user understand which terms meant what.",
+          "text": "There were many other instances of these in the system. I removed redundancies where not needed and introduced explanatory aids where required. For example, for \"Special Marriage\" applications, I added the meaning as a subtitle as well as a representative image as shown below. This would help any new information-seeking user understand which terms meant what.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "image",
+          "src": "/media/tMX2aJLtHMVpzDvbwZW26tCiyms.png",
+          "w": 560,
+          "h": 420,
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "alt": ""
+        },
+        {
+          "t": "p",
+          "html": "For Business and Expatriate Quota Users, I created a services glossary to give simple meanings to the technical terminologies as reference.",
+          "text": "For Business and Expatriate Quota Users, I created a services glossary to give simple meanings to the technical terminologies as reference.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "image",
+          "src": "/media/KrVgVdMbdK8cLfNdthDFqsPQg.png",
+          "w": 560,
+          "h": 420,
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "alt": ""
+        },
+        {
+          "t": "badge",
+          "html": "3",
+          "text": "3",
+          "indent": 0,
+          "x": 688,
+          "w": 40,
+          "size": 16
+        },
+        {
+          "t": "h3",
+          "html": "Information Architecture &amp; Navigation",
+          "text": "Information Architecture & Navigation",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 18
+        },
+        {
+          "t": "p",
+          "html": "Related content was not grouped together. Pages had no clear headings and no logical hierarchy. There was no consistent navigation logic that would allow a user to build a mental model of where they were within the platform or how to get to what they needed. I found broken links and pages with unnecessary decorative elements that added visual noise without any informational value.",
+          "text": "Related content was not grouped together. Pages had no clear headings and no logical hierarchy. There was no consistent navigation logic that would allow a user to build a mental model of where they were within the platform or how to get to what they needed. I found broken links and pages with unnecessary decorative elements that added visual noise without any informational value.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "image",
+          "src": "/media/Yv7KWd44C0Jjy4twjvyzhXD3I.png",
+          "w": 560,
+          "h": 443,
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "alt": ""
+        },
+        {
+          "t": "p",
+          "html": "For example, in the expatriate quota account shown above,I grouped all the services under two parents as shown below: \"Manage Expatriate Quota\" and \"Manage PUR\", so it reflected the actual structure of the platform's services. The goal was that a user arriving on any page should be able to orient themselves immediately.",
+          "text": "For example, in the expatriate quota account shown above,I grouped all the services under two parents as shown below: \"Manage Expatriate Quota\" and \"Manage PUR\", so it reflected the actual structure of the platform's services. The goal was that a user arriving on any page should be able to orient themselves immediately.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "image",
+          "src": "/media/plWUM78iKPdA3zbi2flrPv3X4U.png",
+          "w": 560,
+          "h": 420,
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "alt": ""
+        },
+        {
+          "t": "p",
+          "html": "I applied the same logic of categorization to the article search navigation as shown below.",
+          "text": "I applied the same logic of categorization to the article search navigation as shown below.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "image",
+          "src": "/media/Px77qY8ZEuDnHa10CbZiUr8Tg.png",
+          "w": 560,
+          "h": 420,
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "alt": ""
+        },
+        {
+          "t": "p",
+          "html": "For articles and search results, I structured them in sections, applying divisons, tables, accordions, images and emphasis where required.",
+          "text": "For articles and search results, I structured them in sections, applying divisons, tables, accordions, images and emphasis where required.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "video",
+          "src": "/media/eimEx3YyIXoD3nKSZyAWskko.webm",
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "ratio": 1.5094
+        },
+        {
+          "t": "image",
+          "src": "/media/0SSikWuiqRXVd42VyHOQME492pQ.png",
+          "w": 560,
+          "h": 420,
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "alt": ""
+        },
+        {
+          "t": "badge",
+          "html": "4",
+          "text": "4",
+          "indent": 0,
+          "x": 688,
+          "w": 40,
+          "size": 16
+        },
+        {
+          "t": "h3",
+          "html": "Dashboard &amp; Account Management",
+          "text": "Dashboard & Account Management",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 18
+        },
+        {
+          "t": "p",
+          "html": "The dashboard was the part of the platform I felt most urgently needed redesigning, because it was where the consequences of everything else became most visible. For a corporate user managing an expatriate quota application, the previous dashboard presented a long flat list of service links as illustrated in point 3. There were no tabs and groupings. There was no way to tell where an in-progress application stood, and no logical structure to help users understand what actions were available for their account types. Screenshots from the previous dashboard as shown below reveals an absence of a sidebar (a crucial component of a dashboard with various action categories). Rather, the links were all put in the navigation bar above.",
+          "text": "The dashboard was the part of the platform I felt most urgently needed redesigning, because it was where the consequences of everything else became most visible. For a corporate user managing an expatriate quota application, the previous dashboard presented a long flat list of service links as illustrated in point 3. \n\nThere were no tabs and groupings. There was no way to tell where an in-progress application stood, and no logical structure to help users understand what actions were available for their account types. Screenshots from the previous dashboard as shown below reveals an absence of a sidebar (a crucial component of a dashboard with various action categories). Rather, the links were all put in the navigation bar above.",
+          "multiline": true,
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "image",
+          "src": "/media/vJcWcdihRRFiXgvz804tRcIeOo.png",
+          "w": 560,
+          "h": 599,
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "alt": ""
+        },
+        {
+          "t": "p",
+          "html": "This is also where the privacy risk I described earlier was most acute. Typical to Nigeria, when a public system is this difficult to navigate, users stop trying to use it themselves. They hand their credentials and documents to an agent who knows the system. In a platform managing citizenship records, business registrations, and identity documents, that is a serious risk regardless of intent.",
+          "text": "This is also where the privacy risk I described earlier was most acute. Typical to Nigeria, when a public system is this difficult to navigate, users stop trying to use it themselves. They hand their credentials and documents to an agent who knows the system. In a platform managing citizenship records, business registrations, and identity documents, that is a serious risk regardless of intent.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "image",
+          "src": "/media/rAZIOnUjjIrODQuIRn6Zyzc6pY.png",
+          "w": 560,
+          "h": 543,
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "alt": ""
+        },
+        {
+          "t": "p",
+          "html": "I redesigned the dashboard with an organized sidebar navigation and tabbed dashboard to organise account types. I added a switcher in the header to make switching easy for multiple type account holders, so users could manage all their accounts from a single authenticated session. Below are a few screenshots from the redesigned dashboards.",
+          "text": "I redesigned the dashboard with an organized sidebar navigation and tabbed dashboard to organise account types. I added a switcher in the header to make switching easy for multiple type account holders, so users could manage all their accounts from a single authenticated session. Below are a few screenshots from the redesigned dashboards.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "image",
+          "src": "/media/mUkFFfXJIPVHGO0ds6x9z72I.png",
+          "w": 560,
+          "h": 420,
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "alt": ""
+        },
+        {
+          "t": "image",
+          "src": "/media/66uF8fWtVx8S9kISyk3LLlxXA8.png",
+          "w": 560,
+          "h": 420,
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "alt": ""
+        },
+        {
+          "t": "image",
+          "src": "/media/ejzQB98rVNb97zplcZILeSXRCE.png",
+          "w": 560,
+          "h": 420,
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "alt": ""
+        },
+        {
+          "t": "image",
+          "src": "/media/STBzthfNhWKqHKwJyplOfCqKyaU.png",
+          "w": 560,
+          "h": 420,
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "alt": ""
+        },
+        {
+          "t": "image",
+          "src": "/media/3F6ZivOGSv2IZ5LYV0snwWOEb4Y.png",
+          "w": 560,
+          "h": 420,
+          "indent": 64,
+          "x": 752,
+          "dw": 560,
+          "alt": ""
+        },
+        {
+          "t": "badge",
+          "html": "5",
+          "text": "5",
+          "indent": 0,
+          "x": 688,
+          "w": 40,
+          "size": 16
+        },
+        {
+          "t": "h3",
+          "html": "Visual Design",
+          "text": "Visual Design",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 18
+        },
+        {
+          "t": "p",
+          "html": "The visual design had several compounding issues. Font sizes were too small for comfortable reading, contrast ratios fell below accessible thresholds, and call-to-action buttons were inconsistently styled and easy to miss. Branding was not consistent across sections.",
+          "text": "The visual design had several compounding issues. Font sizes were too small for comfortable reading, contrast ratios fell below accessible thresholds, and call-to-action buttons were inconsistently styled and easy to miss. Branding was not consistent across sections.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "p",
+          "html": "I redesigned the landing page with a clear visual hierarchy: a headline that communicated the portal's purpose plainly, a prominent primary CTA directing users to log in or register, and a structured service listing. I standardised typography, colour, spacing, and button design across the system to create a coherent visual language.",
+          "text": "I redesigned the landing page with a clear visual hierarchy: a headline that communicated the portal's purpose plainly, a prominent primary CTA directing users to log in or register, and a structured service listing. I standardised typography, colour, spacing, and button design across the system to create a coherent visual language.",
+          "indent": 64,
+          "x": 752,
+          "w": 560,
+          "size": 16,
+          "muted": true
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "Design Constraints",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Throughout, design decisions were made within the constraints of the existing ERP data architecture. The goal was not to rebuild the system, but to make it significantly more usable without requiring changes to how data was structured or processed on the backend.",
+          "text": "Throughout, design decisions were made within the constraints of the existing ERP data architecture. The goal was not to rebuild the system, but to make it significantly more usable without requiring changes to how data was structured or processed on the backend.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "Handoff & Impact",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "I completed the redesign and handed off the system to AnchorDataware, the ministry's technical agency. The redesign is gradually being implemented on the live platform.",
+          "text": "I completed the redesign and handed off the system to AnchorDataware, the ministry's technical agency. The redesign is gradually being implemented on the live platform.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "p",
+          "html": "Formal post-launch tracking was not possible. A change in government administration in 2024 brought a shift in the ministry's internal structure, and with it, the continuity of the project relationship that would have allowed for measured outcome data.",
+          "text": "Formal post-launch tracking was not possible. A change in government administration in 2024 brought a shift in the ministry's internal structure, and with it, the continuity of the project relationship that would have allowed for measured outcome data.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        },
+        {
+          "t": "p",
+          "html": "Regardless, internal feedback gathered through stakeholder interactions during and after the handoff notes the improvement in navigability and the reduction in the kind of user confusion that had been generating support requests and incomplete applications.",
+          "text": "Regardless, internal feedback gathered through stakeholder interactions during and after the handoff notes the improvement in navigability and the reduction in the kind of user confusion that had been generating support requests and incomplete applications.",
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "Tools",
+      "layout": "split",
+      "blocks": [],
+      "kind": "chips",
+      "items": [
+        {
+          "text": "Figma",
+          "w": 46,
+          "svg": "<svg fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\"><title>Figma</title><path d=\"M15.852 8.981h-4.588V0h4.588c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.491-4.49 4.491zM12.735 7.51h3.117c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-3.117V7.51zm0 1.471H8.148c-2.476 0-4.49-2.014-4.49-4.49S5.672 0 8.148 0h4.588v8.981zm-4.587-7.51c-1.665 0-3.019 1.355-3.019 3.019s1.354 3.02 3.019 3.02h3.117V1.471H8.148zm4.587 15.019H8.148c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h4.588v8.98zM8.148 8.981c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h3.117V8.981H8.148zM8.172 24c-2.489 0-4.515-2.014-4.515-4.49s2.014-4.49 4.49-4.49h4.588v4.441c0 2.503-2.047 4.539-4.563 4.539zm-.024-7.51a3.023 3.023 0 0 0-3.019 3.019c0 1.665 1.365 3.019 3.044 3.019 1.705 0 3.093-1.376 3.093-3.068v-2.97H8.148zm7.704 0h-.098c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h.098c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.49-4.49 4.49zm-.097-7.509c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h.098c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-.098z\"></path></svg>"
+        },
+        {
+          "text": "Research",
+          "w": 70,
+          "svg": "<svg fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\"><title>Files</title><path d=\"M12.367 2.453a.822.822 0 0 0-.576.238L.241 14.213a.822.822 0 0 0-.241.584v.066c0-.323.209-.608.516-.709l7.275-2.318a2.437 2.437 0 0 0 1.584-1.592l2.318-7.267a.757.757 0 0 1 .719-.524zM0 14.863v5.047c0 .904.733 1.637 1.637 1.637h20.726c.904 0 1.637-.733 1.637-1.637V4.09c0-.904-.733-1.637-1.637-1.637h-9.951v.5l.088 9.861c.01 1.175-.962 2.14-2.137 2.14L0 14.862zM12 3.66l-2.148 6.735v.001a2.94 2.94 0 0 1-1.909 1.916l-6.716 2.141h9.136c.905 0 1.638-.734 1.637-1.639zm-10.363.975c-.905 0-1.638.734-1.637 1.638v7.473l9.135-9.111Z\"></path></svg>"
+        },
+        {
+          "text": "Figjam",
+          "w": 50,
+          "svg": "<svg fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\"><title>Figma</title><path d=\"M15.852 8.981h-4.588V0h4.588c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.491-4.49 4.491zM12.735 7.51h3.117c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-3.117V7.51zm0 1.471H8.148c-2.476 0-4.49-2.014-4.49-4.49S5.672 0 8.148 0h4.588v8.981zm-4.587-7.51c-1.665 0-3.019 1.355-3.019 3.019s1.354 3.02 3.019 3.02h3.117V1.471H8.148zm4.587 15.019H8.148c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h4.588v8.98zM8.148 8.981c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h3.117V8.981H8.148zM8.172 24c-2.489 0-4.515-2.014-4.515-4.49s2.014-4.49 4.49-4.49h4.588v4.441c0 2.503-2.047 4.539-4.563 4.539zm-.024-7.51a3.023 3.023 0 0 0-3.019 3.019c0 1.665 1.365 3.019 3.044 3.019 1.705 0 3.093-1.376 3.093-3.068v-2.97H8.148zm7.704 0h-.098c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h.098c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.49-4.49 4.49zm-.097-7.509c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h.098c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-.098z\"></path></svg>"
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "Credits",
+      "layout": "split",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Project Inititative - Dr. Joel Adidi (Director, AnchorDataware Solutions)<br>Product Manager - Bolaji Abdullahi, PMP, MBA <br>Research, Evaluation &amp; Design - Olawale Azeem Gbadamosi<br>Design - Mateen Gbadamsi, George Akpokwu",
+          "text": "Project Inititative - Dr. Joel Adidi (Director, AnchorDataware Solutions)\nProduct Manager - Bolaji Abdullahi, PMP, MBA \nResearch, Evaluation & Design - Olawale Azeem Gbadamosi\nDesign - Mateen Gbadamsi, George Akpokwu",
+          "multiline": true,
+          "indent": 0,
+          "x": 688,
+          "w": 624,
+          "size": 16,
+          "muted": true
+        }
+      ],
+      "more": null
+    }
+  ],
+  "related": [
+    {
+      "image": "/media/SxsOGYqgzGoGsJPDT874YcmBFzQ.png",
+      "title": "3D Video Direction for AUMI Cryptocurrency",
+      "client": "AutoMatic Yield Farming"
+    },
+    {
+      "image": "/media/NAHig5m7Pq6K5st4lXXqekHgY.jpg",
+      "title": "Smart Experience for Non-Smart TV Users",
+      "client": "Prixon UAE"
+    }
+  ]
+}

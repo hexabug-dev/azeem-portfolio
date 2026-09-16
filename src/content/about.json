@@ -1,0 +1,186 @@
+{
+  "name": "about",
+  "route": "/about",
+  "title": "Azeem Gbadamosi",
+  "header": {
+    "back": null,
+    "h1": "Interaction Designer",
+    "blocks": [
+      {
+        "t": "h1",
+        "html": "Azeem Gbadamosi",
+        "text": "Azeem Gbadamosi",
+        "indent": 0,
+        "x": 408,
+        "w": 904,
+        "size": 40
+      },
+      {
+        "t": "h1",
+        "html": "Interaction Designer",
+        "text": "Interaction Designer",
+        "indent": 0,
+        "x": 408,
+        "w": 904,
+        "size": 32,
+        "muted": true
+      },
+      {
+        "t": "metaValue",
+        "html": "I am a Visual and Interaction Designer with a successful history of turning ideas into captivating digital experiences in blockchain, fintech, retail, education, and entertainment industries. My expertise lies in engineering user-centered solutions for smart display systems, TV, web, and mobile platforms.",
+        "text": "I am a Visual and Interaction Designer with a successful history of turning ideas into captivating digital experiences in blockchain, fintech, retail, education, and entertainment industries. My expertise lies in engineering user-centered solutions for smart display systems, TV, web, and mobile platforms.",
+        "indent": 0,
+        "x": 408,
+        "w": 904,
+        "size": 18,
+        "muted": true
+      },
+      {
+        "t": "metaValue",
+        "html": "My proficiency in using cutting-edge tools and technologies help me improve engagement and build trust with users through design. Currently pursuing an MSc. in Human-Computer Interaction and looking to incorporate advanced design thinking methodologies into your project.",
+        "text": "My proficiency in using cutting-edge tools and technologies help me improve engagement and build trust with users through design. Currently pursuing an MSc. in Human-Computer Interaction and looking to incorporate advanced design thinking methodologies into your project.",
+        "indent": 0,
+        "x": 408,
+        "w": 904,
+        "size": 18,
+        "muted": true
+      }
+    ]
+  },
+  "footer": "",
+  "sections": [
+    {
+      "heading": "Skills",
+      "layout": "stacked",
+      "blocks": [],
+      "kind": "chips",
+      "items": [
+        {
+          "text": "Product Design & Prototyping",
+          "w": 223
+        },
+        {
+          "text": "Motion design (AE & Lottie)",
+          "w": 206
+        },
+        {
+          "text": "Presentation Design",
+          "w": 152
+        },
+        {
+          "text": "UX Research & Testing",
+          "w": 172
+        },
+        {
+          "text": "HTML, CSS & Javascript",
+          "w": 183
+        },
+        {
+          "text": "Branding, visual identity design",
+          "w": 236
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "Tools",
+      "layout": "stacked",
+      "blocks": [],
+      "kind": "chips",
+      "items": [
+        {
+          "text": "Figma",
+          "w": 46,
+          "svg": "<svg fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\"><title>Figma</title><path d=\"M15.852 8.981h-4.588V0h4.588c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.491-4.49 4.491zM12.735 7.51h3.117c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-3.117V7.51zm0 1.471H8.148c-2.476 0-4.49-2.014-4.49-4.49S5.672 0 8.148 0h4.588v8.981zm-4.587-7.51c-1.665 0-3.019 1.355-3.019 3.019s1.354 3.02 3.019 3.02h3.117V1.471H8.148zm4.587 15.019H8.148c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h4.588v8.98zM8.148 8.981c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h3.117V8.981H8.148zM8.172 24c-2.489 0-4.515-2.014-4.515-4.49s2.014-4.49 4.49-4.49h4.588v4.441c0 2.503-2.047 4.539-4.563 4.539zm-.024-7.51a3.023 3.023 0 0 0-3.019 3.019c0 1.665 1.365 3.019 3.044 3.019 1.705 0 3.093-1.376 3.093-3.068v-2.97H8.148zm7.704 0h-.098c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h.098c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.49-4.49 4.49zm-.097-7.509c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h.098c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-.098z\"></path></svg>"
+        },
+        {
+          "text": "Framer",
+          "w": 53,
+          "svg": "<svg fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\"><title>Framer</title><path d=\"M4 0h16v8h-8zM4 8h8l8 8H4zM4 16h8v8z\"></path></svg>"
+        },
+        {
+          "text": "Photoshop",
+          "w": 82,
+          "svg": "<svg fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\"><title>Adobe Photoshop</title><path d=\"M9.85 8.42c-.37-.15-.77-.21-1.18-.2-.26 0-.49 0-.68.01-.2-.01-.34 0-.41.01v3.36c.14.01.27.02.39.02h.53c.39 0 .78-.06 1.15-.18.32-.09.6-.28.82-.53.21-.25.31-.59.31-1.03.01-.31-.07-.62-.23-.89-.17-.26-.41-.46-.7-.57zM19.75.3H4.25C1.9.3 0 2.2 0 4.55v14.899c0 2.35 1.9 4.25 4.25 4.25h15.5c2.35 0 4.25-1.9 4.25-4.25V4.55C24 2.2 22.1.3 19.75.3zm-7.391 11.65c-.399.56-.959.98-1.609 1.22-.68.25-1.43.34-2.25.34-.24 0-.4 0-.5-.01s-.24-.01-.43-.01v3.209c.01.07-.04.131-.11.141H5.52c-.08 0-.12-.041-.12-.131V6.42c0-.07.03-.11.1-.11.17 0 .33 0 .56-.01.24-.01.49-.01.76-.02s.56-.01.87-.02c.31-.01.61-.01.91-.01.82 0 1.5.1 2.06.31.5.17.96.45 1.34.82.32.32.57.71.73 1.14.149.42.229.85.229 1.3.001.86-.199 1.57-.6 2.13zm7.091 3.89c-.28.4-.671.709-1.12.891-.49.209-1.09.318-1.811.318-.459 0-.91-.039-1.359-.129-.35-.061-.7-.17-1.02-.32-.07-.039-.121-.109-.111-.189v-1.74c0-.029.011-.07.041-.09.029-.02.06-.01.09.01.39.23.8.391 1.24.49.379.1.779.15 1.18.15.38 0 .65-.051.83-.141.16-.07.27-.24.27-.42 0-.141-.08-.27-.24-.4-.16-.129-.489-.279-.979-.471-.51-.18-.979-.42-1.42-.719-.31-.221-.569-.51-.761-.85-.159-.32-.239-.67-.229-1.021 0-.43.12-.84.341-1.21.25-.4.619-.72 1.049-.92.469-.239 1.059-.349 1.769-.349.41 0 .83.03 1.24.09.3.04.59.12.86.23.039.01.08.05.1.09.01.04.02.08.02.12v1.63c0 .04-.02.08-.05.1-.09.02-.14.02-.18 0-.3-.16-.62-.27-.96-.34-.37-.08-.74-.13-1.12-.13-.2-.01-.41.02-.601.07-.129.03-.24.1-.31.2-.05.08-.08.18-.08.27s.04.18.101.26c.09.11.209.2.34.27.229.12.47.23.709.33.541.18 1.061.43 1.541.73.33.209.6.49.789.83.16.318.24.67.23 1.029.011.471-.129.94-.389 1.331z\"></path></svg>"
+        },
+        {
+          "text": "Aftereffects",
+          "w": 90,
+          "svg": "<svg fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\"><title>Adobe After Effects</title><path d=\"M8.54 10.73c-.1-.31-.19-.61-.29-.92s-.19-.6-.27-.89c-.08-.28-.15-.54-.22-.78h-.02c-.09.43-.2.86-.34 1.29-.15.48-.3.98-.46 1.48-.13.51-.29.98-.44 1.4h2.54c-.06-.21-.14-.46-.23-.72-.09-.27-.18-.56-.27-.86zm8.58-.29c-.55-.03-1.07.26-1.33.76-.12.23-.19.47-.22.72h2.109c.26 0 .45 0 .57-.01.08-.01.16-.03.23-.08v-.1c0-.13-.021-.25-.061-.37-.178-.56-.708-.94-1.298-.92zM19.75.3H4.25C1.9.3 0 2.2 0 4.55v14.9c0 2.35 1.9 4.25 4.25 4.25h15.5c2.35 0 4.25-1.9 4.25-4.25V4.55C24 2.2 22.1.3 19.75.3zm-7.04 16.511h-2.09c-.07.01-.14-.041-.16-.11l-.82-2.4H5.92l-.76 2.36c-.02.09-.1.15-.19.14H3.09c-.11 0-.14-.06-.11-.18L6.2 7.39c.03-.1.06-.19.1-.31.04-.21.06-.43.06-.65-.01-.05.03-.1.08-.11h2.59c.07 0 .12.03.13.08l3.65 10.25c.03.11.001.161-.1.161zm7.851-3.991c-.021.189-.031.33-.041.42-.01.07-.069.13-.14.13-.06 0-.17.01-.33.021-.159.02-.35.029-.579.029-.23 0-.471-.04-.73-.04h-3.17c.039.31.14.62.31.89.181.271.431.48.729.601.4.17.841.26 1.281.25.35-.011.699-.04 1.039-.11.311-.039.61-.119.891-.23.05-.039.08-.02.08.08v1.531c0 .039-.01.08-.021.119-.021.03-.04.051-.069.07-.32.14-.65.24-1 .3-.471.09-.94.13-1.42.12-.761 0-1.4-.12-1.92-.35-.49-.211-.921-.541-1.261-.95-.319-.39-.55-.83-.69-1.31-.14-.471-.209-.961-.209-1.461 0-.539.08-1.07.25-1.59.16-.5.41-.96.75-1.37.33-.4.739-.72 1.209-.95.471-.23 1.03-.31 1.67-.31.531-.01 1.06.09 1.55.31.41.18.77.45 1.05.8.26.34.47.72.601 1.14.129.4.189.81.189 1.22 0 .24-.01.45-.019.64z\"></path></svg>"
+        },
+        {
+          "text": "ChatGPT & Generative AI Tools",
+          "w": 234
+        },
+        {
+          "text": "Visual Studio Code",
+          "w": 143,
+          "svg": "<svg fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 24 24\"><title>Visual Studio Code</title><path d=\"M23.15 2.587L18.21.21a1.494 1.494 0 0 0-1.705.29l-9.46 8.63-4.12-3.128a.999.999 0 0 0-1.276.057L.327 7.261A1 1 0 0 0 .326 8.74L3.899 12 .326 15.26a1 1 0 0 0 .001 1.479L1.65 17.94a.999.999 0 0 0 1.276.057l4.12-3.128 9.46 8.63a1.492 1.492 0 0 0 1.704.29l4.942-2.377A1.5 1.5 0 0 0 24 20.06V3.939a1.5 1.5 0 0 0-.85-1.352zm-5.146 14.861L10.826 12l7.178-5.448v10.896z\"></path></svg>"
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "Experience",
+      "layout": "stacked",
+      "blocks": [],
+      "kind": "entries",
+      "items": [
+        {
+          "period": "Sept. 2017 - Present",
+          "org": "TAZ Creative",
+          "role": "UX & Design Lead",
+          "points": [
+            "Spearheaded the UX design of an e-service web app for a Nigerian government MDA, leading to a streamlined application process, enhanced online engagement, and a significant boost in the department's revenue.",
+            "Revamped the onboarding UX of AnyWorkX Afirca to achieve 45% more completions for in the first year of launch.",
+            "0 to 500 member growth in my digital creator community and organizing virtual events and courses to support creative development."
+          ]
+        },
+        {
+          "period": "Aug. 2020 - Dec. 2023",
+          "org": "Prixon & DonTV.eu",
+          "role": "Interaction Designer (Smart TV Boxes)",
+          "points": [
+            "Redesigned system UIs for Prixon's LINUX and ANDROID OTT boxes and overhauled the UX Design for the company's on-demand app, DonTV, resulting in lower churn rates on subscriptions, higher viewerships over one year, with a marked enhancement in user interaction."
+          ]
+        },
+        {
+          "period": "Jan. 2020 - Jan. 2024",
+          "org": "Creat! Naija",
+          "role": "Head of Design & Media Director",
+          "points": [
+            "40% savings on advert costs and 98% achievement of the seat reservation target for the AFEC 2022 Conference.",
+            "Co-led a successful launch of VIVO Mobile’s V27 Series and played a pivotal role in orchestrating the launch event for Nigeria’s first Oracle® Exadata Cloud@Customer in collaboration with 21st Century Technologies."
+          ]
+        }
+      ],
+      "more": null
+    },
+    {
+      "heading": "Education",
+      "layout": "stacked",
+      "blocks": [],
+      "kind": "entries",
+      "items": [
+        {
+          "period": "2023",
+          "org": "MSc. Human-Computer Interaction",
+          "role": "Tallinn University",
+          "points": [
+            "Gaining proficiency in cutting-edge disciplines including design thinking, generative research, design fiction, and end-user computing. Drove knowledge dissemination by organizing Figma design workshops for fellow HCI practitioners."
+          ]
+        },
+        {
+          "period": "2020",
+          "org": "BSc. Agric. Extension (Sociology & Communication)",
+          "role": "FUNAAB",
+          "points": [
+            "Spearheaded a comprehensive Needs and Problem Assessment initiative employing the powerful Pairwise Ranking Tool and demonstrated exceptional leadership skills as Batch Coordinator for my research team, overseeing various projects and ensuring seamless collaboration."
+          ]
+        }
+      ],
+      "more": null
+    }
+  ],
+  "related": []
+}
