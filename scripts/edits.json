@@ -1,0 +1,25 @@
+{
+  "_comment": "Intentional copy edits applied on top of the captured source text. generate-content.mjs applies these after extraction, so they survive a regeneration. Each 'from' must match exactly once; the generator warns if one stops matching.",
+  "cs-prixon": [
+    {
+      "why": "first person singular: this was Azeem's own work",
+      "from": "We redesigned the launcher interface for Prixon",
+      "to": "I redesigned the launcher interface for Prixon"
+    },
+    {
+      "why": "first person singular",
+      "from": "We carried out usability tests with 15 people",
+      "to": "I carried out usability tests with 15 people"
+    },
+    {
+      "why": "first person singular",
+      "from": "so we had to come up with a layout",
+      "to": "so I had to come up with a layout"
+    },
+    {
+      "why": "first person singular",
+      "from": "We had the same users test the new prototype",
+      "to": "I had the same users test the new prototype"
+    }
+  ]
+}

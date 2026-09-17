@@ -57,6 +57,41 @@ const roleOf = (b) => {
 
 const cleanHtml = (html) => html.replace(/&nbsp;/g, " ").trim();
 
+const EDITS = JSON.parse(fs.readFileSync(path.join(ROOT, "scripts", "edits.json"), "utf8"));
+
+/**
+ * Applies the intentional copy edits for a page to every string in it, so a
+ * regeneration does not silently revert them. Reports any rule that no longer
+ * matches, which means the upstream wording changed.
+ */
+const applyEdits = (page, name) => {
+  const rules = EDITS[name];
+  if (!Array.isArray(rules)) return page;
+  const applied = new Set();
+  const walk = (node) => {
+    if (typeof node === "string") {
+      let out = node;
+      for (const r of rules) {
+        if (out.includes(r.from)) {
+          out = out.split(r.from).join(r.to);
+          applied.add(r.from);
+        }
+      }
+      return out;
+    }
+    if (Array.isArray(node)) return node.map(walk);
+    if (node && typeof node === "object") {
+      return Object.fromEntries(Object.entries(node).map(([k, v]) => [k, walk(v)]));
+    }
+    return node;
+  };
+  const edited = walk(page);
+  for (const r of rules) {
+    if (!applied.has(r.from)) console.warn(`  ! edit no longer matches in ${name}: "${r.from}"`);
+  }
+  return edited;
+};
+
 /** Framer inlines colour tokens on icons; make them follow the theme instead. */
 const cleanSvg = (svg) =>
   svg
@@ -355,7 +390,7 @@ const PAGES = fs
   .map((f) => f.replace(/\.json$/, ""));
 
 for (const name of PAGES) {
-  const page = buildPage(name);
+  const page = applyEdits(buildPage(name), name);
   fs.writeFileSync(path.join(CONTENT, `${name}.json`), JSON.stringify(page, null, 2));
   const media = page.sections.reduce(
     (n, s) => n + s.blocks.filter((b) => ["image", "video", "embed"].includes(b.t)).length,
@@ -393,3 +428,70 @@ for (const [url, name] of downloads) {
   }
 }
 console.log("media ok:", ok, "/", downloads.size);
+
+/**
+ * Reads the real pixel dimensions out of a file header. The capture only sees
+ * the scaled variant the browser happened to load, so intrinsic size has to
+ * come from the downloaded original or next/image will under-serve it.
+ */
+const intrinsicSize = (buf) => {
+  if (buf[0] === 0x89 && buf[1] === 0x50) return [buf.readUInt32BE(16), buf.readUInt32BE(20)];
+  if (buf[0] === 0xff && buf[1] === 0xd8) {
+    let i = 2;
+    while (i < buf.length - 9) {
+      if (buf[i] !== 0xff) {
+        i++;
+        continue;
+      }
+      const marker = buf[i + 1];
+      if (marker >= 0xc0 && marker <= 0xcf && ![0xc4, 0xc8, 0xcc].includes(marker)) {
+        return [buf.readUInt16BE(i + 7), buf.readUInt16BE(i + 5)];
+      }
+      i += 2 + buf.readUInt16BE(i + 2);
+    }
+  }
+  if (buf.slice(0, 4).toString() === "RIFF") {
+    const fmt = buf.slice(12, 16).toString();
+    if (fmt === "VP8X") return [1 + buf.readUIntLE(24, 3), 1 + buf.readUIntLE(27, 3)];
+    if (fmt === "VP8 ") return [buf.readUInt16LE(26) & 0x3fff, buf.readUInt16LE(28) & 0x3fff];
+    if (fmt === "VP8L") {
+      const b = buf.readUInt32LE(21);
+      return [(b & 0x3fff) + 1, ((b >> 14) & 0x3fff) + 1];
+    }
+  }
+  return null;
+};
+
+let patched = 0;
+const sizeCache = new Map();
+const realSize = (src) => {
+  if (sizeCache.has(src)) return sizeCache.get(src);
+  const file = path.join(MEDIA, path.basename(src));
+  let out = null;
+  try {
+    out = intrinsicSize(fs.readFileSync(file));
+  } catch {}
+  sizeCache.set(src, out);
+  return out;
+};
+
+for (const f of fs.readdirSync(CONTENT)) {
+  const file = path.join(CONTENT, f);
+  const page = JSON.parse(fs.readFileSync(file, "utf8"));
+  const walk = (n) => {
+    if (Array.isArray(n)) return n.forEach(walk);
+    if (!n || typeof n !== "object") return;
+    if (n.t === "image" && n.src) {
+      const size = realSize(n.src);
+      if (size && (n.w !== size[0] || n.h !== size[1])) {
+        n.w = size[0];
+        n.h = size[1];
+        patched++;
+      }
+    }
+    Object.values(n).forEach(walk);
+  };
+  walk(page);
+  fs.writeFileSync(file, JSON.stringify(page, null, 2));
+}
+console.log("intrinsic sizes corrected on", patched, "images");

@@ -43,7 +43,8 @@ export default function Related({
                     src={r.image}
                     alt={r.title}
                     fill
-                    sizes="300px"
+                    quality={95}
+                    sizes="(max-width: 768px) 100vw, 440px"
                     className="object-cover transition-transform duration-500 group-hover:scale-105"
                   />
                 </div>

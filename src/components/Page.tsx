@@ -25,6 +25,7 @@ export type Item = {
   fieldType?: string;
   required?: boolean;
   size?: number;
+  dw?: number;
   muted?: boolean;
   placeholder?: string;
 };
@@ -321,7 +322,8 @@ function SectionBody({ section }: { section: Section }) {
                     src={c.image}
                     alt={c.title}
                     fill
-                    sizes="(max-width: 768px) 100vw, 300px"
+                    quality={95}
+                    sizes="(max-width: 768px) 100vw, 440px"
                     className="object-cover transition-transform duration-500 group-hover:scale-105"
                   />
                 </div>
@@ -359,7 +361,14 @@ function SectionBody({ section }: { section: Section }) {
               </div>
               {p.image && (
                 <div className="relative aspect-[4/3] w-full shrink-0 overflow-hidden rounded-xl sm:w-[240px]">
-                  <Image src={p.image} alt={p.title} fill sizes="240px" className="object-cover" />
+                  <Image
+                    src={p.image}
+                    alt={p.title}
+                    fill
+                    quality={95}
+                    sizes="(max-width: 640px) 100vw, 240px"
+                    className="object-cover"
+                  />
                 </div>
               )}
             </motion.div>
@@ -671,14 +680,19 @@ export function Media({ item }: { item: Item }) {
     );
   }
 
+  // the hint has to match the slot this image actually fills (904 hero,
+  // 624 section, 560 inside a numbered step) or the browser picks a file
+  // too small for it and upscales
+  const slot = item.dw || 624;
   return (
     <Image
       src={item.src!}
       alt={item.alt || ""}
       width={item.w || 1200}
       height={item.h || 900}
+      quality={95}
       className="w-full rounded-xl"
-      sizes="(max-width: 1024px) 100vw, 624px"
+      sizes={`(max-width: 1024px) 100vw, ${slot}px`}
     />
   );
 }
