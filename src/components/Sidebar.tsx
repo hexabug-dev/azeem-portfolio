@@ -43,6 +43,8 @@ export default function Sidebar() {
             alt="Azeem Gbadamosi"
             width={56}
             height={56}
+            quality={95}
+            sizes="56px"
             className="h-10 w-10 rounded-xl xl:h-14 xl:w-14"
             priority
           />
