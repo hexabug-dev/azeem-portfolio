@@ -1,0 +1,426 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Interaction Designer Promo</title>
+<style>
+  @font-face { font-family: "Space Grotesk"; src: url(fonts/SpaceGrotesk.woff2) format("woff2"); font-weight: 300 700; }
+  @font-face { font-family: "Inter"; src: url(fonts/Inter.woff2) format("woff2"); font-weight: 100 900; }
+  :root {
+    --bg: #141414;
+    --surface: #1c1c1c;
+    --border: #2a2a2a;
+    --fg: #ffffff;
+    --muted: rgba(255, 255, 255, 0.6);
+    --accent: #fabc9b;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 1920px; height: 1080px; overflow: hidden; background: var(--bg); }
+  body { font-family: "Inter", sans-serif; color: var(--fg); }
+  #stage { position: relative; width: 1920px; height: 1080px; overflow: hidden; background: var(--bg); }
+  .abs { position: absolute; }
+  .scene { position: absolute; inset: 0; will-change: transform, opacity; }
+  .display { font-family: "Space Grotesk", sans-serif; font-weight: 700; letter-spacing: -0.045em; line-height: 1; }
+  .mask { overflow: hidden; display: inline-block; vertical-align: top; }
+  .accent { color: var(--accent); }
+  .muted { color: var(--muted); }
+
+  #grid {
+    position: absolute; inset: -80px;
+    background-image: radial-gradient(rgba(255,255,255,0.09) 1.5px, transparent 1.6px);
+    background-size: 40px 40px;
+  }
+  #glow {
+    position: absolute; width: 1400px; height: 1400px; border-radius: 50%;
+    background: radial-gradient(circle, rgba(250,188,155,0.16) 0%, rgba(250,188,155,0) 60%);
+  }
+  #vignette { position: absolute; inset: 0; background: radial-gradient(ellipse at center, transparent 55%, rgba(0,0,0,0.55) 100%); pointer-events: none; }
+
+  /* Scene 1 */
+  #s1line { position: absolute; left: 0; right: 0; top: 330px; display: flex; justify-content: center; font-size: 180px; white-space: nowrap; }
+  #slot { position: relative; height: 1.08em; overflow: hidden; display: inline-block; vertical-align: top; margin-left: 0.22em; }
+  #slot span { position: absolute; left: 0; top: 0; white-space: nowrap; }
+  #s1sub { position: absolute; left: 0; right: 0; top: 610px; text-align: center; font-size: 104px; color: var(--fg); }
+  #s1sub .word { display: inline-block; }
+  #underline { position: absolute; height: 10px; border-radius: 5px; background: var(--accent); transform-origin: left center; }
+
+  /* Scene 2 */
+  .label { font-family: "Inter"; font-weight: 500; font-size: 26px; letter-spacing: 0.22em; text-transform: uppercase; color: var(--accent); }
+  #s2head { position: absolute; left: 0; right: 0; top: 150px; text-align: center; }
+  #s2head h2 { font-size: 88px; margin-top: 22px; }
+  .card { position: absolute; width: 440px; height: 360px; margin-left: -220px; margin-top: -180px; border-radius: 36px; background: var(--surface); border: 2px solid var(--border); box-shadow: 0 40px 80px rgba(0,0,0,0.45); }
+  .card .cap { position: absolute; left: 0; right: 0; bottom: 34px; text-align: center; font-size: 24px; font-weight: 500; color: var(--muted); letter-spacing: 0.02em; }
+  #track { position: absolute; left: 110px; top: 110px; width: 220px; height: 112px; border-radius: 56px; }
+  #knob { position: absolute; top: 12px; width: 88px; height: 88px; border-radius: 50%; background: #fff; box-shadow: 0 6px 16px rgba(0,0,0,0.35); }
+  #sTrack { position: absolute; left: 60px; top: 170px; width: 320px; height: 14px; border-radius: 7px; background: #333; }
+  #sFill { position: absolute; left: 0; top: 0; height: 14px; border-radius: 7px; background: var(--accent); }
+  #sKnob { position: absolute; top: -21px; width: 56px; height: 56px; margin-left: -28px; border-radius: 50%; background: #fff; box-shadow: 0 6px 16px rgba(0,0,0,0.35); }
+  #sVal { position: absolute; top: -110px; width: 110px; margin-left: -55px; height: 60px; border-radius: 16px; background: var(--accent); color: #141414; font-family: "Space Grotesk"; font-weight: 700; font-size: 32px; text-align: center; line-height: 60px; }
+  #heart { position: absolute; left: 160px; top: 80px; width: 120px; height: 120px; }
+  #hCount { position: absolute; left: 0; right: 0; top: 214px; text-align: center; font-family: "Space Grotesk"; font-weight: 700; font-size: 34px; }
+  .particle { position: absolute; width: 16px; height: 16px; margin: -8px; border-radius: 50%; background: var(--accent); }
+
+  /* Scene 3 */
+  #s3label { position: absolute; left: 180px; top: 150px; }
+  .row { position: absolute; left: 180px; height: 150px; width: 1560px; }
+  .row .num { position: absolute; left: 0; top: 38px; font-family: "Space Grotesk"; font-weight: 500; font-size: 34px; color: var(--muted); }
+  .row .title { position: absolute; left: 110px; top: 4px; font-size: 96px; overflow: hidden; height: 120px; }
+  .row .title span { display: inline-block; }
+  .row .rule { position: absolute; left: 0; right: 0; bottom: 0; height: 2px; background: var(--border); }
+  .row .rule i { position: absolute; left: 0; top: 0; bottom: 0; background: var(--accent); }
+  .row .arrow { position: absolute; right: 0; top: 30px; width: 72px; height: 72px; }
+  .chip { position: absolute; padding: 16px 30px; border-radius: 999px; border: 2px solid var(--border); background: var(--surface); font-size: 28px; font-weight: 500; color: var(--muted); white-space: nowrap; }
+
+  /* Scene 4 */
+  #s4head { position: absolute; left: 180px; top: 96px; }
+  #s4head h2 { font-size: 84px; margin-top: 18px; }
+  #strip { position: absolute; left: 0; top: 330px; height: 520px; white-space: nowrap; }
+  .shot { position: absolute; top: 0; width: 656px; height: 520px; border-radius: 28px; overflow: hidden; border: 2px solid var(--border); background: #222; }
+  .shot img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .shot .tag { position: absolute; left: 20px; bottom: 20px; padding: 12px 20px; border-radius: 999px; background: rgba(20,20,20,0.82); color: #fff; font-size: 22px; font-weight: 500; backdrop-filter: blur(6px); }
+  .stat { position: absolute; top: 900px; height: 110px; padding: 0 36px 0 30px; border-radius: 28px; background: var(--surface); border: 2px solid var(--border); display: flex; align-items: center; gap: 24px; white-space: nowrap; }
+  .stat b { font-family: "Space Grotesk"; font-weight: 700; font-size: 52px; letter-spacing: -0.03em; color: var(--accent); }
+  .stat span { font-size: 26px; color: var(--muted); line-height: 1.25; }
+
+  #wipe { position: absolute; width: 10px; height: 10px; border-radius: 50%; background: var(--accent); left: 960px; top: 540px; }
+
+  /* Scene 5 */
+  #name { position: absolute; left: 0; right: 0; top: 300px; text-align: center; font-size: 168px; white-space: nowrap; }
+  #name .ch { display: inline-block; }
+  #role { position: absolute; left: 0; right: 0; top: 500px; text-align: center; font-size: 44px; font-weight: 500; color: var(--muted); }
+  #role em { font-style: normal; color: var(--fg); }
+  #cta { position: absolute; left: 960px; top: 690px; height: 116px; padding: 0 60px; border-radius: 999px; background: var(--accent); color: #141414; font-family: "Space Grotesk"; font-weight: 700; font-size: 42px; letter-spacing: -0.02em; display: flex; align-items: center; gap: 22px; white-space: nowrap; }
+  #email { position: absolute; left: 0; right: 0; top: 860px; text-align: center; font-size: 34px; color: var(--muted); letter-spacing: 0.01em; }
+
+  /* Cursor + ripples */
+  #cursor { position: absolute; left: 0; top: 0; width: 64px; height: 64px; transform-origin: 6px 4px; filter: drop-shadow(0 8px 14px rgba(0,0,0,0.5)); z-index: 50; }
+  .ripple { position: absolute; border-radius: 50%; border: 4px solid var(--accent); z-index: 49; }
+</style>
+</head>
+<body>
+<div id="stage">
+  <div id="glow"></div>
+  <div id="grid"></div>
+
+  <!-- Scene 1: kinetic hook -->
+  <div class="scene" id="s1">
+    <div id="s1line" class="display"><span class="mask"><span id="every">Every</span></span><span id="slot" class="accent"><span>tap.</span><span>swipe.</span><span>scroll.</span><span>click.</span></span></div>
+    <div id="s1sub" class="display"><span class="mask"><span class="word" id="w1">should&nbsp;feel&nbsp;</span></span><span class="mask"><span class="word accent" id="w2">intentional.</span></span></div>
+    <div id="underline"></div>
+  </div>
+
+  <!-- Scene 2: micro-interactions -->
+  <div class="scene" id="s2">
+    <div id="s2head"><div class="label" id="s2label">Interaction Design</div><h2 class="display"><span class="mask"><span id="s2h" style="display:inline-block">Interfaces that respond.</span></span></h2></div>
+    <div class="card" id="c1" style="left:500px;top:640px"><div id="track"><div id="knob"></div></div><div class="cap">State changes</div></div>
+    <div class="card" id="c2" style="left:960px;top:640px"><div id="sTrack"><div id="sFill"></div><div id="sKnob"></div><div id="sVal">20</div></div><div class="cap">Direct manipulation</div></div>
+    <div class="card" id="c3" style="left:1420px;top:640px">
+      <svg id="heart" viewBox="0 0 24 24"><path id="heartPath" d="M12 21s-7.5-4.6-9.6-9.3C.9 8.3 3 4.5 6.7 4.5c2.1 0 3.6 1.2 5.3 3.2 1.7-2 3.2-3.2 5.3-3.2 3.7 0 5.8 3.8 4.3 7.2C19.5 16.4 12 21 12 21z" fill="none" stroke="#fff" stroke-width="1.6" stroke-linejoin="round"/></svg>
+      <div id="hCount">127</div>
+      <div id="particles"></div>
+      <div class="cap">Feedback</div>
+    </div>
+  </div>
+
+  <!-- Scene 3: services -->
+  <div class="scene" id="s3">
+    <div class="label" id="s3label">What I do</div>
+    <div id="rows"></div>
+    <div id="chips"></div>
+  </div>
+
+  <!-- Scene 4: proof -->
+  <div class="scene" id="s4">
+    <div id="s4head"><div class="label" id="s4label">Selected work</div><h2 class="display"><span class="mask"><span id="s4h" style="display:inline-block">Research-led. Results-driven.</span></span></h2></div>
+    <div id="strip"></div>
+    <div class="stat" id="stat1" style="left:180px"><b id="kyc">35% → 71%</b><span>Vendor KYC completion<br/>AnyWorkX</span></div>
+    <div class="stat" id="stat2" style="left:880px"><b>UX audit</b><span>that won a government contract<br/>eCitiBiz</span></div>
+  </div>
+
+  <div id="wipe"></div>
+
+  <!-- Scene 5: end card -->
+  <div class="scene" id="s5">
+    <div id="name" class="display"></div>
+    <div id="role">Interaction Designer <span class="accent">·</span> <em>UX Research</em> <span class="accent">·</span> Motion</div>
+    <div id="cta">Let’s design what’s next <svg width="44" height="44" viewBox="0 0 24 24" fill="none" stroke="#141414" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>
+    <div id="email">azeem@tazcreative.io</div>
+  </div>
+
+  <div id="vignette"></div>
+  <div id="ripples"></div>
+  <svg id="cursor" viewBox="0 0 32 32"><path d="M3 2 L3 26 L9.5 19.8 L13.6 29 L18 27 L14 18 L23 18 Z" fill="#fff" stroke="#141414" stroke-width="1.6" stroke-linejoin="round"/></svg>
+</div>
+
+<script>
+const $ = (id) => document.getElementById(id);
+const clamp = (x, a = 0, b = 1) => Math.min(b, Math.max(a, x));
+const prog = (t, a, b) => clamp((t - a) / (b - a));
+const lerp = (a, b, k) => a + (b - a) * k;
+const eOut = (k) => 1 - Math.pow(1 - k, 3);
+const eOutQ = (k) => 1 - Math.pow(1 - k, 5);
+const eInOut = (k) => (k < 0.5 ? 4 * k * k * k : 1 - Math.pow(-2 * k + 2, 3) / 2);
+const eIn = (k) => k * k * k;
+const eBack = (k) => { const c1 = 2.0, c3 = c1 + 1; return 1 + c3 * Math.pow(k - 1, 3) + c1 * Math.pow(k - 1, 2); };
+const set = (el, css) => Object.assign(el.style, css);
+const mixHex = (a, b, k) => {
+  const pa = [1, 3, 5].map((i) => parseInt(a.slice(i, i + 2), 16));
+  const pb = [1, 3, 5].map((i) => parseInt(b.slice(i, i + 2), 16));
+  return `rgb(${pa.map((v, i) => Math.round(lerp(v, pb[i], k))).join(",")})`;
+};
+// Visibility window: fade in over [a, a+fi], out over [b-fo, b]
+const win = (t, a, b, fi = 0.25, fo = 0.3) => Math.min(prog(t, a, a + fi), 1 - prog(t, b - fo, b));
+
+/* ---------- Cursor choreography ---------- */
+const CUR = [
+  { t: 0.0, x: 1750, y: 1150 }, { t: 0.85, x: 1330, y: 560 }, { t: 2.9, x: 1330, y: 560 },
+  { t: 3.6, x: 1600, y: 900 }, { t: 5.1, x: 1700, y: 1000 },
+  { t: 5.9, x: 486, y: 610 }, { t: 6.3, x: 486, y: 610 },          // toggle
+  { t: 6.9, x: 874, y: 640 }, { t: 7.05, x: 874, y: 640 },         // slider grab
+  { t: 7.85, x: 1086, y: 640 }, { t: 8.0, x: 1086, y: 640 },       // slider release
+  { t: 8.5, x: 1424, y: 590 }, { t: 8.8, x: 1424, y: 590 },        // heart
+  { t: 9.6, x: 1880, y: 1180 }, { t: 17.6, x: 1880, y: 1180 },
+  { t: 18.75, x: 1190, y: 785 }, { t: 20.0, x: 1190, y: 785 },
+];
+const CLICKS = [1.0, 1.7, 2.4, 6.05, 8.55, 18.9];
+const PRESS = [[7.05, 7.9]]; // held drag
+function cursorAt(t) {
+  let i = 0;
+  while (i < CUR.length - 2 && t > CUR[i + 1].t) i++;
+  const a = CUR[i], b = CUR[i + 1];
+  const k = eInOut(prog(t, a.t, b.t));
+  // slight arc for more natural motion
+  const arc = Math.sin(k * Math.PI) * 0.08 * Math.hypot(b.x - a.x, b.y - a.y);
+  return { x: lerp(a.x, b.x, k) - arc * 0.35, y: lerp(a.y, b.y, k) - arc * 0.6 };
+}
+const ripples = CLICKS.map(() => { const d = document.createElement("div"); d.className = "ripple"; $("ripples").appendChild(d); return d; });
+
+/* ---------- Scene 1 setup ---------- */
+const slotWords = [...$("slot").children];
+let slotWidths = [];
+
+/* ---------- Scene 2 particles ---------- */
+const particles = Array.from({ length: 10 }, (_, i) => { const p = document.createElement("div"); p.className = "particle"; $("particles").appendChild(p); return { el: p, ang: (i / 10) * Math.PI * 2 + 0.3 }; });
+
+/* ---------- Scene 3 setup ---------- */
+const SERVICES = ["Interaction Design", "Product Design & Prototyping", "Motion Design", "UX Research & Testing"];
+const rows = SERVICES.map((s, i) => {
+  const r = document.createElement("div");
+  r.className = "row";
+  r.style.top = 260 + i * 172 + "px";
+  r.innerHTML = `<div class="num">0${i + 1}</div><div class="title display"><span>${s}</span></div><div class="rule"><i></i></div>
+    <svg class="arrow" viewBox="0 0 24 24" fill="none" stroke="#fabc9b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M9 7h8v8"/></svg>`;
+  $("rows").appendChild(r);
+  return { el: r, title: r.querySelector(".title span"), num: r.querySelector(".num"), rule: r.querySelector(".rule i"), arrow: r.querySelector(".arrow") };
+});
+const CHIPS = [["Figma", 1100, 128], ["Framer", 1285, 128], ["After Effects", 1490, 128]];
+const chips = CHIPS.map(([txt, x, y]) => { const c = document.createElement("div"); c.className = "chip"; c.textContent = txt; set(c, { left: x + "px", top: y + "px" }); $("chips").appendChild(c); return { el: c, x, y }; });
+
+/* ---------- Scene 4 setup ---------- */
+const SHOTS = [
+  ["../public/media/XDTFM9Y9JlG7SKESMM5sXAWVE.jpg", "AnyWorkX · Vendor onboarding"],
+  ["../public/media/dOyj9FQcxeSHQSVKA7PQoHke6k.jpg", "eCitiBiz · Government services"],
+  ["../public/media/NAHig5m7Pq6K5st4lXXqekHgY.jpg", "Prixon · Smart TV experience"],
+  ["../public/media/pIcapelQfSS5teiijlFLC7PFnCM.jpg", "Delta State IRS · Field-first tax"],
+];
+const shots = SHOTS.map(([src, tag], i) => {
+  const s = document.createElement("div");
+  s.className = "shot";
+  s.innerHTML = `<img src="${src}"/><div class="tag">${tag}</div>`;
+  $("strip").appendChild(s);
+  return s;
+});
+
+/* ---------- Scene 5 setup ---------- */
+const NAME = "Azeem Gbadamosi";
+const nameChars = [...NAME].map((ch) => { const s = document.createElement("span"); s.className = "ch"; s.innerHTML = ch === " " ? "&nbsp;" : ch; $("name").appendChild(s); return s; });
+
+function init() {
+  slotWidths = slotWords.map((w) => w.getBoundingClientRect().width);
+}
+
+/* ---------- Render ---------- */
+window.render = function (t) {
+  // Background
+  set($("grid"), { transform: `translate(${-(t * 14) % 40}px, ${-(t * 8) % 40}px)` });
+  const gx = 960 + Math.sin(t * 0.45) * 520 - 700, gy = 540 + Math.cos(t * 0.35) * 260 - 700;
+  set($("glow"), { transform: `translate(${gx}px, ${gy}px)` });
+
+  /* Scene 1: 0 – 5.2 */
+  {
+    const vis = t < 5.3;
+    set($("s1"), { display: vis ? "block" : "none" });
+    if (vis) {
+      const inK = eOutQ(prog(t, 0.15, 0.85));
+      set($("every"), { display: "inline-block", transform: `translateY(${(1 - inK) * 110}%)` });
+      // slot cycling
+      const switches = [1.0, 1.7, 2.4];
+      let pos = 0;
+      switches.forEach((s) => (pos += eInOut(prog(t, s, s + 0.42))));
+      slotWords.forEach((w, i) => {
+        const off = i - pos;
+        const enter = i === 0 ? eOutQ(prog(t, 0.3, 0.95)) : 1;
+        set(w, { transform: `translateY(${off * 108 + (1 - enter) * 108}%)`, opacity: clamp(1 - Math.abs(off) * 1.25) });
+      });
+      const wi = Math.min(Math.floor(pos), 3), wf = pos - wi;
+      const width = lerp(slotWidths[wi], slotWidths[Math.min(wi + 1, 3)], wf);
+      set($("slot"), { width: width + "px" });
+
+      // Move up & shrink, sub line appears
+      const up = eInOut(prog(t, 3.0, 3.6));
+      const out = eIn(prog(t, 4.75, 5.25));
+      set($("s1line"), { transform: `translateY(${-up * 70 - out * 160}px) scale(${1 - up * 0.12})`, opacity: 1 - out });
+      const s1 = eOutQ(prog(t, 3.25, 3.9)), s2 = eOutQ(prog(t, 3.45, 4.1));
+      set($("w1"), { transform: `translateY(${(1 - s1) * 110}%)` });
+      set($("w2"), { transform: `translateY(${(1 - s2) * 110}%)` });
+      set($("s1sub"), { transform: `translateY(${-up * 60 - out * 160}px)`, opacity: 1 - out });
+      const w2r = $("w2").getBoundingClientRect();
+      const ul = eInOut(prog(t, 3.95, 4.5));
+      set($("underline"), { left: w2r.left + "px", top: w2r.bottom + 8 + "px", width: w2r.width + "px", transform: `scaleX(${ul})`, opacity: 1 - out });
+    }
+  }
+
+  /* Scene 2: 5.0 – 9.8 */
+  {
+    const vis = t > 4.95 && t < 9.9;
+    set($("s2"), { display: vis ? "block" : "none" });
+    if (vis) {
+      const out = eIn(prog(t, 9.35, 9.8));
+      set($("s2label"), { opacity: prog(t, 5.05, 5.4) * (1 - out) });
+      set($("s2h"), { transform: `translateY(${(1 - eOutQ(prog(t, 5.1, 5.7))) * 110}%)`, opacity: 1 - out });
+      ["c1", "c2", "c3"].forEach((id, i) => {
+        const k = eBack(prog(t, 5.25 + i * 0.12, 5.85 + i * 0.12));
+        const o = eIn(prog(t, 9.3 + i * 0.06, 9.75 + i * 0.06));
+        set($(id), { transform: `translateY(${(1 - k) * 140 + o * 200}px) scale(${0.85 + 0.15 * k})`, opacity: clamp(k * 1.5) * (1 - o) });
+      });
+      // Toggle
+      const tk = eBack(prog(t, 6.05, 6.45));
+      set($("knob"), { left: lerp(12, 120, tk) + "px", transform: `scaleX(${1 + Math.sin(prog(t, 6.05, 6.35) * Math.PI) * 0.25})` });
+      set($("track"), { background: mixHex("#333333", "#fabc9b", clamp(tk)) });
+      // Slider
+      const sk = eInOut(prog(t, 7.05, 7.85));
+      const pct = lerp(0.2, 0.86, sk);
+      const pressed = t > 7.0 && t < 7.95;
+      set($("sFill"), { width: pct * 320 + "px" });
+      set($("sKnob"), { left: pct * 320 + "px", transform: `scale(${pressed ? 1.18 : 1})` });
+      set($("sVal"), { left: pct * 320 + "px", transform: `translateY(${pressed ? 0 : 14}px) scale(${pressed ? 1 : 0.8})`, opacity: pressed ? 1 : 0 });
+      $("sVal").textContent = Math.round(pct * 100);
+      // Heart
+      const hk = prog(t, 8.55, 9.05);
+      const pop = t < 8.55 ? 1 : 1 + Math.sin(clamp(hk * 1.4) * Math.PI) * 0.35;
+      set($("heart"), { transform: `scale(${t > 8.5 && t < 8.58 ? 0.88 : pop})` });
+      $("heartPath").setAttribute("fill", t >= 8.55 ? "#fabc9b" : "none");
+      $("heartPath").setAttribute("stroke", t >= 8.55 ? "#fabc9b" : "#ffffff");
+      $("hCount").textContent = t >= 8.6 ? "128" : "127";
+      set($("hCount"), { color: t >= 8.6 ? "#fabc9b" : "#fff" });
+      particles.forEach((p) => {
+        const d = eOut(hk) * 150;
+        set(p.el, { left: 220 + Math.cos(p.ang) * d + "px", top: 140 + Math.sin(p.ang) * d + "px", opacity: t < 8.55 ? 0 : 1 - hk, transform: `scale(${1 - hk * 0.6})` });
+      });
+    }
+  }
+
+  /* Scene 3: 9.6 – 13.8 */
+  {
+    const vis = t > 9.55 && t < 13.9;
+    set($("s3"), { display: vis ? "block" : "none" });
+    if (vis) {
+      set($("s3label"), { opacity: prog(t, 9.6, 9.95) * (1 - prog(t, 13.3, 13.6)) });
+      rows.forEach((r, i) => {
+        const a = 9.75 + i * 0.3;
+        const k = eOutQ(prog(t, a, a + 0.6));
+        const o = eIn(prog(t, 13.25 + i * 0.07, 13.7 + i * 0.07));
+        set(r.title, { transform: `translateY(${(1 - k) * 120 - o * 120}%)` });
+        set(r.num, { opacity: prog(t, a + 0.1, a + 0.4) * (1 - o) });
+        set(r.rule, { width: eInOut(prog(t, a + 0.15, a + 0.9)) * 100 + "%", opacity: 1 - o });
+        // highlight sweep: each row lights up in turn
+        const hl = Math.sin(Math.PI * prog(t, 11.4 + i * 0.4, 12.1 + i * 0.4));
+        set(r.title, { color: mixHex("#ffffff", "#fabc9b", clamp(hl * 1.3)) });
+        set(r.arrow, { opacity: clamp(hl * 1.5) * (1 - o), transform: `translate(${-20 + hl * 20}px, ${20 - hl * 20}px)` });
+        set(r.el.querySelector(".rule"), { opacity: 1 - o });
+      });
+      chips.forEach((c, i) => {
+        const k = eBack(prog(t, 10.9 + i * 0.18, 11.4 + i * 0.18));
+        const o = prog(t, 13.2, 13.55);
+        set(c.el, { transform: `translate(${Math.sin(t * 1.2 + i) * 10}px, ${Math.cos(t * 1.0 + i * 2) * 10 - (1 - k) * 40}px) scale(${0.6 + 0.4 * k})`, opacity: clamp(k) * (1 - o) });
+      });
+    }
+  }
+
+  /* Scene 4: 13.6 – 17.4 */
+  {
+    const vis = t > 13.55 && t < 17.45;
+    set($("s4"), { display: vis ? "block" : "none" });
+    if (vis) {
+      set($("s4label"), { opacity: prog(t, 13.65, 14.0) });
+      set($("s4h"), { transform: `translateY(${(1 - eOutQ(prog(t, 13.7, 14.3))) * 110}%)` });
+      const enter = eOutQ(prog(t, 13.7, 14.6));
+      const drift = (t - 13.7) * 150;
+      const base = 180 + (1 - enter) * 1400 - drift;
+      shots.forEach((s, i) => {
+        const x = base + i * 700;
+        const lag = eOutQ(prog(t, 13.7 + i * 0.08, 14.7 + i * 0.08));
+        set(s, { left: x + (1 - lag) * 300 + "px", transform: `rotate(${(1 - lag) * 4}deg)` });
+      });
+      const k1 = eBack(prog(t, 14.5, 15.0)), k2 = eBack(prog(t, 15.4, 15.9));
+      set($("stat1"), { transform: `translateY(${(1 - k1) * 60}px)`, opacity: clamp(k1) });
+      set($("stat2"), { transform: `translateY(${(1 - k2) * 60}px)`, opacity: clamp(k2) });
+      const c = eOut(prog(t, 14.7, 15.8));
+      $("kyc").textContent = `35% → ${Math.round(lerp(35, 71, c))}%`;
+    }
+  }
+
+  /* Wipe transition 16.9 – 17.8 */
+  {
+    const grow = eInOut(prog(t, 16.95, 17.4));
+    const fade = prog(t, 17.4, 17.8);
+    set($("wipe"), { transform: `scale(${grow * 240})`, opacity: t < 16.95 ? 0 : 1 - fade, display: t > 16.9 && t < 17.85 ? "block" : "none" });
+  }
+
+  /* Scene 5: 17.4 – 20 */
+  {
+    const vis = t > 17.35;
+    set($("s5"), { display: vis ? "block" : "none" });
+    if (vis) {
+      nameChars.forEach((c, i) => {
+        const k = eOutQ(prog(t, 17.45 + i * 0.035, 18.05 + i * 0.035));
+        set(c, { transform: `translateY(${(1 - k) * 80}px) rotate(${(1 - k) * 8}deg)`, opacity: k });
+      });
+      const r = eOut(prog(t, 18.0, 18.5));
+      set($("role"), { transform: `translateY(${(1 - r) * 30}px)`, opacity: r });
+      const ck = eBack(prog(t, 18.3, 18.8));
+      const press = t > 18.9 && t < 19.05 ? 0.93 : 1;
+      const w = $("cta").offsetWidth;
+      set($("cta"), { marginLeft: -w / 2 + "px", transform: `scale(${(0.7 + 0.3 * ck) * press})`, opacity: clamp(ck * 1.4), boxShadow: `0 0 ${prog(t, 18.9, 19.6) * 120}px rgba(250,188,155,${0.45 * (1 - prog(t, 19.3, 20))})` });
+      const e = eOut(prog(t, 18.6, 19.1));
+      set($("email"), { transform: `translateY(${(1 - e) * 20}px)`, opacity: e });
+    }
+  }
+
+  /* Cursor */
+  const c = cursorAt(t);
+  const pressed = CLICKS.some((ct) => t >= ct - 0.04 && t < ct + 0.1) || PRESS.some(([a, b]) => t >= a && t < b);
+  set($("cursor"), { transform: `translate(${c.x - 6}px, ${c.y - 4}px) scale(${pressed ? 0.82 : 1})` });
+  CLICKS.forEach((ct, i) => {
+    const k = prog(t, ct, ct + 0.6);
+    const p = cursorAt(ct);
+    const r = eOut(k) * 90;
+    set(ripples[i], { left: p.x - r + "px", top: p.y - r + "px", width: r * 2 + "px", height: r * 2 + "px", opacity: t < ct ? 0 : (1 - k) * 0.9, borderWidth: 4 * (1 - k) + 1 + "px" });
+  });
+};
+
+window.ready = document.fonts.ready.then(() => Promise.all([...document.images].map((img) => img.complete ? 1 : new Promise((r) => (img.onload = img.onerror = r))))).then(() => { init(); render(0); return true; });
+
+// Live preview when opened directly in a browser: ?t=seconds to scrub, otherwise loops.
+if (!window.__RENDERING__) {
+  window.ready.then(() => {
+    const q = new URLSearchParams(location.search).get("t");
+    if (q) return render(parseFloat(q));
+    const t0 = performance.now();
+    const loop = () => { render(((performance.now() - t0) / 1000) % 20); requestAnimationFrame(loop); };
+    loop();
+  });
+}
+</script>
+</body>
+</html>
